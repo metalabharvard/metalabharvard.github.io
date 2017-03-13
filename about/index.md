@@ -45,7 +45,9 @@ include: true
 					<div class='text fontsize_1 fontcolor_b'>
 						<div><span class="obj_meta_type">Name</span> <div class="obj_meta_tab">{{ person.name }}</div></div>
 						<div><span class="obj_meta_type">Title</span> <div class="obj_meta_tab">{{ person.title }}</div></div>
-						<div><span class="obj_meta_type">Twtr.</span> <div class="obj_meta_tab"><a href="https://twitter.com/{{ person.twitter }}" target="_blank">{{ person.twitter }}</a></div></div>
+						{% if person.twitter %}
+							<div><span class="obj_meta_type">Twtr.</span> <div class="obj_meta_tab"><a href="https://twitter.com/{{ person.twitter }}" target="_blank">{{ person.twitter }}</a></div></div>
+						{% endif %}
 						<div><span class="obj_meta_type">Insta.</span> <div class="obj_meta_tab"><a href="https://instagram.com/{{ person.instagram }}" target="_blank">{{ person.instagram }}</a></div></div>
 						<div><span class="obj_meta_type">Port.</span> <div class="obj_meta_tab"><a href="http://{{ person.website }}" target="_blank">{{ person.website }}</a></div></div>
 					</div>
