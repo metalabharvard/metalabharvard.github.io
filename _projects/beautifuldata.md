@@ -1,7 +1,7 @@
 ---
 name: Beautiful Data
 layout: project
-type: project
+type: workshop
 year: 2015
 stat: complete
 featured: false
