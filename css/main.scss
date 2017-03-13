@@ -1,0 +1,217 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+// Our variables
+//$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$base-font-family: 'Roboto', sans-serif;;
+$base-font-size:   15px;
+$base-font-weight: 400;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.3;
+
+$spacing-unit:     35px; //80
+$minspacing-unit:  50px;
+$element-width:    200px;
+
+$text-color:       #111;
+$background-color: #fdfdfd;
+$brand-color:      #2a7ae2;
+
+$grey-color:       #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+// Width of the content area
+$content-width:    auto;
+
+$on-palm:          600px;
+$on-laptop:        700px;
+
+// Minima also includes a mixin for defining media queries.
+// Use media queries like this:
+// @include media-query($on-palm) {
+//     .wrapper {
+//         padding-right: $spacing-unit / 2;
+//         padding-left: $spacing-unit / 2;
+//     }
+// }
+
+// Import partials from the `minima` theme.
+@import "minima";
+
+.page-content{
+	padding: 0!important;
+	margin: 0!important;
+}
+.wrapper{
+	padding: 0;
+	min-width: ($element-width*2);
+	max-width: $element-width*7;
+}
+.project_metadetails{
+	max-width: $element-width*2;
+}
+
+@include media-query($on-palm) {
+	.grid,.project {
+	    margin-top: 0px;
+	}	
+	.menu_right{
+		margin: 15px 5px!important;
+		width: 18px!important;
+		position: relative;
+		z-index: 99999!important;
+	}
+	.menu_left{
+		margin: 0px 10px!important;
+	}
+	.ml_logo{
+		width: 35px!important;
+		pointer-events:none!important;
+	}
+	.nav{
+		font-size: 15px;
+		padding-top: 80px!important;
+	}
+	.site-nav{
+		left:0;
+		right:0;
+		top: 0;
+		background:transparent;
+		border:0;
+	}
+	.site-nav-inner{
+		padding: 13px 0px;
+	}
+	.site-header{
+		height: 60px;
+	}
+	.site-header-inner{
+		background:white;
+		height: 60px!important;
+		overflow: visible!important;
+	}
+	.menu-icon,.menu_left_elem{
+		margin-left: 45px;
+	}
+	.trigger{
+		//position: absolute;
+		//top: 58px;
+		z-index: -1!important;
+		background:white;
+		padding-bottom: 45px!important;
+	}
+	.menu_left_elem{
+		padding: 10px 0!important;
+		height: 10vw!important;
+
+	}
+	.menu_left_elem a{
+		font-size: 10vw;
+		font-family: 'Roboto Mono', monospace;
+		font-weight: normal!important;
+	}
+	.page-link{
+		margin: 0!important;
+	}
+	.header_desc{
+		margin-top: 0px; //50
+	}
+	.dashmobile{
+		display: inline-block!important;
+	}
+	.inf_module_footer{
+	  padding-top: 80px!important;
+	  padding-bottom: 40px!important;
+	}
+}
+
+@media (min-width: ($element-width*1)+$minspacing-unit) {
+	.wrapper {
+		//background: blue;
+		width: $element-width*2;
+	}
+}
+@media (min-width: ($element-width*4)+$minspacing-unit) {
+	.wrapper {
+		//background: red;
+		width: $element-width*3;
+	}
+	.project_right{
+		width: $element-width*1;
+	}
+	.project_left{
+		width: $element-width*2;
+	}
+}
+@media (min-width: ($element-width*5)+$minspacing-unit) {
+	.wrapper {
+		//background: purple;
+		width: $element-width*4;
+	}
+	.project_right{
+		width: $element-width*2;
+	}
+}
+@media (min-width: ($element-width*6)+$minspacing-unit) {
+	.wrapper {
+		//background: pink;
+		width: $element-width*5;
+	}
+	.project_right{
+		width: $element-width*2;
+	}
+	.project_left{
+		width: $element-width*3!important;
+	}
+	.project_left .project_inner{
+		width: (($element-width*3)-70)!important;
+	}
+}
+@media (min-width: ($element-width*7)+$minspacing-unit) {
+	.wrapper {
+		//background: gray;
+		width: $element-width*6;
+	}
+	.project_right{
+		width: $element-width*3;
+	}
+}
+
+
+@media (max-width: ($element-width*4)+$minspacing-unit) {
+	.image{
+		height: 427px!important;
+	}
+	.short{
+		width: 400px!important;
+		height: 520px!important;
+		margin-bottom: 50px;
+	}
+	.elem_inner{
+		width: 330px!important;
+	}
+	.fontsize_4{
+		font-size: 4vh!important;
+	}
+}
+
+
+@media (max-width: ($element-width*5)+$minspacing-unit) and (min-width: ($element-width*4)+$minspacing-unit) {
+	.project_inner .featured .image{
+		height: 168px!important;
+	}
+	.project_inner .short.featured{
+		width: 200px!important;
+		height: 300px!important;
+	}
+	.project_inner .featured .elem_inner{
+		width: 130px!important;
+	}
+}
+
+
+
+

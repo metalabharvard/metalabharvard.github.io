@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {% include head.html %}
+
+
+
+
+
+
+  <body>
+
+    {% include header.html %}
+
+  <div class="inf_module_footer mobind">
+      {% include footer.html %}
+  </div> 
+
+  <div class="inf_module_header ind">
+    <div class="wrapper">
+    <div class="header_desc fontsize_4">
+      We are an <span>idea foundry</span>, <span>knowledge-design lab</span>, and <span>production studio</span> dedicated to innovation and experimen<span class="dashmobile">- </span>tation in the networked arts and humanities.
+    </div>
+    </div>
+  </div>
+ 
+  <div class="projects">
+    <div class="wrapper">
+      {{ content }}
+    </div>
+  </div>
+ 
+  <div class="is-clone inf_module_footer">
+      {% include footer.html %}
+  </div>
+  
+
+  </body>
+
+
+
+
+
+
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+	<script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
+
+	
+	{% if page.custom_js %}
+		{% for js_file in page.custom_js %}	
+			<script src="{{ site.baseurl }}/js/{{ js_file }}.js"></script>
+		{% endfor %}
+	{% endif %}
+</script>
+
+
+  <!--<script src="{{ site.baseurl }}/js/continuous_scroll.js"></script>-->
+
+
+</html>
