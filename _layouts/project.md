@@ -65,8 +65,6 @@ custom_js:
 			</br>
 			<span class="obj_meta_type">Status:</span>
 			<span class="obj_meta_tab2">Active</span>
-			{% else %}
-			<span class="obj_meta_tab2">{{ page.year }}</span>
 		{% endif %}	
 			
 	</div><!--end project_metadetails-->	
@@ -79,7 +77,7 @@ custom_js:
 		{% endif %}
 	
 		{% if page.research-questions %}
-			<div class="obj_meta fontsize_3">
+			<div class="obj_meta fontsize_2">
 				{% for question in page.research-questions %}
 					{{ question }} <br />
 				{% endfor %}
@@ -96,7 +94,7 @@ custom_js:
 			</br>
 			<span class="obj_meta_type">Contact:</span></br>
 			<div class="obj_meta">
-				<a href="../../people/{{ page.contact-person }}">{{ page.contact-person }}</a> \\ <a href='mailto:{{ page.contact-email }}'>email</a>
+				{{ page.contact-person }} \\ <a href='mailto:{{ page.contact-email }}'>email</a>
 			</div>
 		{% endif %}
 		

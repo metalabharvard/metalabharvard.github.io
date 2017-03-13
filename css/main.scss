@@ -52,6 +52,7 @@ $on-laptop:        700px;
 }
 .project_metadetails{
 	max-width: $element-width*2;
+	padding-bottom: 40px;
 }
 
 @include media-query($on-palm) {
