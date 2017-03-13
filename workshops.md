@@ -30,7 +30,7 @@ custom_js:
 			<div class="elem_inner">
 				<a href="{{ site.baseurl }}{{ project.url }}">
 					{% if project.thumbnail_format %}
-						<div class="image cover" style="background-image:url('{{ site.baseurl }}/assets/teaching/{{ project.slug }}.{{ project.thumbnail_format }}')"></div>	
+						<div class="image cover" style="background-image:url('{{ site.baseurl }}/assets/projects/{{ project.slug }}.{{ project.thumbnail_format }}')"></div>	
 					{% else %}
 						<div class="image cover" style="background-image:url('{{ site.baseurl }}/assets/teaching/{{ project.slug }}.jpg')"></div>	
 					{% endif %}
