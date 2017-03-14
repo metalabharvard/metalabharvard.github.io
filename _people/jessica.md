@@ -1,5 +1,6 @@
 ---
-name: Jessica Yurkofsky
+name: Jessica
+lastname: Yurkofsky
 layout: person
 title: Creative Technologist, Principal
 one-line: exploring how we navigate space and make meaning

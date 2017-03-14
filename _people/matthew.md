@@ -1,5 +1,6 @@
 ---
-name: Matthew Battles
+name: Matthew
+lastname: Battles
 layout: person
 title: Associate Director
 one-line: 

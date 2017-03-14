@@ -1,5 +1,6 @@
 ---
-name: Sarah Newman
+name: Sarah
+lastname: Newman
 layout: person
 title: Creative Researcher
 one-line: 

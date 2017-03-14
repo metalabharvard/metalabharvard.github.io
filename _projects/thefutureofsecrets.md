@@ -6,7 +6,7 @@ year: 2016
 stat: ongoing
 featured: true
 
-collaborators:
+collaborators: 
 context: Letters
 contact-email: snewman@metalab.harvard.edu
 contact-person: sarah
@@ -20,7 +20,7 @@ thumbnail_format:
 
 media:
   - medium:
-    image: trust.jpg
+    image: IMG_2882.jpg
     id: 00
     stat: featured
   - medium:
@@ -36,7 +36,7 @@ media:
     image: IMG_2612.jpg
     id: 04
   - medium:
-    image: IMG_2882.jpg
+    image: trust.jpg
     id: 05
   - medium:
     image: MFA.png
@@ -61,14 +61,17 @@ press:
 
 
 
+
 bibliography:
 
 
-tweet-summary: TRUST (the presence of secrets) is an interactive installation designed by Sarah Newman and Jessica Yurkofsky. The installation considers what might happen to our digital correspondence – now, and in the future. 
+
+
+tweet-summary: TRUST (the presence of secrets) is an interactive installation that considers what might happen to our digital correspondence now and in the future. 
 
 
 research-questions:
-  - What are the personal, cultural, and political implications of digital correspondence? 
+  - Is it possible to delete something once it has been distributed in the digital world? 
   - Into whose hands might our secrets fall?
 
 
@@ -76,13 +79,14 @@ research-questions:
 ---
 
 
-“With the smallest as with the greatest happiness, however, there is always one thing which makes it happiness: being able to forget or, to express it in a more learned fashion, the capacity to live unhistorically while it endures.”
-         - Nietzsche, On the Advantage and Disadvantage of History for Life, 1874
+> &#8220;With the smallest as with the greatest happiness, however, there is always one thing which makes it happiness: being able to forget or, to express it in a more learned fashion, the capacity to live unhistorically while it endures.&#8221;
+>
+> <sub>&#45; Nietzsche, On the Advantage and Disadvantage of History for Life, 1874</sub>
 
 The conversation about digital selves contends with a variety of platforms, including email as well as text message and social media. But the terms of that conversation focus almost entirely on the technical and policy dimensions that concern us—on privacy, and the right to be forgotten; on legal questions of copyright and protecting information. We spend too little time considering the human experience at the heart of these systems. What does it mean to be a feeling, individual, desiring self, communicating today, electronically? What are the future implications of the way we transact (and retrieve) our private lives – considering that, in most cases, we cannot locate or retract the things we electronically release into the world?
 
 With email we have archives at our fingertips. These archives now exist in the world in unprecedented and unpredictable ways. Yes, everything could be lost – or everything could remain; the consequences of this quantity of information in the world are impossible to determine but essential to consider. 
 
-*The Future of Secrets* is an exploration of this dilemma. Through artistic installations and more traditional research, the project considers questions such as:  Will our great-grandchildren read the words we type now, including our private correspondence? How might this affect their understandings of us, and of themselves? Is it possible to delete something once it has been distributed in the digital world?
+The Future of Secrets is an exploration of this dilemma. Through artistic installations and more traditional research, the project considers questions such as:  Will our great-grandchildren read the words we type now, including our private correspondence? How might this affect their understandings of us, and of themselves? 
 
 TRUST (the presence of secrets) is an interactive art installation inspired by this research. The installation considers what might happen to our digital correspondence – now, and in the future. The piece was first installed as part of the mfaNOW series at the Museum of Fine Arts Boston in the Fall of 2016. Drawing on themes of privacy, identity, surveillance, chance, “truth”, and the distributed self, the installation playfully and provocatively raises questions about cultural norms, individual identity, and uncertain futures.

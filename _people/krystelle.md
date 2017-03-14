@@ -1,5 +1,6 @@
 ---
-name: Krystelle Denis
+name: Krystelle
+lastname: Denis
 layout: person
 title: Designer, Technologist
 one-line: 
