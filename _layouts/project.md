@@ -77,7 +77,7 @@ custom_js:
 		{% endif %}
 	
 		{% if page.research-questions %}
-			<div class="obj_meta fontsize_2">
+			<div class="obj_meta research_questions fontsize_2">
 				{% for question in page.research-questions %}
 					{{ question }} <br />
 				{% endfor %}

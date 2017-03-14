@@ -145,13 +145,7 @@ a:hover {
 	height: 836px;
 	width: 646px;	
 }
-.nav{
-  padding: 55px 35px 55px 0;
-  font-weight: bold;
-}
-.nav a{
-	padding: 0 35px;
-}
+
 .short{
 	width: 200px;
 	height: 300px;
@@ -264,7 +258,12 @@ a.fontcolor_b:hover{
 	.obj_meta{
 		font-weight: bold;
 	}
-
+	.research_questions{
+		padding-left: 30px;
+	}
+	blockquote{
+		padding-left: 25px;
+	}
 	.view_all{
 		display: none;
 		color: #bbb!important;
@@ -292,6 +291,13 @@ a.fontcolor_b:hover{
 		margin: 0 20px;
 	}
 .inf_module_footer{
-  padding-top: 55px;
-  padding-bottom: 55px;
+  padding-top: 35px;
+  padding-bottom: 25px;
+}
+.nav{
+  padding: 55px 35px 55px 0;
+  font-weight: bold;
+}
+.nav a{
+	padding: 0 35px;
 }
