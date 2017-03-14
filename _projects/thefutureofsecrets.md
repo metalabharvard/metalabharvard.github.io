@@ -61,13 +61,12 @@ press:
 
 
 
-
 bibliography:
 
 
 
 
-tweet-summary: TRUST (the presence of secrets) is an interactive installation that considers what might happen to our digital correspondence now and in the future. 
+tweet-summary: An artistic research project that considers what might happen to our private digital correspondence in the future.  
 
 
 research-questions:
@@ -77,8 +76,6 @@ research-questions:
 
 
 ---
-
-
 > &#8220;With the smallest as with the greatest happiness, however, there is always one thing which makes it happiness: being able to forget or, to express it in a more learned fashion, the capacity to live unhistorically while it endures.&#8221;
 >
 > <sub>&#45; Nietzsche, On the Advantage and Disadvantage of History for Life, 1874</sub>
@@ -87,6 +84,6 @@ The conversation about digital selves contends with a variety of platforms, incl
 
 With email we have archives at our fingertips. These archives now exist in the world in unprecedented and unpredictable ways. Yes, everything could be lost – or everything could remain; the consequences of this quantity of information in the world are impossible to determine but essential to consider. 
 
-The Future of Secrets is an exploration of this dilemma. Through artistic installations and more traditional research, the project considers questions such as:  Will our great-grandchildren read the words we type now, including our private correspondence? How might this affect their understandings of us, and of themselves? 
+**The Future of Secrets** is an exploration of this dilemma. Through artistic installations and more traditional research, the project considers questions such as:  *Will our great-grandchildren read the words we type now, including our private correspondence? How might this affect their understandings of us, and of themselves?* 
 
-TRUST (the presence of secrets) is an interactive art installation inspired by this research. The installation considers what might happen to our digital correspondence – now, and in the future. The piece was first installed as part of the mfaNOW series at the Museum of Fine Arts Boston in the Fall of 2016. Drawing on themes of privacy, identity, surveillance, chance, “truth”, and the distributed self, the installation playfully and provocatively raises questions about cultural norms, individual identity, and uncertain futures.
+*TRUST (the presence of secrets)* is an interactive art installation inspired by this research. The installation considers what might happen to our digital correspondence – now, and in the future. The piece was first installed as part of the mfaNOW series at the Museum of Fine Arts Boston in the Fall of 2016. Drawing on themes of privacy, identity, surveillance, chance, “truth”, and the distributed self, the installation playfully and provocatively raises questions about cultural norms, individual identity, and uncertain futures.

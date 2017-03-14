@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Workshops
+type: index
 permalink: /workshops/
 include: true
 custom_js:

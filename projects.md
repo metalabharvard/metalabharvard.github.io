@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Projects
+type: index
 permalink: /projects/
 include: true
 custom_js:

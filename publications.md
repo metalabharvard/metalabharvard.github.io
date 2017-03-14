@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Publications
+type: index
 permalink: /publications/
 include: true
 custom_js:
