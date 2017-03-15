@@ -54,6 +54,18 @@ include: true
 			</div>		
 		</div>	
 	{% endfor %}
+	<div class="people_ext" style="margin:35px 0 0 35px;float:left;">
+		Kim Albrecht<br />
+		Matthew Griffith<br />
+		Keith Hartwig<br />
+		Alison Head<br />
+		Daniele Ledda<br />
+		Peter McMurray<br />
+		Robert Roessler<br />
+		Pier Luigi Sacco<br />
+		Julianne VanWagenen
+	</div>
+
 </div>
 
 <div class="present_div fontsize_3">Partners</div>
