@@ -2,6 +2,7 @@
 layout: page
 title: About
 include: true
+type: index
 ---
 <style>
 	.about_grid .short{
@@ -55,15 +56,14 @@ include: true
 		</div>	
 	{% endfor %}
 	<div class="people_ext" style="margin:35px 0 0 35px;float:left;">
-		Kim Albrecht<br />
-		Matthew Griffith<br />
-		Keith Hartwig<br />
-		Alison Head<br />
-		Daniele Ledda<br />
-		Peter McMurray<br />
-		Robert Roessler<br />
-		Pier Luigi Sacco<br />
-		Julianne VanWagenen
+		Kim Albrecht, Data Visualization Designer<br />
+		Matthew Griffith, Editorial Coordinator<br />
+		Keith Hartwig, Graduate Researcher<br />
+		Alison Head, Faculty Affiliate<br />
+		Peter McMurray, Post-Doctoral Researcher<br />
+		Robert Roessler, Graduate Researcher<br />
+		Pier Luigi Sacco, Senior Researcher<br />
+		Julianne VanWagenen, Principal, Doctoral Researcher
 	</div>
 
 </div>
