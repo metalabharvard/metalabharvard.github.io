@@ -6,8 +6,11 @@ type: index
 ---
 <style>
 	.about_grid .short{
-		height: auto!important;
 	}
+	.about_grid .short.row2{
+		height: 100px;
+	}	
+	
 	.about_sum .elem_inner{
 		border: 2px solid red;
 		height: 400px!important;
@@ -39,32 +42,47 @@ type: index
 
 <div class="grid about_grid">
  {% assign project_elem = site.people | sort: 'lastname' %}
+
 	{% for person in project_elem %}
-		<div class="grid-item short">
-			<div class="elem_inner">
-					<div class="image cover" style="background-image:url('{{ site.baseurl }}/assets/people/{{ person.slug }}.jpg')"></div>		
-					<div class='text fontsize_1 fontcolor_b'>
-						<div><span class="obj_meta_type">Name</span> <div class="obj_meta_tab">{{ person.name }} {{ person.lastname }}</div></div>
-						<div><span class="obj_meta_type">Title</span> <div class="obj_meta_tab">{{ person.title }}</div></div>
-						{% if person.twitter %}
-							<div><span class="obj_meta_type">Twtr.</span> <div class="obj_meta_tab"><a href="https://twitter.com/{{ person.twitter }}" target="_blank">{{ person.twitter }}</a></div></div>
-						{% endif %}
-						<div><span class="obj_meta_type">Insta.</span> <div class="obj_meta_tab"><a href="https://instagram.com/{{ person.instagram }}" target="_blank">{{ person.instagram }}</a></div></div>
-						<div><span class="obj_meta_type">Port.</span> <div class="obj_meta_tab"><a href="http://{{ person.website }}" target="_blank">{{ person.website }}</a></div></div>
-					</div>
-			</div>		
-		</div>	
+		{% if person.row != 2 %}
+			<div class="grid-item short">
+				<div class="elem_inner">
+						<div class="image cover" style="background-image:url('{{ site.baseurl }}/assets/people/{{ person.slug }}.jpg')"></div>		
+						<div class='text fontsize_1 fontcolor_b'>
+							<div><span class="obj_meta_type">Name</span> <div class="obj_meta_tab"><a href="mailto:{{ person.email }}">{{ person.name }} {{ person.lastname }}</a></div></div>
+							<div><span class="obj_meta_type">Title</span> <div class="obj_meta_tab">{{ person.title }}</div></div>
+							{% if person.twitter %}
+								<div><span class="obj_meta_type">Twtr.</span> <div class="obj_meta_tab"><a href="https://twitter.com/{{ person.twitter }}" target="_blank">{{ person.twitter }}</a></div></div>
+							{% endif %}
+							<div><span class="obj_meta_type">Insta.</span> <div class="obj_meta_tab"><a href="https://instagram.com/{{ person.instagram }}" target="_blank">{{ person.instagram }}</a></div></div>
+							<div><span class="obj_meta_type">Port.</span> <div class="obj_meta_tab"><a href="http://{{ person.website }}" target="_blank">{{ person.website }}</a></div></div>
+						</div>
+				</div>		
+			</div>	
+		{% endif %}
 	{% endfor %}
-	<div class="people_ext" style="margin:35px 0 0 35px;float:left;">
-		Kim Albrecht, Data Visualization Designer<br />
-		Matthew Griffith, Editorial Coordinator<br />
-		Keith Hartwig, Graduate Researcher<br />
-		Alison Head, Faculty Affiliate<br />
-		Peter McMurray, Post-Doctoral Researcher<br />
-		Robert Roessler, Graduate Researcher<br />
-		Pier Luigi Sacco, Senior Researcher<br />
-		Julianne VanWagenen, Principal, Doctoral Researcher
-	</div>
+
+	{% for person in project_elem %}
+		{% if person.row == 2 %}
+			<div class="grid-item short row2">
+				<div class="elem_inner">
+						<div class='text fontsize_1 fontcolor_b'>
+							<div><span class="obj_meta_type">Name</span> <div class="obj_meta_tab">{{ person.name }} {{ person.lastname }}</div></div>
+							<div><span class="obj_meta_type">Title</span> <div class="obj_meta_tab">{{ person.title }}</div></div>
+							{% if person.twitter %}
+								<div><span class="obj_meta_type">Twtr.</span> <div class="obj_meta_tab"><a href="https://twitter.com/{{ person.twitter }}" target="_blank">{{ person.twitter }}</a></div></div>
+							{% endif %}
+							{% if person.instagram %}
+								<div><span class="obj_meta_type">Insta.</span> <div class="obj_meta_tab"><a href="https://instagram.com/{{ person.instagram }}" target="_blank">{{ person.instagram }}</a></div></div>
+							{% endif %}
+							{% if person.port %}							
+								<div><span class="obj_meta_type">Port.</span> <div class="obj_meta_tab"><a href="http://{{ person.website }}" target="_blank">{{ person.website }}</a></div></div>
+							{% endif %}
+						</div>
+				</div>		
+			</div>	
+		{% endif %}
+	{% endfor %}
 
 </div>
 

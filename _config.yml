@@ -28,8 +28,7 @@ theme: minima
 
 collections:
   people:
-    output: true
-    permalink: /people/:path/
+    output: false
   projects:
     output: true
     permalink: /projects/:path/
