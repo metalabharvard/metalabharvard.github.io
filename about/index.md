@@ -33,8 +33,13 @@ type: index
 		margin-top: 25px;
 	}
 	.partner_list a{
-		display: block
+		display: block;
 	}
+	
+	.grid-item.partners.short.featured {
+    height: 100%;
+	}
+	
 </style>
 
 
@@ -89,7 +94,7 @@ type: index
 <div class="present_div fontsize_3">Partners</div>
 <div class="grid about_grid">
 
-	<div class="grid-item short featured">
+	<div class="grid-item partners short featured">
 		<div class="elem_inner"><div class="inner">
 			With partners at the Berkman Klein Center, across the university, and in the world at large, metaLAB explores the digital arts and humanities through research, experimentation, tool building, teaching, through publications in print and online, and via exhibition, performance, and social practice. Our projects infuse traditional modes of academic inquiry with an enterprising spirit of hacking, making, and creative research.
 			<div class="partner_list">
