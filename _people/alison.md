@@ -2,7 +2,7 @@
 name: Alison
 lastname: Head
 layout: person
-title: Faculty Affiliate
+title: Senior Researcher
 row: 2
 one-line: 
 quote: 
