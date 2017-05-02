@@ -1,7 +1,7 @@
 ---
 name: Jeffrey
 lastname: Schnapp
-layout: person
+layout: project
 title: Founder, Principal, Faculty Director
 one-line: 
 quote: Eventually everything connects.

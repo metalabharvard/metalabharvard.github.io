@@ -28,7 +28,7 @@ theme: minima
 
 collections:
   people:
-    output: false
+    output: true
   projects:
     output: true
     permalink: /projects/:path/
@@ -41,3 +41,6 @@ collections:
   posts:
     output: true
     permalink: /posts/:path/
+  events:
+    output: true
+    permalink: /events/:path/

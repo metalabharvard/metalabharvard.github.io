@@ -34,7 +34,12 @@ custom_js:
 
 
 <div class="nav fontsize_1">
-	<a class="fontcolor_b" href="/{{ page.type }}s">< {{ page.type }}s</a> 
+	{% if page.type == person %}
+		<a class="fontcolor_b" href="/about">< about</a>
+	
+	{% else %}
+		<a class="fontcolor_b" href="/{{ page.type }}s">< {{ page.type }}s</a>
+	{% endif %} 
 </div>
 
 
@@ -44,15 +49,62 @@ custom_js:
 	<div class='left-bar'>
 	
 	<div class='project_metadetails fontsize_1'>
-		<span class="obj_meta_type">Title:</span>
+		<span class="obj_meta_type">{% if type == person %}Name:{% else %}Title:{% endif %}</span>
 		<span class="obj_meta_tab2">{{ page.name }}</span>
 
 		{% if page.year %}
 			</br>
 			<span class="obj_meta_type">Date:</span>
-			<span class="obj_meta_tab2">{{ page.year }}</span>
+			<span class="obj_meta_tab2">{% if page.fulldate %}{{page.fulldate}}{% else %}{{ page.year }}{% endif %}</span>
+		{% endif %}
+
+		{% if page.type == person %}
+	
+			{% if page.title %}
+				</br>
+				<span class="obj_meta_type">Title:</span>
+				<span class="obj_meta_tab2">
+					{{ page.title }}
+				</span>
+			{% endif %}
 		{% endif %}
 		
+		{% if page.twitter %}
+			</br>
+			<span class="obj_meta_type">Twtr::</span>
+			<span class="obj_meta_tab2">
+				<a href="https://twitter.com/{{ page.twitter }}" target="_blank">{{ page.twitter }}</a>
+			</span>
+		{% endif %}	
+
+		{% if page.instragram %}
+			</br>
+			<span class="obj_meta_type">Insta:</span>
+			<span class="obj_meta_tab2">
+				<a href="https://instagram.com/{{ page.twitter }}" target="_blank">{{ page.instagram }}</a>
+			</span>
+		{% endif %}	
+		
+		{% if page.website %}
+			</br>
+			<span class="obj_meta_type">Port:</span>
+			<span class="obj_meta_tab2">
+				<a href='http://{{ page.website }}' target='_blank'>{{ page.website }}</a>
+			</span>
+		{% endif %}
+
+		{% if page.email %}
+			</br>
+			<span class="obj_meta_type">Email:</span>
+			<span class="obj_meta_tab2">
+				<a href='mailto:{{ page.email }}'>{{ page.email }}</a>
+			</span>
+		{% endif %}		
+
+
+
+
+						
 		{% if page.context %}
 			</br>
 			<span class="obj_meta_type">Context:</span>
@@ -66,12 +118,25 @@ custom_js:
 			<span class="obj_meta_type">Status:</span>
 			<span class="obj_meta_tab2">Active</span>
 		{% endif %}	
-			
+
+
+		{% if page.location %}
+			</br>
+			<span class="obj_meta_type">Location:</span>
+			<span class="obj_meta_tab2">{{ page.location }}</span>
+		{% endif %}	
+					
 	</div><!--end project_metadetails-->	
 	<!--</div>
 	
 	<div class='right-bar'>-->
-	
+
+
+		{%if page.quote %}
+			<div style="margin: 50px 0;" class="fontsize_3">{{ page.quote }}</div>
+		{% endif %}
+		
+			
 		{%if page.tweet-summary %}
 			<div style="margin: 50px 0;" class="fontsize_3">{{ page.tweet-summary }}</div>
 		{% endif %}
@@ -161,19 +226,32 @@ custom_js:
 
 <div class='project_right fontsize_1'><div class='project_inner'>
 	<div class="grid-sizer"></div>
-	{% if page.media %}
-		{% for medium in page.media %}
-			<div class="grid-item short {{ medium.stat }}">
-				<div class="elem_inner" onclick="show_popup('{{ medium.type }}','{{ medium.image }}','{{ medium.url }}')">
-					<div class="image cover medium_thumb" style="background-image:url('../../assets/projects/{{ page.slug }}/{{ medium.image }}')">
-					</div>
-					<div class='text'>
-						<span class="sub-title"><b>img {{ medium.id }}</b></span>
-					</div>
-				</div>	
-			</div>
-		{% endfor %}
-	{% endif %}	
+	
+	{% if page.type == person %}
+		<div class="grid-item short">
+			<div class="elem_inner">
+				<div class="image cover medium_thumb" style="background-image:url('../../assets/people/{{ page.slug }}.jpg')">
+				</div>
+				<div class='text'>
+					<span class="sub-title"><b>img 0</b></span>
+				</div>
+			</div>	
+		</div>
+	{% else %}
+		{% if page.media %}
+			{% for medium in page.media %}
+				<div class="grid-item short {{ medium.stat }}">
+					<div class="elem_inner" onclick="show_popup('{{ medium.type }}','{{ medium.image }}','{{ medium.url }}')">
+						<div class="image cover medium_thumb" style="background-image:url('../../assets/projects/{{ page.slug }}/{{ medium.image }}')">
+						</div>
+						<div class='text'>
+							<span class="sub-title"><b>img {{ medium.id }}</b></span>
+						</div>
+					</div>	
+				</div>
+			{% endfor %}
+		{% endif %}	
+	{% endif %}
 
 </div></div><!--end .project_right .project_inner-->
 

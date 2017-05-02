@@ -3,6 +3,7 @@ layout: page
 title: About
 include: true
 type: index
+order: 1
 ---
 <style>
 	.about_grid .short{
@@ -52,7 +53,7 @@ type: index
 		{% if person.row != 2 %}
 			<div class="grid-item short">
 				<div class="elem_inner">
-						<div class="image cover" style="background-image:url('{{ site.baseurl }}/assets/people/{{ person.slug }}.jpg')"></div>		
+						<a href="../people/{{ person.slug }}"><div class="image cover" style="background-image:url('{{ site.baseurl }}/assets/people/{{ person.slug }}.jpg')"></div>	</a>	
 						<div class='text fontsize_1 fontcolor_b'>
 							<div><span class="obj_meta_type">Name</span> <div class="obj_meta_tab"><a href="mailto:{{ person.email }}">{{ person.name }} {{ person.lastname }}</a></div></div>
 							<div><span class="obj_meta_type">Title</span> <div class="obj_meta_tab">{{ person.title }}</div></div>

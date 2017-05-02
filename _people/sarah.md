@@ -1,7 +1,7 @@
 ---
 name: Sarah
 lastname: Newman
-layout: person
+layout: project
 title: Creative Researcher
 one-line: 
 quote: 
