@@ -159,7 +159,7 @@ custom_js:
 			</br>
 			<span class="obj_meta_type">Contact:</span></br>
 			<div class="obj_meta">
-				{{ page.contact-person }} \\ <a href='mailto:{{ page.contact-email }}'>email</a>
+				<a href='../../people/{{ page.contact-person }}'>{{page.contact-person}}</a> \\ <a href='mailto:{{ page.contact-email }}'>email</a>
 			</div>
 		{% endif %}
 		
