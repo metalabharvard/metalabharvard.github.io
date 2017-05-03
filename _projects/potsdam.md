@@ -27,7 +27,9 @@ media:
     stat: featured
 
 links:
-
+  - link1: 
+    title: information&#43;visualization
+    url: http://infovis.fh-potsdam.de/
 
 
 
