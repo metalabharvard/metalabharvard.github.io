@@ -3,7 +3,8 @@ name: The Sound of Secrets [at] Fear and Loathing of the Online Self
 layout: project
 type: event
 year: 2017
-fulldate: 5&#46;23&#46;2017
+startdate: 5&#46;23
+datestring: May 23, 2017
 stat: ongoing
 featured: false
 location: Rome, Italy

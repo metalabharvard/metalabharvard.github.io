@@ -3,7 +3,8 @@ name: In Flux  Browsing the Collections
 layout: project
 type: event
 year: 2017
-fulldate: 5&#46;13&#46;2017
+startdate: 5&#46;13
+datestring: May 13, 2017
 stat: ongoing
 featured: true
 location: Berlin, Germany

@@ -24,7 +24,7 @@ custom_js:
 
  {% assign project_elem = site.projects | sort: 'year'  | sort: 'stat' %}
 	{% for project in project_elem reversed %}
-	{% if project.year == 2016 %}
+	{% if project.year >= 2016 %}
 	{% if project.type == 'project' %}
 		<div class="grid-item short {{ project.year }} {{ project.type }} {% if project.featured %}featured{% endif %}">
 			<div class="elem_inner">
@@ -65,7 +65,7 @@ custom_js:
 
 
 	{% for project in project_elem reversed %}
-	{% if project.year != 2016 %}
+	{% if project.year < 2016 %}
 	{% if project.type == 'project' %}
 		<div class="grid-item short {{ project.year }} {{ project.type }} {% if project.featured %}featured{% endif %}">
 			<div class="elem_inner">

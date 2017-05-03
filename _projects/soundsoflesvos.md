@@ -3,7 +3,9 @@ name: Sounds of Lesvos&#58; Audio Workshop About Sound &#43; Place
 layout: project
 type: event
 year: 2017
-fulldate: 5&#46;16 &#45; 5&#46;20&#46;2017
+startdate: 5&#46;16
+enddate: 5&#46;20
+datestring: May 16, 2017
 stat: ongoing
 featured: false
 location: Lesvos, Greece

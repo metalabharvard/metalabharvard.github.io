@@ -3,7 +3,8 @@ name: Dialogues with Data [at] Infovis
 layout: project
 type: event
 year: 2017
-fulldate: 5&#46;11&#46;2017
+startdate: 5&#46;11
+datestring: May 11, 2017
 stat: ongoing
 featured: false
 location: Potsdam, Germany

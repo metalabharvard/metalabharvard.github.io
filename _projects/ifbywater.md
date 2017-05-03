@@ -3,7 +3,9 @@ name: If By Water [at] re:publica 17
 layout: project
 type: event
 year: 2017
-fulldate: 5&#46;8 &#45; 5&#46;10&#46;2017
+startdate: 5&#46;8
+enddate: 5&#46;10
+datestring: May 08, 2017
 stat: ongoing
 featured: true
 location: Berlin, Germany

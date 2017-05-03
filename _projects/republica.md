@@ -3,7 +3,8 @@ name: The Presence of Secrets [at] re:publica 17
 layout: project
 type: event
 year: 2017
-fulldate: 5&#46;9&#46;2017
+startdate: 5&#46;9
+datestring: May 09, 2017
 stat: ongoing
 featured: true
 location: Berlin, Germany
