@@ -18,7 +18,7 @@ custom_js:
 
 
 
-<div class="present_div fontsize_3">Teachings</div>
+<div class="present_div fontsize_3">Workshops</div>
 <div class="grid grid_present">
 <div class="grid-sizer"></div>
 
