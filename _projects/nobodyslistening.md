@@ -1,5 +1,5 @@
 ---
-name: The Sound of Secrets [at] Fear and Loathing of the Online Self
+name: Nobody&#8217;s Listening [at] Fear and Loathing of the Online Self
 layout: project
 type: event
 year: 2017
@@ -50,9 +50,9 @@ research-questions:
 
 
 ---
-**The Sound of Secrets**
+**Nobody's Listening**
 
-The Future of Secrets is an artistic research project that explores our relationship to and trust in machines,, examining the laws and norms for protecting or preserving digital correspondence, and considering what might happen to our secrets now, and in the future. 
+The Future of Secrets is an artistic research project that explores our relationship to and trust in machines, examining the laws and norms for protecting or preserving digital correspondence, and considering what might happen to our secrets now, and in the future. 
 
 The work will take shape as a sound and video installation in Rome.
 
