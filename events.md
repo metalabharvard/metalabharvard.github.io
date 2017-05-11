@@ -25,10 +25,12 @@ custom_js:
  {% assign project_elem = site.projects | sort: 'datestring' %}
 	{% for project in project_elem %}
 	{% if project.type == 'event' %}
-	{% assign nowtime = 'now' | date: '%s' %}	
+	{% assign nowtime = 'now' | date: '%s'  %}	
 	{% assign project_time = project.datestring | date: '%s' %}	
+	{% assign project_num = project_time | plus: 0 %}
+	{% assign yesterday = nowtime | minus: 86400 %}
 
-	{% if project_time >= nowtime  %}
+	{% if project_num >= yesterday  %} 
 		<div class="grid-item short {{ project.year }} {{ project.type }} {% if project.featured %}featured{% endif %}">
 			<div class="elem_inner">
 				<a href="{{ site.baseurl }}{{ project.url }}">
@@ -68,10 +70,13 @@ custom_js:
  {% assign project_elem = site.projects | sort: 'datestring' %}
 	{% for project in project_elem %}
 	{% if project.type == 'event' %}
-	{% assign nowtime = 'now' | date: '%s' %}	
+	{% assign nowtime = 'now' | date: '%s'  %}	
 	{% assign project_time = project.datestring | date: '%s' %}	
+	{% assign project_num = project_time | plus: 0 %}
+	{% assign yesterday = nowtime | minus: 86400 %}
 
-	{% if project_time < nowtime  %}		
+	{% if project_num < yesterday %}
+			
 	<div class="grid-item short {{ project.year }} {{ project.type }} {% if project.featured %}featured{% endif %}">
 			<div class="elem_inner">
 				<a href="{{ site.baseurl }}{{ project.url }}">
