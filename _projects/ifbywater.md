@@ -9,6 +9,7 @@ datestring: May 08, 2017
 stat: ongoing
 featured: true
 location: Berlin, Germany
+upcoming: false
 
 collaborators:
 context: Archives

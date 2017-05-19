@@ -5,6 +5,7 @@ type: project
 year: 2016
 stat: ongoing
 featured: true
+upcoming: false
 
 collaborators: 
 context: Letters

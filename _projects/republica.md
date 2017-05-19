@@ -6,8 +6,9 @@ year: 2017
 startdate: 5&#46;9
 datestring: May 09, 2017
 stat: ongoing
-featured: true
+featured: false
 location: Berlin, Germany
+upcoming: false
 
 collaborators:
 context: Archives

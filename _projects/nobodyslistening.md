@@ -8,6 +8,7 @@ datestring: May 23, 2017
 stat: ongoing
 featured: false
 location: Rome, Italy
+upcoming: true
 
 collaborators:
 context: Archives

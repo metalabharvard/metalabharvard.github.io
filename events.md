@@ -30,7 +30,7 @@ custom_js:
 	{% assign project_num = project_time | plus: 0 %}
 	{% assign yesterday = nowtime | minus: 86400 %}
 
-	{% if project_num >= yesterday  %} 
+	{% if project.upcoming == true  %} 
 		<div class="grid-item short {{ project.year }} {{ project.type }} {% if project.featured %}featured{% endif %}">
 			<div class="elem_inner">
 				<a href="{{ site.baseurl }}{{ project.url }}">
@@ -75,7 +75,7 @@ custom_js:
 	{% assign project_num = project_time | plus: 0 %}
 	{% assign yesterday = nowtime | minus: 86400 %}
 
-	{% if project_num < yesterday %}
+	{% if project.upcoming == false %}
 			
 	<div class="grid-item short {{ project.year }} {{ project.type }} {% if project.featured %}featured{% endif %}">
 			<div class="elem_inner">

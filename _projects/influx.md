@@ -8,6 +8,7 @@ datestring: May 13, 2017
 stat: ongoing
 featured: true
 location: Berlin, Germany
+upcoming: false
 
 collaborators: Freie Universität Berlin
 context: Archives

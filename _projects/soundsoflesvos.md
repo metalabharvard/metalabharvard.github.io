@@ -7,8 +7,9 @@ startdate: 5&#46;16
 enddate: 5&#46;20
 datestring: May 16, 2017
 stat: ongoing
-featured: false
+featured: true
 location: Lesvos, Greece
+upcoming: true
 
 collaborators: Office of Displaced Designers
 context: Archives

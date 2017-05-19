@@ -8,6 +8,7 @@ datestring: May 11, 2017
 stat: ongoing
 featured: false
 location: Potsdam, Germany
+upcoming: false
 
 collaborators:
 context: Archives
