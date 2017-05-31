@@ -18,19 +18,18 @@ custom_js:
 
 
 
+
+
+ {% assign project_events = site.projects | where: 'type', 'event' %}
+ {% assign project_upcoming = project_events | where: 'upcoming', 'true' %}
+ {% assign project_elem = project_upcoming | sort: 'datestring' %}
+ {% if project_elem.size > 0 %}
 <div class="present_div fontsize_3">Upcoming Events</div>
 <div class="grid grid_present">
-<div class="grid-sizer"></div>
-
- {% assign project_elem = site.projects | sort: 'datestring' %}
+<div class="grid-sizer"></div>	
+	
 	{% for project in project_elem %}
-	{% if project.type == 'event' %}
-	{% assign nowtime = 'now' | date: '%s'  %}	
-	{% assign project_time = project.datestring | date: '%s' %}	
-	{% assign project_num = project_time | plus: 0 %}
-	{% assign yesterday = nowtime | minus: 86400 %}
 
-	{% if project.upcoming == true  %} 
 		<div class="grid-item short {{ project.year }} {{ project.type }} {% if project.featured %}featured{% endif %}">
 			<div class="elem_inner">
 				<a href="{{ site.baseurl }}{{ project.url }}">
@@ -54,11 +53,12 @@ custom_js:
 				</a>
 			</div>		
 		</div>
-	{% endif %}	
-	{% endif %}
-	{% endfor %}
 
-</div>
+	{% endfor %}
+	</div>
+	{% endif %}
+	
+
 
 
 
@@ -70,10 +70,6 @@ custom_js:
  {% assign project_elem = site.projects | sort: 'datestring' %}
 	{% for project in project_elem %}
 	{% if project.type == 'event' %}
-	{% assign nowtime = 'now' | date: '%s'  %}	
-	{% assign project_time = project.datestring | date: '%s' %}	
-	{% assign project_num = project_time | plus: 0 %}
-	{% assign yesterday = nowtime | minus: 86400 %}
 
 	{% if project.upcoming == false %}
 			

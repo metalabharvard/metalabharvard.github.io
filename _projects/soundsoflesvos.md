@@ -9,7 +9,7 @@ datestring: May 16, 2017
 stat: ongoing
 featured: true
 location: Lesvos, Greece
-upcoming: true
+upcoming: false
 
 collaborators: Office of Displaced Designers
 context: Archives
