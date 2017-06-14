@@ -31,6 +31,26 @@
 	font-style: italic;
 }
 
+.grid-item.update {
+	width: 95%;
+}
+
+.update .elem_inner {
+	width: 100%;
+}
+
+.update .obj_meta_tab.date, .post .obj_meta_tab.content {
+	font-weight: normal;
+}
+
+.update .content {
+	margin-top: 20px;
+}
+
+#updates-nav {
+	margin-top: 40px
+}
+
 
 
 .hidden {

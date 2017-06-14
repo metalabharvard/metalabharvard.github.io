@@ -40,7 +40,7 @@ collections:
     permalink: /workshops/:path/
   posts:
     output: true
-    permalink: /posts/:path/
+    permalink: /updates/:path/
   events:
     output: true
     permalink: /events/:path/
