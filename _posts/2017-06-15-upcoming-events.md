@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "Upcoming AI + Art events"
+name: Upcoming AI + Art events
 date:   2017-06-15
 categories:
-author: Sarah  
+author: Sarah
 ---
 Two quick save-the-dates, with more details to follow in the coming weeks!
 

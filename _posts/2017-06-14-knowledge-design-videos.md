@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Knowledge Design videos up!"
+name: Knowledge Design videos up!
 date:   2017-06-14
 categories:
 cover-img: 2017-06-14.png
