@@ -2,7 +2,7 @@
 name: Knowledge Design Seminar
 layout: project
 type: workshop
-year: 2016
+year: 2017
 stat: ongoing
 featured: false
 

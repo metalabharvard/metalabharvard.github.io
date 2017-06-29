@@ -7,7 +7,7 @@ startdate: 5&#46;16
 enddate: 5&#46;20
 datestring: May 16, 2017
 stat: ongoing
-featured: true
+featured: false
 location: Lesvos, Greece
 upcoming: false
 

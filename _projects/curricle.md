@@ -2,7 +2,7 @@
 name: Curricle
 layout: project
 type: project
-year: 2016
+year: 2017
 stat: ongoing
 featured: false
 

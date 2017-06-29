@@ -22,7 +22,7 @@ custom_js:
 <div class="grid-sizer"></div>
 
 
- {% assign project_elem = site.projects | sort: 'year'  | sort: 'stat' %}
+ {% assign project_elem = site.projects | sort: 'year'  %}
 	{% for project in project_elem reversed %}
 	{% if project.year >= 2016 %}
 	{% if project.type == 'project' %}
@@ -60,7 +60,7 @@ custom_js:
 <div class="grid-sizer"></div>
 
 
- {% assign project_elem = site.projects | sort: 'year'  | sort: 'stat' %}
+ {% assign project_elem = site.projects | sort: 'year' %}
 
 
 
