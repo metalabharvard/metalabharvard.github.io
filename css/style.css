@@ -176,6 +176,11 @@ a:hover {
 	position: relative;
 }
 
+.short.update {
+	height: auto;
+	padding-bottom: 50px;
+}
+
 .short .photo_thumb {
 	display: block;
 	width: 150px;
