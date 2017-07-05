@@ -22,7 +22,7 @@ custom_js:
 
  {% assign project_events = site.projects | where: 'type', 'event' %}
  {% assign project_upcoming = project_events | where: 'upcoming', 'true' %}
- {% assign project_elem = project_upcoming | sort: 'datestring' %}
+ {% assign project_elem = project_upcoming | sort: 'startdate' %}
  {% if project_elem.size > 0 %}
 <div class="present_div fontsize_3">Upcoming Events</div>
 <div class="grid grid_present">

@@ -3,10 +3,10 @@ name: Turing&#39;s Mill
 layout: project
 type: event
 year: 2017
-startdate: 8&#46;9
+startdate: 8&#46;09
 datestring: August 09, 2017
 stat: ongoing
-featured: true
+featured: false
 location: Cambridge, MA
 upcoming: true
 

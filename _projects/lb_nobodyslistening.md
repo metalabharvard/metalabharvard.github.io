@@ -3,7 +3,7 @@ name: Nobody&#8217;s Listening
 layout: project
 type: event
 year: 2017
-startdate: 8&#46;8
+startdate: 8&#46;08
 datestring: August 08, 2017
 stat: ongoing
 featured: false
