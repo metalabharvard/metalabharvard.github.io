@@ -8,7 +8,7 @@ datestring: July 08, 2017
 stat: ongoing
 featured: true
 location: Cambridge, MA
-upcoming: true
+upcoming: false
 order: 1
 
 collaborators:
@@ -32,9 +32,6 @@ media:
 
 
 links:
-  - link1: 
-    title: RSVP
-    url: https://docs.google.com/forms/d/e/1FAIpQLSf2EzD3DZbCPu_uKKsiY-yMjnRzf29AmT-5Ju2BvhKnkRMTEg/viewform?usp=sf_link
 
 
 
@@ -63,9 +60,6 @@ research-questions:
 Saturday, July 8th, 12-3 pm (includes lunch)<br />
 BKC Conference Room, 23 Everett St, 2nd Floor<br />
 Open to: Fellows, Berkterns, Staff, Affiliates, and friends of community
-
-**[RSVP](https://docs.google.com/forms/d/e/1FAIpQLSf2EzD3DZbCPu_uKKsiY-yMjnRzf29AmT-5Ju2BvhKnkRMTEg/viewform?usp=sf_link) by Friday 7/7 at 3 pm EST**
-
 
 
 <br /><br />
