@@ -6,10 +6,10 @@ year: 2017
 startdate: 7&#46;8
 datestring: July 08, 2017
 stat: ongoing
-featured: true
+featured: false
 location: Cambridge, MA
 upcoming: false
-order: 1
+order:
 
 collaborators:
 context: Archives
