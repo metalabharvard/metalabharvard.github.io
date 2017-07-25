@@ -13,6 +13,7 @@ tools-materials:
 email: matthew@metalab.harvard.edu
 twitter: matthewbattles
 instagram: mbattles
+order: 1
 ---
 Matthew Battles is a maker and thinker whose work merges literary, scholarly, and artistic forms of inquiry. His writing on the cultural dimensions of science and technology appears such venues as *The American Scholar*, *The Atlantic*, *Harper’s Magazine*, and *The New York Times*. His most recent book, *TREE*, was published by Bloomsbury in 2017.
   
