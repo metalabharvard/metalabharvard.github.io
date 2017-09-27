@@ -74,4 +74,4 @@ In the version of Turing's Mill presented at the Harvard Art Museums, images of 
 
 Wandering the enlarged ramparts of semiconductor wafers, heatsinks, and processors, would pious watchers come any closer to unveiling the mysteries of computational intelligence? Likely not; Turing acknowledged such uncertainty in his essay. "May not machines carry out something which ought to be described as thinking," he asks, "but which is very different from what a man does?" Our wandering hero, the trenchcoat avatar of Leibniz or Turing, is lost in the mill's gears and shafts, searching out the uncanny intelligence—the perception, the feeling—hidden in its works.
 
-A web-native version of Turing's Mill is visible at designfordeeptime.org/TuringsMill.
+A web-native version of Turing's Mill is visible at [Design For Deep Time.](http://designfordeeptime.org/TuringsMill).
