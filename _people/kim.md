@@ -9,7 +9,7 @@ website: kimalbrecht.com
 twitter: kimay
 tools-materials:
 email: me@kimalbrecht.com
-order: 2
+row: 1
 ---
 As a visual researcher and information designer, Kim Albrecht is interested in networks, power, the artificial and how we can find visual representations for these topics to produce and represent knowledge. Kim holds a BA in graphic design from the AAA school and an MA in interface design from the University of Applied Sciences Potsdam. From 2015 to 2017 Kim worked at the Center for Complex Network Research with Prof. Laszlo Barabasi as a visualization researcher in Boston. His research focused on the area of finding visual representations of complex systems and particularly complex networks.
 

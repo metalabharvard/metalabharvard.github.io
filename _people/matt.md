@@ -2,8 +2,8 @@
 name: Matthew
 lastname: Griffith
 layout: person
-title: Editorial Coordinator
-row: 2
+title: Graduate Researcher
+row: 3
 one-line: 
 quote: 
 website:

@@ -8,7 +8,7 @@ datestring: August 08, 2017
 stat: ongoing
 featured: true
 location: Cambridge, MA
-upcoming: true
+upcoming: false
 order: 1
 
 collaborators: Kim Albrecht, Rachel Kalmar, Maia Leandra, Jonathan Sun,

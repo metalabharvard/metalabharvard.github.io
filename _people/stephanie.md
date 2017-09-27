@@ -8,7 +8,7 @@ one-line:
 quote: 
 website:
 tools-materials:
-email:
+email: sframpton@mit.edu
 twitter:
 instagram:
 ---

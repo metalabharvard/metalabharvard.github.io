@@ -8,7 +8,7 @@ datestring: August 09, 2017
 stat: ongoing
 featured: false
 location: Cambridge, MA
-upcoming: true
+upcoming: false
 
 collaborators:
 context: Archives

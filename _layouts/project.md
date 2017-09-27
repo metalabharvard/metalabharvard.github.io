@@ -49,8 +49,9 @@ custom_js:
 	<div class='left-bar'>
 	
 	<div class='project_metadetails fontsize_1'>
+	
 		<span class="obj_meta_type">{% if type == person %}Name:{% else %}Title:{% endif %}</span>
-		<span class="obj_meta_tab2">{{ page.name }}</span>
+		<span class="obj_meta_tab2">{{ page.name }}{% if type == person %} {{page.lastname}}{% endif %}</span>
 
 		{% if page.year %}
 			</br>
@@ -77,11 +78,11 @@ custom_js:
 			</span>
 		{% endif %}	
 
-		{% if page.instragram %}
+		{% if page.instagram %}
 			</br>
 			<span class="obj_meta_type">Insta:</span>
 			<span class="obj_meta_tab2">
-				<a href="https://instagram.com/{{ page.twitter }}" target="_blank">{{ page.instagram }}</a>
+				<a href="https://instagram.com/{{ page.instagram }}" target="_blank">{{ page.instagram }}</a>
 			</span>
 		{% endif %}	
 		
@@ -104,7 +105,7 @@ custom_js:
 
 
 
-						
+		<!--				
 		{% if page.context %}
 			</br>
 			<span class="obj_meta_type">Context:</span>
@@ -112,7 +113,7 @@ custom_js:
 				{{ page.context }}
 			</span>
 		{% endif %}
-
+-->
 		{% if page.year == 2016 %}
 			</br>
 			<span class="obj_meta_type">Status:</span>

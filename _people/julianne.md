@@ -2,8 +2,8 @@
 name: Julianne
 lastname: VanWagenen
 layout: person
-title: Principal, Doctoral Researcher
-row: 2
+title:
+row: 4
 one-line: 
 quote: 
 website:
@@ -11,5 +11,4 @@ tools-materials:
 email:
 twitter:
 instagram:
-order: 1
 ---

@@ -8,7 +8,7 @@ datestring: August 11, 2017
 stat: ongoing
 featured: true
 location: Cambridge, MA
-upcoming: true
+upcoming: false
 
 collaborators:
 context: Archives
@@ -27,8 +27,20 @@ media:
     image: img0.jpg
     id: 00
     stat: featured
-
-
+  - medium:
+    image: img1.jpg
+    id: 01
+  - medium:
+    image: img2.jpg
+    id: 02
+  - medium:
+    image: img3.jpg
+    id: 03
+  - medium2:
+    image: img4.jpg
+    url: https://player.vimeo.com/video/235800298
+    type: vimeo
+    id: 04
 
 links:
 

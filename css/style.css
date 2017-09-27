@@ -63,6 +63,11 @@
 	border-bottom: 2px solid red;
 	color:red;
 }
+
+.present_div.no_underline {
+	border-bottom: none;
+}
+
 .past_div{
 	margin-top: 50px;
 }
@@ -326,4 +331,10 @@ a.fontcolor_b:hover{
 }
 .nav a{
 	padding: 0 35px;
+}
+
+.smalltext {
+	font-size: 12px;
+    font-style: italic;
+}
 }

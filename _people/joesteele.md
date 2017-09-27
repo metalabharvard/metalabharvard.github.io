@@ -2,8 +2,8 @@
 name: Joe
 lastname: Steele
 layout: person
-title: Creative Affiliate
-row: 2
+title:
+row: 4
 one-line: 
 quote: 
 website:

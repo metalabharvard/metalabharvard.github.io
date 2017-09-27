@@ -8,7 +8,7 @@ datestring: August 08, 2017
 stat: ongoing
 featured: false
 location: Cambridge, MA
-upcoming: true
+upcoming: false
 
 collaborators: Rachel Kalmar
 context: Archives
@@ -27,6 +27,21 @@ media:
     image: img0.jpg
     id: 00
     stat: featured
+  - medium:
+    image: img1.jpg
+    id: 01
+  - medium:
+    image: img2.jpg
+    id: 02
+  - medium:
+    image: img3.jpg
+    id: 03
+  - medium:
+    image: img4.jpg
+    id: 04
+  - medium:
+    image: img5.jpg
+    id: 05
 
 
 

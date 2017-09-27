@@ -2,8 +2,8 @@
 name: Maia
 lastname: Suazo-Maler
 layout: person
-title: Sharp Fellow
-row: 2
+title: Research Assistant
+row: 3
 one-line: 
 quote: 
 website:

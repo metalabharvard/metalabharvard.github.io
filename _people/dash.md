@@ -2,8 +2,8 @@
 name: Dash
 lastname: Elhauge
 layout: person
-title: BKC Summer Intern
-row: 2
+title:
+row: 4
 one-line: 
 quote: 
 website:
