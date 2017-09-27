@@ -1,7 +1,7 @@
 ---
 name: Turing&#39;s Mill
 layout: project
-type: event
+type: project
 year: 2017
 startdate: 8&#46;09
 datestring: August 09, 2017
