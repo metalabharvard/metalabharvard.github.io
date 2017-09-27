@@ -56,11 +56,11 @@ research-questions:
 
 The possibilities of artificial intelligence have long seemed futuristic and far-fetched. Today, however, AI technology is making its impact felt in such real-world realms as autonomous vehicles, online searches and feeds, and the criminal justice system. 
 
-In conjunction with the Berkman Klein Center and MIT Media Lab's recently announced Ethics and Governance of AI Initiative, metaLAB at Harvard will present MACHINE EXPERIENCE, a showcase of works by metaLAB artists exploring the emotional effects of algorithms, the uncanny experiences of sensor-enabled computers, and what intelligent machines might reveal about understandings of the nature of intelligence itself.
+In conjunction with the Berkman Klein Center and MIT Media Lab's recently announced Ethics and Governance of AI Initiative, metaLAB at Harvard presented MACHINE EXPERIENCE, a showcase of works by metaLAB artists exploring the emotional effects of algorithms, the uncanny experiences of sensor-enabled computers, and what intelligent machines might reveal about understandings of the nature of intelligence itself.
 
-MACHINE EXPERIENCE will take place from August 8 to 13 in the [Harvard Art Museums'](http://www.harvardartmuseums.org/) Lightbox Gallery. Each day, the gallery will feature work by a different artist, encompassing sound, video, and interactive data visualization. There will be four gallery talks, and a **[launch event](https://cyber.harvard.edu/events/2017/08/AIArt) on Monday August 7th from 5-6pm in Lewis Hall 214A at Harvard Law School**. For more information email [snewman@metalab.harvard.edu](mailto:snewman@metalab.harvard.edu). 
+MACHINE EXPERIENCE took place August 8 to 13, 2017, in the [Harvard Art Museums'](http://www.harvardartmuseums.org/) Lightbox Gallery. Each day, the gallery featured work by a different artist, encompassing sound, video, and interactive data visualization. The program also included four gallery talks, and a **[launch event](https://cyber.harvard.edu/events/2017/08/AIArt) on Monday August 7th from 5-6pm in Lewis Hall 214A at Harvard Law School**. 
 
-Harvard Art Museums is located at: 32 Quincy Street, Cambridge, MA; the Lightbox Gallery is on the 5th floor of the museum. 
+Works featured in the program were the product of emerging and ongoing research, and may appear in new forms and new venues in months to come. For the latest information on individual projects, follow links below, or email [snewman@metalab.harvard.edu](mailto:snewman@metalab.harvard.edu). 
 
 **Exhibition schedule:**
 
