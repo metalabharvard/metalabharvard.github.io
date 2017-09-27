@@ -16,4 +16,4 @@ instagram: jyurko
 order: 1
 row: 1
 ---
-Jessica Yurkofsky is a designer with roots in ethnography, computer science, and place-making. She graduated from the urban planning program at Harvard GSD, writing her masters thesis on seniors’ use of social media as a means of accessing dispersed social spaces and community. She was subsequently part of the team behind Library Test Kitchen and LABRARY. Jessica’s interests include all kinds of libraries and generally building things. 
+Jessica Yurkofsky is a designer with roots in computer science and place-making. She graduated from the urban planning program at Harvard GSD, writing her masters thesis on seniors’ use of social media as a means of accessing dispersed social spaces and community. She was subsequently part of the team behind Library Test Kitchen and LABRARY. Jessica’s interests include all kinds of libraries and generally building things. 

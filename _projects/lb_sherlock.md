@@ -23,8 +23,22 @@ thumbnail_format:
 
 
 media:
-
-
+  - medium:
+    image: img0.jpg
+    id: 
+    stat: featured
+  - medium:
+    image: img1.jpg
+    id: 01 
+  - medium:
+    image: img2.jpg
+    id: 02
+  - medium:
+    image: img3.jpg
+    id: 03
+  - medium:
+    image: img4.jpg
+    id: 04
 
 
 links:

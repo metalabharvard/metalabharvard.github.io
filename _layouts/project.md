@@ -18,7 +18,8 @@ custom_js:
 				content.height = $('.media_popup .inner').height();
 			}
 		}
-		content.src = '../../assets/projects/{{ page.slug }}/'+image;
+
+		content.src = image;
 		if(type == "vimeo"){
 			content = '<iframe src="'+url+'" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>'
 		}
@@ -230,7 +231,7 @@ custom_js:
 	
 	{% if page.type == person %}
 		<div class="grid-item short">
-			<div class="elem_inner">
+			<div class="elem_inner" onclick="show_popup('{{ medium.type }}','../../assets/people/{{ page.slug }}.jpg','{{ medium.url }}')">
 				<div class="image cover medium_thumb" style="background-image:url('../../assets/people/{{ page.slug }}.jpg')">
 				</div>
 				<div class='text'>
@@ -242,7 +243,7 @@ custom_js:
 		{% if page.media %}
 			{% for medium in page.media %}
 				<div class="grid-item short {{ medium.stat }}">
-					<div class="elem_inner" onclick="show_popup('{{ medium.type }}','{{ medium.image }}','{{ medium.url }}')">
+					<div class="elem_inner" onclick="show_popup('{{ medium.type }}', '../../assets/projects/{{ page.slug }}/{{medium.image}}','{{ medium.url }}')">
 						<div class="image cover medium_thumb" style="background-image:url('../../assets/projects/{{ page.slug }}/{{ medium.image }}')">
 						</div>
 						<div class='text'>
