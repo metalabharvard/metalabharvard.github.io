@@ -1,14 +1,15 @@
 ---
 name: AI Senses
 layout: project
-type: event
+type: project
 year: 2017
 startdate: 8&#46;12
 datestring: August 12, 2017
 stat: ongoing
-featured: false
+featured: true
 location: Cambridge, MA
 upcoming: false
+order: 1
 
 collaborators:
 context: Archives

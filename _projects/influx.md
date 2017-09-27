@@ -6,7 +6,7 @@ year: 2017
 startdate: 5&#46;13
 datestring: May 13, 2017
 stat: ongoing
-featured: true
+featured: false
 location: Berlin, Germany
 upcoming: false
 

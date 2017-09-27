@@ -9,6 +9,7 @@ stat: ongoing
 featured: true
 location: Vassar College, Poughkeepsie, NY
 upcoming: true
+order: 2
 
 collaborators:
 context: Archives

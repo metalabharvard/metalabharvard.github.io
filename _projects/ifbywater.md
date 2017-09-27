@@ -7,7 +7,7 @@ startdate: 5&#46;8
 enddate: 5&#46;10
 datestring: May 08, 2017
 stat: ongoing
-featured: true
+featured: false
 location: Berlin, Germany
 upcoming: false
 

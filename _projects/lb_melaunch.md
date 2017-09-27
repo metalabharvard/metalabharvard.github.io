@@ -6,7 +6,7 @@ year: 2017
 startdate: 8&#46;07
 datestring: August 07, 2017
 stat: ongoing
-featured: true
+featured: false
 location: Cambridge, MA
 upcoming: false
 order: 2

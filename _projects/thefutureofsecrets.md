@@ -6,6 +6,7 @@ year: 2016
 stat: ongoing
 featured: true
 upcoming: false
+order: 2
 
 collaborators: 
 context: Letters
