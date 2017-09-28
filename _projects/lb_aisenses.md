@@ -45,7 +45,9 @@ media:
     id: 05
 
 links:
-
+  - link1: 
+    title: AI Senses
+    url: https://kimalbrecht.github.io/ai-senses/
 
 
 
@@ -65,6 +67,9 @@ research-questions:
 
 
 ---
+
+**[Launch AI Senses](https://kimalbrecht.github.io/ai-senses/){:target="_blank"}**
+
 **AI Senses**
 <br />Kim Albrecht
 <br />Sensors, software, computer, screen
