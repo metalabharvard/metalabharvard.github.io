@@ -67,7 +67,7 @@ custom_js:
 <div class="grid-sizer"></div>
 
 
- {% assign project_elem = site.projects | sort: 'datestring' %}
+ {% assign project_elem = site.projects | sort: 'datestring' | reverse %}
 	{% for project in project_elem %}
 	{% if project.type == 'event' %}
 

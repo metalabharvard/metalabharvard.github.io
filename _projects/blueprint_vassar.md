@@ -8,7 +8,7 @@ datestring: September 28, 2017
 stat: ongoing
 featured: true
 location: Vassar College, Poughkeepsie, NY
-upcoming: true
+upcoming: false
 order: 2
 
 collaborators:
