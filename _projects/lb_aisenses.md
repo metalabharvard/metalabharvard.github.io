@@ -52,8 +52,12 @@ links:
 
 
 press:
-
-
+  - link1: 
+    title: Wired&#58; See the world through the eyes of your phone
+    url: https://www.wired.com/story/see-the-world-through-the-eyes-of-your-phone/
+  - link2: 
+    title: These Eerie GIFs Show How Your Phone Feels, Hears, And Sees You
+    url: https://www.fastcodesign.com/90144612/these-eerie-gifs-show-how-your-phone-feels-hears-and-sees-you
 
 bibliography:
 
