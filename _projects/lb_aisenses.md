@@ -19,7 +19,7 @@ technologies:
 opportunities-for-involvement:
 
 
-thumbnail_format:
+thumbnail_format: gif
 
 
 
@@ -32,17 +32,20 @@ media:
     image: img1.jpg
     id: 01
   - medium:
-    image: img2.jpg
+    image: img1.gif
     id: 02
   - medium:
-    image: img3.jpg
+    image: img2.jpg
     id: 03
   - medium:
-    image: img4.jpg
+    image: img3.jpg
     id: 04
   - medium:
-    image: img5.jpg
+    image: img4.jpg
     id: 05
+  - medium:
+    image: img5.jpg
+    id: 06
 
 links:
   - link1: 
