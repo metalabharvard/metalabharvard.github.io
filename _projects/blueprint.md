@@ -1,7 +1,7 @@
 ---
-name: Blueprint for Counter Education
+name: Blueprint for Counter Education&#58; Expanded Reprint
 layout: project
-type: project (project, teaching, or publication)
+type: publication
 year: 2016
 stat: complete
 featured: false
@@ -64,7 +64,7 @@ research-questions:
 
 ---
 
-[blueprintforcountereducation.com](http://blueprintforcountereducation.com){:target="_blank"}
+[Blueprint for Counter Education: Expanded Reprint](http://www.inventorypress.com/product/blueprint-for-counter-education){:target="_blank"}
 
 An unusual publication appeared in bookstores in the fall 1970, authored by the sociologist Maurice Stein and his collaborator Larry Miller. Published by Doubleday, its title was Blueprint for Counter Education: Curriculum – Handbook – Wall Decoration – Shooting Script. It assumed the form of a boxed set made up of three posters and an oversized paperback, whose wrappers proclaimed: "This counter-university makes obsolete the traditional university process... There is no text book, no final exam; and the 'faculty' includes Marcuse, McLuhan, Eldridge Cleaver, and Jean-Luc Godard." The base of the cover promised: The Revolution Starts Here. On the back of the box, the image of a clapperboard and television hovered above a granular black and white photograph of a student demonstration: a portrait of the publication’s intended audience.
 
