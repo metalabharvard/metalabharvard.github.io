@@ -10,7 +10,7 @@ collaborators:
 context: Letters
 contact-email: jessica@metalab.harvard.edu
 contact-person: jessica
-technologies: MapBox, javascript, mylar
+technologies:
 opportunities-for-involvement:
 
 
