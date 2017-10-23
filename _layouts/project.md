@@ -53,11 +53,23 @@ custom_js:
 	
 		<span class="obj_meta_type">{% if type == person %}Name:{% else %}Title:{% endif %}</span>
 		<span class="obj_meta_tab2">{{ page.name }}{% if type == person %} {{page.lastname}}{% endif %}</span>
-
+		{% if page.author %}
+			</br>
+			<span class="obj_meta_type">Author(s):</span>
+			<span class="obj_meta_tab2">{{page.author}}</span>
+		{% endif %}
 		{% if page.year %}
 			</br>
 			<span class="obj_meta_type">Date:</span>
 			<span class="obj_meta_tab2">{% if page.fulldate %}{{page.fulldate}}{% else %}{{ page.year }}{% endif %}</span>
+		{% endif %}
+
+		{% if page.publisher %}
+			</br>
+			<span class="obj_meta_type">Publisher:</span>
+			<span class="obj_meta_tab2">{% if page.publisher-link %}
+				<a href="{{page.publisher-link}}">{{page.publisher}}</a>
+			{% else %}{{ page.publisher }}{% endif %}</span>
 		{% endif %}
 
 		{% if page.type == person %}

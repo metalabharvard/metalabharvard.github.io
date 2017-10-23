@@ -22,7 +22,7 @@ custom_js:
 <div class="grid grid_present">
 <div class="grid-sizer"></div>
 
- {% assign project_elem = site.projects | sort: 'year'  | sort: 'stat' %}
+ {% assign project_elem = site.projects | sort: 'year'  %}
 	{% for project in project_elem reversed %}
 	{% if project.type == 'publication' %}
 		<div class="grid-item short {{ project.year }} {{ project.type }} {% if project.featured %}featured{% endif %}">
@@ -38,7 +38,7 @@ custom_js:
 						<div><span class="obj_meta_type">Title</span> <div class="obj_meta_tab">{{ project.name }}</div></div>
 						<div><span class="obj_meta_type">Date</span> <div class="obj_meta_tab">{{ project.year }}</div></div>
 						<div><span class="obj_meta_type">Type.</span> <div class="obj_meta_tab">{{ project.type }}</div></div>
-						<div><span class="obj_meta_type">Stat</span> <div class="obj_meta_tab">{{ project.stat }}</div></div>
+			
 					</div>
 				</a>
 			</div>		

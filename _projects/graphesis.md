@@ -30,7 +30,9 @@ media:
     image: img0.jpg
     id: 00
     stat: featured
-
+  - medium:
+    image: img1.jpg
+    id: 01
 
 links:
 links:
