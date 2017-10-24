@@ -28,6 +28,11 @@ media:
     image: img0.jpg
     id: 00
     stat: featured
+  - medium2:
+    image: blueprint.png
+    url: https://player.vimeo.com/video/239698058
+    type: vimeo
+    id: 01
 
 
 
