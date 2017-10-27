@@ -25,26 +25,25 @@ media:
     stat: featured
   - medium:
     image: img0.jpg
-    id: 00
+    id: 01
   - medium:
     image: c1.gif
-    id: 00
+    id: 02
   - medium:
     image: c3.jpg
-    id: 00
+    id: 03
   - medium:
     image: c4.jpg
-    id: 00
-
+    id: 04
   - medium:
     image: c7.png
-    id: 00 
+    id: 05
   - medium:
     image: c8.gif
-    id: 00   
+    id: 06   
   - medium:
     image: c10.png
-    id: 00   
+    id: 07  
     
        
 links:
@@ -76,6 +75,8 @@ research-questions:
 Part of the [Berkman Klein luncheon series](https://cyber.harvard.edu/events/2017/luncheon/11/Curricle)<br />
 Lunch will be provided; [RSVP](http://bit.ly/futurecatalog) to attend
 </b>
+
+For more information, [send us an email](mailto:jessica@metalab.harvard.edu).
 
 Commissioned by Harvard’s Faculty of Arts and Sciences, Curricle is a curriculum mapping experiment that serves as an advising tool as well as a deep institutional portrait of Harvard through its curricular history. 
 
