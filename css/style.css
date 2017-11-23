@@ -107,7 +107,7 @@ a:hover {
 	padding: 0 35px 120px 35px;
 	line-height: 1.1em;
 	font-family: 'Roboto Mono', monospace;
-	max-width: 750px;
+	max-width: 1000px;
 }
 .nav_filter div,.nav_filter a{
 	line-height: 12px;
