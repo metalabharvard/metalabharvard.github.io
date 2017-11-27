@@ -8,8 +8,7 @@ custom_js:
 - isotope_min
 ---
 <style>
-.ind{
-	display: none;
+.ind {
 }
 .present_div{
 }

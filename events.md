@@ -10,7 +10,6 @@ custom_js:
 
 <style>
 .ind{
-	display: none;
 }
 .present_div{
 }
