@@ -1,7 +1,7 @@
 ---
 name: Stephanie
 lastname: Frampton
-layout: person
+layout: project
 title: Visiting Scholar
 row: 2
 one-line: 
