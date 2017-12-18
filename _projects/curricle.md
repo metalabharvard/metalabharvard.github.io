@@ -4,7 +4,8 @@ layout: project
 type: project
 year: 2017
 stat: ongoing
-featured: false
+featured: true
+order: 2
 
 collaborators:
 context: Archives

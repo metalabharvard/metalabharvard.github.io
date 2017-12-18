@@ -8,7 +8,7 @@ datestring: Nov 07, 2017
 stat: ongoing
 featured: true
 location: Lamont Forum Room, Harvard
-upcoming: true
+upcoming: false
 order: 3
 
 collaborators:

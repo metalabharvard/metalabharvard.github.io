@@ -5,6 +5,7 @@ type: workshop
 year: 2017
 stat: ongoing
 featured: true
+order: 1
 
 collaborators:
 context: Letters
