@@ -27,7 +27,7 @@ media:
     stat: featured
 
 
-tweet-summary: Art Perspectives on Artificial Intelligence
+tweet-summary: MACHINE EXPERIENCE II&#58; Art Perspectives on Artificial Intelligence
 
 
 research-questions:
@@ -36,7 +36,6 @@ research-questions:
 
 ---
 
-**MACHINE EXPERIENCE II**
 
 **January 19 - February 4**<br />
 **Rainbow Unicorn**<br />
