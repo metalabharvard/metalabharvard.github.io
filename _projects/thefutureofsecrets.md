@@ -4,9 +4,9 @@ layout: project
 type: project
 year: 2016
 stat: ongoing
-featured: true
+featured: false
 upcoming: false
-order: 2
+order: 1
 
 collaborators: 
 context: Letters
