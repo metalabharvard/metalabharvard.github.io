@@ -6,10 +6,10 @@ year: 2017
 startdate: 11&#46;7
 datestring: Nov 07, 2017
 stat: ongoing
-featured: true
+featured: false
 location: Lamont Forum Room, Harvard
 upcoming: false
-order: 3
+order: 1
 
 collaborators:
 context: Archives
