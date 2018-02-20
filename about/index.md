@@ -63,7 +63,9 @@ order: 1
 							{% if person.instagram %}
 							<div><span class="obj_meta_type">Insta.</span> <div class="obj_meta_tab"><a href="https://instagram.com/{{ person.instagram }}" target="_blank">{{ person.instagram }}</a></div></div>
 							{% endif %}
+							{% if person.website %}
 							<div><span class="obj_meta_type">Port.</span> <div class="obj_meta_tab"><a href="http://{{ person.website }}" target="_blank">{{ person.website }}</a></div></div>
+							{% endif %}							
 						</div>
 				</div>		
 			</div>	
