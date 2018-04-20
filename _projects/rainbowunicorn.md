@@ -9,7 +9,7 @@ datestring: January 19, 2018
 stat: ongoing
 featured: true
 location: Berlin
-upcoming: true
+upcoming: false
 order: 2
 
 collaborators:

@@ -8,7 +8,7 @@ datestring: Mar 06, 2018
 stat: ongoing
 featured: true
 location: "Arts @ 29 Garden"
-upcoming: true
+upcoming: false
 order: 3
 
 collaborators:
