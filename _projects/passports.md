@@ -51,7 +51,7 @@ research-questions:
 
 
 ---
-**metaLAB + friends openLAB**<br />
+**Passports: Knowledge Design Workshop**<br />
 **May 10, 2-4pm**<br />
 **Houghton Library**
 
