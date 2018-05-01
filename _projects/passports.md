@@ -70,6 +70,6 @@ Matthew Battles, Associate Director, metaLAB (at) Harvard<br />
 Sarah Newman, Creative Researcher, metaLAB (at) Harvard<br />
 Passports co-curators Lucas Mertihikian and Rodrigo del Rio<br />
 
-Image: Shirley Graham Du Bois’ African Passports: Ghana, 1963; Guinea, 1968; and Tanzania, 1972. Schlesinger Library, Radcliffe Institute, Papers of Shirley Graham Du Bois, 1865-1998, MC 476.
+*Image: Shirley Graham Du Bois’ African Passports: Ghana, 1963; Guinea, 1968; and Tanzania, 1972. Schlesinger Library, Radcliffe Institute, Papers of Shirley Graham Du Bois, 1865-1998, MC 476.*
 
  
