@@ -9,7 +9,7 @@ stat: ongoing
 featured: true
 location: "Arts @ 29 Garden"
 upcoming: false
-order: 3
+order: 1
 
 collaborators:
 context: Archives
