@@ -8,7 +8,7 @@ datestring: May 10, 2018
 stat: ongoing
 featured: true
 location: "Houghton Library"
-upcoming: true
+upcoming: false
 order: 3
 
 collaborators:
