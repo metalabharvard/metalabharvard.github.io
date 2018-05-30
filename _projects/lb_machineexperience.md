@@ -58,7 +58,7 @@ bibliography:
 
 
 
-tweet-summary: A one-week exhibition at the Harvard Art Museums’ Lightbox Gallery asks where artificial intelligence is headed—and how art can help us explore the the world we are making.
+tweet-summary: A one-week exhibition at the Harvard Art Museums’ Lightbox Gallery asks where artificial intelligence is headed—and how art can help us explore the world we are making.
 
 
 research-questions:
