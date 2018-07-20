@@ -6,7 +6,7 @@ year: 2018
 startdate: 03&#46;6
 datestring: Mar 06, 2018
 stat: ongoing
-featured: true
+featured: false
 location: "Arts @ 29 Garden"
 upcoming: false
 order: 1

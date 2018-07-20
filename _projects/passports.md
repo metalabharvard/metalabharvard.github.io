@@ -6,10 +6,10 @@ year: 2018
 startdate: 05&#46;10
 datestring: May 10, 2018
 stat: ongoing
-featured: true
+featured: false
 location: "Houghton Library"
 upcoming: false
-order: 3
+order: 2
 
 collaborators:
 context: Archives

@@ -2,8 +2,8 @@
 name: Matthew
 lastname: Blumberg
 layout: person
-title: Affiliate
-row: 3
+title: Alumnus
+row: 4
 one-line: 
 quote: 
 website:
