@@ -2,7 +2,7 @@
 name: Networks and Natures
 layout: project
 type: project
-year: 2016
+year: 2018
 stat: ongoing
 featured: true
 

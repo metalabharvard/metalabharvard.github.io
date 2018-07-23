@@ -2,7 +2,7 @@
 name: Networks &#43; Natures&#58; Invasive Spirits
 layout: project
 type: project
-year: 2017
+year: 2018
 stat: ongoing
 featured: false
 order: 1
