@@ -3,7 +3,7 @@ name: Dictionnaire Apollinaire
 layout: project
 type: project
 year: 2016
-stat: ongoing
+stat: complete
 featured: false
 
 collaborators: The Observatory of Literary Life (OBVIL)

@@ -3,7 +3,7 @@ name: Life and Death of Data
 layout: project
 type: publication
 year: 2015
-stat: ongoing
+stat: complete
 featured: false
 
 collaborators: Yanni Loukissas

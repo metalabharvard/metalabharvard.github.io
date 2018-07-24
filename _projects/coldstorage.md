@@ -3,7 +3,7 @@ name: Cold Storage
 layout: project
 type: project
 year: 2015
-stat: ongoing
+stat: complete
 featured: false
 
 collaborators: 

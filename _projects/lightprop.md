@@ -3,7 +3,7 @@ name: Light Prop
 layout: project
 type: project
 year: 2016
-stat: ongoing
+stat: complete
 featured: false
 
 collaborators: Angela Chang (Harvard Art Museums); Joyce Tsai (Univ. of Iowa)
