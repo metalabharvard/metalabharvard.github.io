@@ -37,7 +37,7 @@ collections:
     permalink: /publications/:path/
   teaching:
     output: true
-    permalink: /workshops/:path/
+    permalink: /teaching/:path/
   posts:
     output: true
     permalink: /updates/:path/

@@ -1,7 +1,7 @@
 ---
 name: Proseminar in Art, Design and the Public Domain
 layout: project
-type: workshop
+type: teaching
 year: 2014
 stat: complete
 featured: false

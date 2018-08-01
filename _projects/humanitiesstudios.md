@@ -1,7 +1,7 @@
 ---
 name: Humanities Studios
 layout: project
-type: workshop
+type: teaching
 year: 2016
 stat: ongoing
 featured: false

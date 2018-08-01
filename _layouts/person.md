@@ -13,6 +13,8 @@ layout: default
 
 		{% if page.website %}<a href='{% unless page.website contains 'http://' %}http://{% endunless %}{{ page.website }}' target='_blank'>{{ page.website }}</a><br />{% endif %}
 
+		{% if page.email %}<a href='mailto:{{ page.email }}'>{{ page.email }}</a><br />{% endif %}
+
 		
 		<div class='extras'>
 			{% if page.tools-materials %}

@@ -1,7 +1,7 @@
 ---
 name: Robots In and Out of Buildings
 layout: project
-type: workshop
+type: teaching
 year: 2017
 stat: ongoing
 featured: true

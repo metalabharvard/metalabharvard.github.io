@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Workshops
+title: Teaching
 type: index
-permalink: /workshops/
+permalink: /teaching/
 include: true
 custom_js:
 - isotope_min
@@ -17,7 +17,7 @@ custom_js:
 
 
 
-<div class="present_div fontsize_3">Workshops</div>
+<div class="present_div fontsize_3">Teaching</div>
 <div class="grid grid_present">
 <div class="grid-sizer"></div>
 
@@ -25,7 +25,7 @@ custom_js:
 
  {% assign project_elem = site.projects | sort: 'year'  | sort: 'stat' %}
 	{% for project in project_elem reversed %}
-	{% if project.type == 'workshop' %}
+	{% if project.type == 'teaching' %}
 		<div class="grid-item short {{ project.year }} {{ project.type }} {% if project.featured %}featured{% endif %}">
 			<div class="elem_inner">
 				<a href="{{ site.baseurl }}{{ project.url }}">

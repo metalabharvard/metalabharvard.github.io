@@ -78,14 +78,19 @@
       {% for my_page in sorted_pages %}
         	{% if my_page.include %}
 						{% if my_page.title %}
+              {% if my_page.title != "Events" %}
 						<div class="menu_left_elem">
               <b><a class="page-link" href="{{ site.baseurl }}{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></b>
             </div>
+              {% endif %}
 						{% endif %}
 					{% endif %}
         {% endfor %}
    					<div id="updates-nav" class="menu_left_elem">
-              <b><a class="page-link" href="{{ site.baseurl }}/updates">Updates</a></b>
+              <b><a class="page-link" href="{{ site.baseurl }}/events">Events</a></b><br />
+            </div>
+            <div class="menu_left_elem">
+              <b><a class="page-link" href="https://medium.com/@metalabharvard">News</a></b>
             </div>     
         
       </div>
