@@ -8,7 +8,7 @@ datestring: Aug 08, 2018
 stat: ongoing
 featured: false
 location: Gund Hall 121
-upcoming: true
+upcoming: false
 order: 4
 
 collaborators:

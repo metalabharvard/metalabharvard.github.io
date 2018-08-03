@@ -71,10 +71,6 @@ research-questions:
 
 ---
 
-**Join us for an [informational event](http://metalabharvard.github.io/projects/curricle8218) with the Curricle team.<br >
-August 2, 2018. 2-3:30pm<br >
-Gund Hall 121**
-
 Commissioned by Harvard’s Faculty of Arts and Sciences, Curricle is a curriculum mapping experiment that serves as an advising tool as well as a deep institutional portrait of Harvard through its curricular history. 
 
 A curricle was the sports car of the coaching era: a fast, light, and stylish two-wheeled chaise drawn by a judiciously matched pair of horses. With the spirit of its vehicular namesake, the project will develop a lively, interactive, playful mode of navigating curricular programming and choices not as catalogue but as the experience of a landscape of intersecting paths.
