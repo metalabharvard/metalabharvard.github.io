@@ -9,8 +9,8 @@ order: 2
 
 collaborators:
 context: Archives
-contact-email: jessica@metalab.harvard.edu
-contact-person: jessica
+contact-email: info@metalab.harvard.edu
+contact-person: Alexandra
 technologies: Ruby on Rails
 opportunities-for-involvement: student testers, student researchers
 
@@ -71,12 +71,8 @@ research-questions:
 
 ---
 
-Commissioned by Harvard’s Faculty of Arts and Sciences, Curricle is a curriculum mapping experiment that serves as an advising tool as well as a deep institutional portrait of Harvard through its curricular history. 
+Once, a university’s course catalog was a big book. Students could flip through it, write on its pages, and feel the depth of how many classes were offered. When the catalog went digital, this physical aspect was lost, leaving students with a flattened screen that showed courses as isolated atoms in a list. In 2015, the Faculty of Arts and Sciences commissioned metaLAB to create a product to address this gap, as well as help make Harvard a data-smart institution. In response, we developed Curricle, a platform of digital tools that maps the Harvard curriculum through elegant data visualizations. 
 
-A curricle was the sports car of the coaching era: a fast, light, and stylish two-wheeled chaise drawn by a judiciously matched pair of horses. With the spirit of its vehicular namesake, the project will develop a lively, interactive, playful mode of navigating curricular programming and choices not as catalogue but as the experience of a landscape of intersecting paths.
+Curricle complements the standard online course search experience by restoring the aspects of the physical catalog, creating digital spaces that illuminate courses as part of knowledge networks. Focused primarily on enlivening the course selection experience for students, Curricle also serves faculty and administrators by providing more functionally intuitive methods of engaging with the course catalog and the history of Harvard. Three years in the making, Curricle exhibits metaLAB’s focus on bridging technology and the humanities, as well as how metaLAB serves the Harvard community.
 
-<a href="https://books.google.com/books?id=1-gNAAAAYAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false" target="blank"><img src="../../../assets/projects/curricle/curricle.jpg"></a>
-
-Curricle will offer a new experience in course selection at Harvard: a platform that gives students powerful tools in data visualization and analytics for discovering, selecting, and reflecting on courses, as well as offering opportunities for students and scholars to see trends in Harvard's curriculum over time.  
-
-The usual course-selection process has blind spots where life-changing courses can lurk undiscovered. And especially in a post-disciplinary era, finding ways to identify links  among courses and across departments—to chart, visualize, and connect far-flung parts of the curriculum—will allow students to forge new and productive paths.
+We’re excited to be testing a beta version of Curricle during the 2018-19 academic year. If you are interested in participating with a variety of student groups and peer advisors that will be in dialogue with metaLAB about the Curricle experience, please email us at [info@metalab.harvard.edu](mailto:info@metalab.harvard.edu).
