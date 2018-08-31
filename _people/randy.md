@@ -2,7 +2,7 @@
 name: Randy
 lastname: Rosenthal
 layout: project
-title: Communications Strategist
+title: Editorial Consultant
 one-line:
 quote:
 website: bestbookediting.com
