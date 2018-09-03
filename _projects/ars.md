@@ -14,7 +14,7 @@ order: 4
 
 collaborators:
 context: Archives
-contact-email: sarah@metalab.harvard.edu
+contact-email: snewman@metalab.harvard.edu
 contact-person: sarah
 technologies: 
 opportunities-for-involvement:
