@@ -64,5 +64,3 @@ With support from the U.S. Embassy in Austria, metaLAB will be exhibiting these 
 Our friends at MIT’s Media Lab will also be joining us in Linz—Adam Horowitz, Judith Amores, and Oscar Rosello will be taking a version of [Cocoon](https://engineeringdreams.net/), a programmable dream machine, and Sands Fish and Nicole L’Huillier will be bringing [Telemetron](https://telemetron.space/), an instrument designed to be performed in zero gravity. 
 
 With all involved, it’s clear that this collaboration is contributing to the conversation about our technological future in innovate, artistic ways. 
-
-On one hand, an error is a deviation that can be as much an opportunity as a mistake. Yet on the other, with Big Data surveillance, privacy invasion, and social media manipulation, it seems like the dream of a beautiful digital world was an error. Through innovative media art projects and exhibitions, concerts and performances, workshops, lectures, and a whole lot more, Ars Electronica looks at how we can rescue this dream. 
