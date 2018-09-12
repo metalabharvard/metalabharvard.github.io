@@ -38,8 +38,9 @@ links:
 
 
 press:
-
-
+  - link2: 
+    title: "'Error' brings opportunity to metaLAB"
+    url: https://news.harvard.edu/gazette/story/2018/09/harvards-metalab-attends-festival-on-error-the-art-of-imperfection/
 
 
 bibliography:
