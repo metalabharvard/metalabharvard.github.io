@@ -9,7 +9,7 @@ datestring: September 6-10, 2018
 stat: ongoing
 featured: true
 location: Linz, Austria
-upcoming: true
+upcoming: false
 order: 4
 
 collaborators:
