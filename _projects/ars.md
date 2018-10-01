@@ -29,6 +29,21 @@ media:
     image: img0.jpg
     id: 00
     stat: featured
+  - medium:
+    image: img1.jpg
+    id: 01
+  - medium:
+    image: img2.jpg
+    id: 02
+  - medium:
+    image: img3.jpg
+    id: 03
+  - medium:
+    image: img4.jpg
+    id: 04
+  - medium:
+    image: img5.jpg
+    id: 05
 
 links:
   - link1: 
@@ -41,6 +56,12 @@ press:
   - link2: 
     title: "'Error' brings opportunity to metaLAB"
     url: https://news.harvard.edu/gazette/story/2018/09/harvards-metalab-attends-festival-on-error-the-art-of-imperfection/
+  - link2: 
+    title: "Invasive Spirits at the Ars Electronica Festival"
+    url: https://medium.com/@metalabharvard/invasive-spirits-at-the-ars-electronica-festival-a8a1c6df882a
+  - link2: 
+    title: "Engaging with Error: metaLAB at the Ars Electronica Festival"
+    url: https://medium.com/@metalabharvard/engaging-with-error-metalab-at-the-ars-electronica-festival-7a0ce3f5c1d3
 
 
 bibliography:
