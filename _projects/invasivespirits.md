@@ -46,7 +46,7 @@ bibliography:
 
 
 
-tweet-summary: Combining Matthew Battles' work on feral and invasive species in the city with designer and graduate researcher Keith Hartwig's practice in brewing, placemaking, and peer production, Invasive Spirits takes a multisensory approach to urbanism—using our noses & palates as well as eyes & analytic minds—to produce knowledge that's fun, flavorful, & transformative.
+tweet-summary: Combining Matthew Battles's work on feral and invasive species in the city with designer and graduate researcher Keith Hartwig's practice in brewing, placemaking, and beer production, Invasive Spirits takes a multisensory approach to urbanism—using our noses & palates as well as eyes & analytic minds—to produce knowledge that's fun, flavorful, & transformative.
 
 
 research-questions:
