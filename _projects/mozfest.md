@@ -11,6 +11,7 @@ featured: true
 location: London, England
 upcoming: false
 order: 3
+chron: 181022
 
 collaborators:
 context: Archives

@@ -10,6 +10,7 @@ featured: false
 location: Cambridge, MA
 upcoming: false
 order: 1
+chron: 170808
 
 collaborators: Kim Albrecht, Rachel Kalmar, Maia Leandra, Jonathan Sun,
 context: Archives

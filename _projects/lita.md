@@ -11,6 +11,7 @@ featured: false
 location: Minneapolis, MN
 upcoming: true
 order: 4
+chron: 181108
 
 collaborators:
 context: Archives

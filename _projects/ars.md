@@ -11,6 +11,7 @@ featured: true
 location: Linz, Austria
 upcoming: false
 order: 3
+chron: 180906
 
 collaborators:
 context: Archives

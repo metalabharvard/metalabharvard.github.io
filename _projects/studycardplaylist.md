@@ -10,6 +10,7 @@ featured: false
 location: Lamont Forum Room, Harvard
 upcoming: false
 order: 1
+chron: 171107
 
 collaborators:
 context: Archives

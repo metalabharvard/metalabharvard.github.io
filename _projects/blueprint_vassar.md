@@ -10,6 +10,7 @@ featured: true
 location: Vassar College, Poughkeepsie, NY
 upcoming: false
 order: 2
+chron: 170928
 
 collaborators:
 context: Archives

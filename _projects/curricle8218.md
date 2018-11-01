@@ -9,7 +9,8 @@ stat: ongoing
 featured: false
 location: Gund Hall 121
 upcoming: false
-order: 3
+order: 2
+chron: 180802
 
 collaborators:
 context: Archives

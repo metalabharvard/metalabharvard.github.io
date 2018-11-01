@@ -10,6 +10,7 @@ stat: ongoing
 featured: false
 location: Lesvos, Greece
 upcoming: false
+chron: 170516
 
 collaborators: Office of Displaced Designers
 context: Archives

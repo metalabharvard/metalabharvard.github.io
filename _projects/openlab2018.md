@@ -10,6 +10,7 @@ featured: false
 location: "Arts @ 29 Garden"
 upcoming: false
 order: 1
+chron: 180306
 
 collaborators:
 context: Archives

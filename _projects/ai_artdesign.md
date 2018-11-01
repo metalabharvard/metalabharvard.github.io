@@ -9,7 +9,8 @@ stat: ongoing
 featured: false
 location: Cambridge, MA
 upcoming: false
-order:
+order: 2
+chron: 170708
 
 collaborators:
 context: Archives
