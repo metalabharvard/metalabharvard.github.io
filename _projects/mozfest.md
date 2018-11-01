@@ -9,8 +9,8 @@ datestring: October 22-28, 2018
 stat: ongoing
 featured: true
 location: London, England
-upcoming: true
-order: 4
+upcoming: false
+order: 3
 
 collaborators:
 context: Archives
