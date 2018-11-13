@@ -7,7 +7,7 @@ startdate: 10&#46;22
 enddate: 10&#46;28
 datestring: October 22-28, 2018
 stat: ongoing
-featured: true
+featured: false
 location: London, England
 upcoming: false
 order: 3
