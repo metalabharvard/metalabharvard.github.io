@@ -85,7 +85,7 @@ While much public discourse on art and artificial intelligence focuses on the us
 
 **Projects:**
 
-The Future of Secrets / Sarah Newman and Jessica Yurkofsky / Installations, [MFA Boston (2016)](../thefutureofsecrets) and [Re:publica Berlin (2017)](../republica), SXSW (2018), Digital Cultures, Warsaw (2018)
+The Future of Secrets / Sarah Newman and Jessica Yurkofsky / Installations, [MFA Boston (2016)](../thefutureofsecrets) and [Re:publica Berlin (2017)](../republica), SXSW (2018), [Digital Cultures, Warsaw (2018)](../digitalcultures)
 
 AI Art & Design Workshop / Sarah Newman / [Berkman Klein Center & MIT Media Lab (2017 & 2018)](../ai_artdesign)
 
