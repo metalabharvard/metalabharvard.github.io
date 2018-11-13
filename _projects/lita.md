@@ -9,8 +9,8 @@ datestring: November 8-10, 2018
 stat: ongoing
 featured: false
 location: Minneapolis, MN
-upcoming: true
-order: 4
+upcoming: false
+order: 3
 chron: 181108
 
 collaborators:
