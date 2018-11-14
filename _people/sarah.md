@@ -13,7 +13,7 @@ tools-materials:
 email: snewman@metalab.harvard.edu
 twitter: sarahwnewman
 instagram: sarahwnewman
-order: 1
+order: 3
 row: 1
 ---
 Sarah Newman is a Creative Researcher at metaLAB at Harvard, and a Fellow at the Berkman Klein Center for Internet & Society. As a researcher expressing ideas through installation art, her work engages with technology's role in culture.

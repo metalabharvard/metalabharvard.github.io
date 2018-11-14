@@ -9,7 +9,7 @@ website: bestbookediting.com
 email: rrosenthal@fas.harvard.edu
 twitter:
 instagram: raandala
-order: 1
+order: 11
 row: 1
 ---
 

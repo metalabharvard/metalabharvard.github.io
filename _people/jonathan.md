@@ -3,7 +3,7 @@ name: Jonathan
 lastname: Sun
 layout: project
 title: Creative Researcher
-order: 1
+order: 9
 one-line: 
 quote: 
 website: jomnysun.com

@@ -47,7 +47,7 @@ order: 1
 <div class="present_div fontsize_3">Humans</div>
 
 <div class="grid about_grid">
- {% assign project_elem = site.people | sort: 'lastname' %}
+ {% assign project_elem = site.people | sort: 'order' %}
 
 	{% for person in project_elem %}
 		{% if person.row == 1 %}
@@ -72,6 +72,7 @@ order: 1
 		{% endif %}		
 	{% endfor %}
 
+ {% assign project_elem = site.people | sort: 'lastname' %}
 
 	{% for person in project_elem %}
 		{% if person.row == 2 %}
@@ -102,8 +103,38 @@ order: 1
 		{% endif %}		
 	{% endfor %}
 
-{% for person in project_elem %}
+
+	{% for person in project_elem %}
 		{% if person.row == 3 %}
+			<div class="grid-item short">
+				<div class="elem_inner">
+						<a href="../people/{{ person.slug }}"><div class="image cover" style="background-image:url('{{ site.baseurl }}/assets/people/{{ person.slug }}.jpg')"></div>	</a>	
+						<div class='text fontsize_1 fontcolor_b'>
+							<div><span class="obj_meta_type">Name</span> <div class="obj_meta_tab">
+							{% if person.email %}
+							<a href="mailto:{{ person.email }}">{{ person.name }} {{ person.lastname }}</a>
+							{% else %} {{ person.name }} {{ person.lastname }}
+							{% endif %}
+							</div></div>
+							<div><span class="obj_meta_type">Title</span> <div class="obj_meta_tab">{{ person.title }}</div></div>
+							{% if person.twitter %}
+								<div><span class="obj_meta_type">Twtr.</span> <div class="obj_meta_tab"><a href="https://twitter.com/{{ person.twitter }}" target="_blank">{{ person.twitter }}</a></div></div>
+							{% endif %}
+							{% if person.instagram %}
+							<div><span class="obj_meta_type">Insta.</span> <div class="obj_meta_tab"><a href="https://instagram.com/{{ person.instagram }}" target="_blank">{{ person.instagram }}</a></div></div>
+							{% endif %}
+							{% if person.website %}
+							<div><span class="obj_meta_type">Port.</span> <div class="obj_meta_tab"><a href="http://{{ person.website }}" target="_blank">{{ person.website }}</a></div></div>
+							{% endif %}
+							
+						</div>
+				</div>		
+			</div>	
+		{% endif %}		
+	{% endfor %}
+
+{% for person in project_elem %}
+		{% if person.row == 2.5 %}
 			<div class="grid-item short row2">
 				<div class="elem_inner">	
 						<div class='text fontsize_1 fontcolor_b'>

@@ -3,7 +3,7 @@ name: Alison
 lastname: Head
 layout: person
 title: Senior Researcher
-row: 3
+row: 2.5
 one-line: 
 quote: 
 website:

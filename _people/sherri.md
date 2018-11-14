@@ -3,7 +3,7 @@ name: Sherri
 lastname: Wasserman
 layout: person
 title: Designer in Residence
-row: 3
+row: 2.5
 one-line: 
 quote: 
 website:

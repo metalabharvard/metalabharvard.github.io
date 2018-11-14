@@ -3,7 +3,7 @@ name: Robert
 lastname: Roessler
 layout: person
 title: Graduate Researcher
-row: 3
+row: 4
 one-line: 
 quote: 
 website:

@@ -3,7 +3,7 @@ name: Matthew
 lastname: Griffith
 layout: person
 title: Graduate Researcher
-row: 3
+row: 2.5
 one-line: 
 quote: 
 website:

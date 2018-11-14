@@ -3,7 +3,7 @@ name: Michael
 lastname: Maizels
 layout: project
 title: Affiliate
-row: 3
+row: 2.5
 quote:
 website:
 tools-materials:
