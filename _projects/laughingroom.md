@@ -9,7 +9,7 @@ datestring: November 16-18, 2018
 stat: ongoing
 featured: true
 location: Cambridge, MA
-upcoming: true
+upcoming: false
 order: 5
 chron: 181116
 
