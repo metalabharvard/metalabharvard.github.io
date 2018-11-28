@@ -28,15 +28,55 @@ thumbnail_format:
 media:
   - medium:
     image: img0.jpg
-    id: 00
+    id: "00"
     stat: featured
+  - medium:
+    image: img1.jpg
+    id: "01"
+  - medium:
+    image: img2.jpg
+    id: "02"
+  - medium:
+    image: img3.jpg
+    id: "03"
+  - medium:
+    image: img4.jpg
+    id: "04"
+  - medium:
+    image: img5.jpg
+    id: "05"
+  - medium:
+    image: img6.jpg
+    id: "06"
+  - medium:
+    image: SMimg7.jpg
+    id: "07 - Stephanie Mitchell / The Harvard Gazette"
+  - medium:
+    image: VBimg8.jpg
+    id: "08 - Victoria Borne / @victoria_borne"
+  - medium:
+    image: VBimg9.jpg
+    id: "09 - Victoria Borne / @victoria_borne"
+  - medium:
+    image: VBimg10.jpg
+    id: "10 - Victoria Borne / @victoria_borne"
 
 
 links:
 
-
-
-
+press:
+  - link1: 
+    title: "Inside the Laughing Room"
+    url: https://shass.mit.edu/news/news-2018-inside-laughing-room
+  - link1: 
+    title: "Funny, Creepy, or Both? - The Harvard Gazette"
+    url: https://news.harvard.edu/gazette/story/2018/11/funny-or-creepy-metalab-researcher-creates-sitcom-like-experience/
+  - link1: 
+    title: "Jonny Sun’s New Art Project Is a Sitcom, Starring You - Boston"
+    url: https://www.bostonmagazine.com/arts-entertainment/2018/11/09/jonny-sun-sitcom-cambridge-laughing-room/
+  - link1: 
+    title: "First, he wrote a book with Lin-Manuel Miranda. Next, an art exhibit in Cambridge that will tell you if you’re funny - The Boston Globe"
+    url: https://www.bostonglobe.com/metro/2018/11/09/want-sitcom-illustrator-jonny-sun-opening-interactive-art-exhibit-cambridge/9IWRjdMFk19s4FoGCLj0MN/story.html
 
 bibliography:
 
@@ -57,6 +97,12 @@ Created at metaLAB(at)Harvard and Prof. Stephanie Frampton’s [ARTificial Intel
 Funded by metaLAB(at)Harvard, the MIT De Florez Fund for Humor, the Council of the Arts at MIT, and the MIT Center For Art, Science & Technology. Supported by MIT FX and High Output, Inc. Sponsored by the Cambridge Public Library and MIT Libraries. 
 
 #TheLaughingRoom
+
+[Inside the Laughing Room - MIT](https://shass.mit.edu/news/news-2018-inside-laughing-room)<br />
+[Funny, creepy, or both? - The Harvard Gazette](https://news.harvard.edu/gazette/story/2018/11/funny-or-creepy-metalab-researcher-creates-sitcom-like-experience/)<br />
+[Jonny Sun’s new art project Is a sitcom, starring you - Boston](https://www.bostonmagazine.com/arts-entertainment/2018/11/09/jonny-sun-sitcom-cambridge-laughing-room/)<br />
+[First, he wrote a book with Lin-Manuel Miranda. Next, an art exhibit in Cambridge that will tell you if you’re funny - The Boston Globe](https://www.bostonglobe.com/metro/2018/11/09/want-sitcom-illustrator-jonny-sun-opening-interactive-art-exhibit-cambridge/9IWRjdMFk19s4FoGCLj0MN/story.html)
+
 
 **1/THE LAUGHING ROOM** is an interactive art installation in which participants enter an artificially intelligent room, designed to resemble a sitcom set, that plays a laugh track whenever the participants say something that the room’s algorithm deems to be worth laughing with.
 
