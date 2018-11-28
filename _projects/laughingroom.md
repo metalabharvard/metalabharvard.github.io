@@ -98,11 +98,11 @@ Funded by metaLAB(at)Harvard, the MIT De Florez Fund for Humor, the Council of t
 
 #TheLaughingRoom
 
-[Inside the Laughing Room - MIT](https://shass.mit.edu/news/news-2018-inside-laughing-room)<br />
-[Funny, creepy, or both? - The Harvard Gazette](https://news.harvard.edu/gazette/story/2018/11/funny-or-creepy-metalab-researcher-creates-sitcom-like-experience/)<br />
-[Jonny Sun’s new art project Is a sitcom, starring you - Boston](https://www.bostonmagazine.com/arts-entertainment/2018/11/09/jonny-sun-sitcom-cambridge-laughing-room/)<br />
-[First, he wrote a book with Lin-Manuel Miranda. Next, an art exhibit in Cambridge that will tell you if you’re funny - The Boston Globe](https://www.bostonglobe.com/metro/2018/11/09/want-sitcom-illustrator-jonny-sun-opening-interactive-art-exhibit-cambridge/9IWRjdMFk19s4FoGCLj0MN/story.html)
-
+**Press:**<br />
+[The Boston Globe](https://www.bostonglobe.com/metro/2018/11/09/want-sitcom-illustrator-jonny-sun-opening-interactive-art-exhibit-cambridge/9IWRjdMFk19s4FoGCLj0MN/story.html)<br />
+[Boston Magazine](https://www.bostonmagazine.com/arts-entertainment/2018/11/09/jonny-sun-sitcom-cambridge-laughing-room/)<br />
+[The Harvard Gazette](https://news.harvard.edu/gazette/story/2018/11/funny-or-creepy-metalab-researcher-creates-sitcom-like-experience/)<br />
+[MIT SHASS News](https://shass.mit.edu/news/news-2018-inside-laughing-room)
 
 **1/THE LAUGHING ROOM** is an interactive art installation in which participants enter an artificially intelligent room, designed to resemble a sitcom set, that plays a laugh track whenever the participants say something that the room’s algorithm deems to be worth laughing with.
 
