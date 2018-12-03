@@ -5,7 +5,7 @@ type: project
 year: 2018
 stat: ongoing
 featured: true
-order: 2
+order: 6
 
 collaborators:
 context: Archives
@@ -21,30 +21,43 @@ thumbnail_format:
 
 media:
   - medium:
-    image: c5.jpg
-    id: 00
+    image: img0.jpg
+    id: "00"
     stat: featured
   - medium:
-    image: img0.jpg
-    id: 01
+    image: c16.png
+    id: "01"
   - medium:
-    image: c1.gif
-    id: 02
+    image: c17.png
+    id: "02"
+  - medium:
+    image: v1.png
+    url: https://player.vimeo.com/video/288426342
+    type: vimeo
+    id: "03"
+  - medium:
+    image: v2.png
+    url: https://player.vimeo.com/video/288423094
+    type: vimeo
+    id: "04"
+  - medium:
+    image: c5.jpg
+    id: "05"
   - medium:
     image: c3.jpg
-    id: 03
+    id: "06"
   - medium:
     image: c4.jpg
-    id: 04
+    id: "07"
   - medium:
     image: c7.png
-    id: 05
+    id: 08
   - medium:
     image: c8.gif
-    id: 06   
+    id: 09  
   - medium:
     image: c10.png
-    id: 07  
+    id: 10  
     
        
 links:
@@ -70,6 +83,10 @@ research-questions:
 
 
 ---
+
+**Try it out at [curricle.berkman.harvard.edu](http://curricle.berkman.harvard.edu) (beta)<br />
+Read more about Curricle in the making at [Curricle LENS](http://curricle.wpengine.com)**
+
 
 Once, a university’s course catalog was a big book. Students could flip through it, write on its pages, and feel the depth of how many classes were offered. When the catalog went digital, this physical aspect was lost, leaving students with a flattened screen that showed courses as isolated atoms in a list. In 2015, the Faculty of Arts and Sciences commissioned metaLAB to create a product to address this gap, as well as help make Harvard a data-smart institution. In response, we developed Curricle, a platform of digital tools that maps the Harvard curriculum through elegant data visualizations. 
 
