@@ -30,6 +30,18 @@ media:
   - medium:
     image: img2.jpg
     id: 02
+  - medium:
+    image: img3.jpg
+    id: 03
+  - medium:
+    image: img4.jpg
+    id: 04
+  - medium:
+    image: img5.jpg
+    id: 05
+  - medium:
+    image: img6.jpg
+    id: 06
 
 links:
   
@@ -72,5 +84,12 @@ September, 2018, walking labyrinth and interactive digital experience
 
 [Mozfest](https://mozillafestival.org/), London<br />
 October 2018, walking labyrinth at Ravensbourne University, London
+
+Somerville Community Path (near Lowell St)<br />
+Supported by the Somerville Arts Council
+<br /><br />
+
+
+*Special thanks to [Black Cat Labs](https://www.blackcatlabs.xyz/) for the laser cutting.*
 
 
