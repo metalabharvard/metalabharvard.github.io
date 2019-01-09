@@ -38,7 +38,7 @@ bibliography:
 
 
 
-tweet-summary: "Is A.I Laughing at us?<br />
+tweet-summary: "Is A.I. Laughing at us?<br />
 A conversation with David Weinberger, Jessica Fjeld, and Nikhil Dharmaraj"
 
 
