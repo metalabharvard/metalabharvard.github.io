@@ -48,7 +48,7 @@ A conversation with David Weinberger, Jessica Fjeld, and Nikhil Dharmaraj"
 Monday, February 04, 2019, 6:30-8pm<br />
 Lecture Hall, Main Branch, 449 Broadway**
 
-Join a spirited and accessible discussion of artificial intelligence and art, how humor and creativity interrelate, and the successes and the shortcomings of new Al technologies, featuring poet and lawyer Jessica Fjeld, author and thinker David Weinberger, and metaLAB research assistant (and incoming Harvard student) Nikhil Dharmaraj. Inspired by Cambridge Public Library's recent exhibition, **[The Laughing Room by Jonny Sun](../laughingroom)**, in which visitors found themselves on a sitcom set where the laughter was controlled by an Al.
+Join a spirited and accessible discussion of artificial intelligence and art, how humor and creativity interrelate, and the successes and the shortcomings of new Al technologies, featuring poet and lawyer Jessica Fjeld, author and thinker David Weinberger, and metaLAB research assistant (and incoming Harvard student) Nikhil Dharmaraj. Inspired by Cambridge Public Library's recent exhibition, **[The Laughing Room by Jonny Sun and Hannah Davis](../laughingroom)**, in which visitors found themselves on a sitcom set where the laughter was controlled by an Al.
 
 *Presented as part of Horizons: Exploring Breakthroughs in Science & Technology and Their Impact on Society, a lecture series of the the STEAM Initiative at Cambridge Public Library Cosponsored by metaLAB (at) Harvard and the ARTificial Intelligence group at MIT.*
 
