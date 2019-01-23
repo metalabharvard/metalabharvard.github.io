@@ -77,7 +77,9 @@ press:
   - link1: 
     title: "First, he wrote a book with Lin-Manuel Miranda. Next, an art exhibit in Cambridge that will tell you if you’re funny - The Boston Globe"
     url: https://www.bostonglobe.com/metro/2018/11/09/want-sitcom-illustrator-jonny-sun-opening-interactive-art-exhibit-cambridge/9IWRjdMFk19s4FoGCLj0MN/story.html
-
+  - link1: 
+    title: "Student’s work at Harvard examines the convergence of tech and the arts"
+    url: http://news.harker.org/students-work-at-harvard-examines-the-convergence-of-tech-and-the-arts/
 bibliography:
 
 
@@ -102,7 +104,8 @@ Funded by metaLAB(at)Harvard, the MIT De Florez Fund for Humor, the Council of t
 [The Boston Globe](https://www.bostonglobe.com/metro/2018/11/09/want-sitcom-illustrator-jonny-sun-opening-interactive-art-exhibit-cambridge/9IWRjdMFk19s4FoGCLj0MN/story.html)<br />
 [Boston Magazine](https://www.bostonmagazine.com/arts-entertainment/2018/11/09/jonny-sun-sitcom-cambridge-laughing-room/)<br />
 [The Harvard Gazette](https://news.harvard.edu/gazette/story/2018/11/funny-or-creepy-metalab-researcher-creates-sitcom-like-experience/)<br />
-[MIT SHASS News](https://shass.mit.edu/news/news-2018-inside-laughing-room)
+[MIT SHASS News](https://shass.mit.edu/news/news-2018-inside-laughing-room)<br />
+[Harker News](http://news.harker.org/students-work-at-harvard-examines-the-convergence-of-tech-and-the-arts/)
 
 **1/THE LAUGHING ROOM** is an interactive art installation in which participants enter an artificially intelligent room, designed to resemble a sitcom set, that plays a laugh track whenever the participants say something that the room’s algorithm deems to be worth laughing with.
 
