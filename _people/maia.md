@@ -3,7 +3,8 @@ name: Maia
 lastname: Suazo-Maler
 layout: project
 title: Research Assistant
-row: 3
+order: 11
+row: 1
 one-line: 
 quote: 
 website: modandbean.com
