@@ -39,7 +39,7 @@ bibliography:
 
 
 tweet-summary: "Is A.I. Laughing at us?<br />
-A conversation with Jon Orwant, Jessica Fjeld, and Nikhil Dharmaraj"
+A conversation with Jessica Fjeld, Jon Orwant, and Nikhil Dharmaraj"
 
 
 
