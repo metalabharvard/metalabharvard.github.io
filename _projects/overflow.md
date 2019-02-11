@@ -9,7 +9,7 @@ datestring: January 19-February 3, 2019
 stat: ongoing
 featured: true
 location: Cambridge, MA
-upcoming: true
+upcoming: false
 order: 5
 chron: 181116
 
