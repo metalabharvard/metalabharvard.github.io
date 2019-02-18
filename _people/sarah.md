@@ -2,7 +2,7 @@
 name: Sarah
 lastname: Newman
 layout: project
-title: Creative Researcher, Principal
+title: Senior Researcher, Principal
 one-line: 
 quote: 
 website: sarahwnewman.com
