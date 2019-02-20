@@ -36,6 +36,21 @@ media:
   - medium:
     image: img2.gif
     id: "02"
+  - medium:
+    image: img3.jpg
+    id: "03"
+  - medium:
+    image: img4.jpg
+    id: "04"
+  - medium:
+    image: img5.jpg
+    id: "05"
+  - medium:
+    image: img6.jpg
+    id: "06"
+  - medium:
+    image: img7.jpg
+    id: "07"
 
 links:
 
