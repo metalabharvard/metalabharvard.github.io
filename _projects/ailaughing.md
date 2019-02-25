@@ -6,11 +6,11 @@ year: 2019
 startdate: 02&#46;04
 datestring: February 04, 2019
 stat: ongoing
-featured: true
+featured: false
 location: Cambridge, MA
 upcoming: false
-order: 7
-chron: 181116
+order: 5
+chron: 190204
 
 collaborators:
 context: Archives
