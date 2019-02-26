@@ -2,10 +2,10 @@
 name: Nikhil
 lastname: Dharmaraj
 layout: project
-title: Summer Intern
+title: Research Intern
 one-line: 
-twitter: nikd2201
-instagram: nik.d
+twitter: nikdharmaraj
+instagram: nikhil.dharmaraj
 email: nikhil@dharmaraj.com
 order: 12
 row: 1
