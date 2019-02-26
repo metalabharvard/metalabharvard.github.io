@@ -16,4 +16,4 @@ In the summer of 2018, as a research intern at metaLAB, Nikhil worked on two pro
 
 This fall, Nikhil will enter Harvard College as a member of the Class of 2023, where he intends to jointly concentrate in Computer Science and Classics. He is excited to continue working on exciting, interdisciplinary projects at metaLAB throughout his undergraduate years.
 
-Read about Nikhil's work on [Laughing Room](../projects/laughingroom) in *[Harker News](http://news.harker.org/students-work-at-harvard-examines-the-convergence-of-tech-and-the-arts/).*
+Read about Nikhil's work in *[Harker News](http://news.harker.org/students-work-at-harvard-examines-the-convergence-of-tech-and-the-arts/).*
