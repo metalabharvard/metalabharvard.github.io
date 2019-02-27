@@ -51,6 +51,12 @@ media:
   - medium:
     image: img7.jpg
     id: "07"
+  - medium:
+    image: img8.jpg
+    id: "08"
+  - medium:
+    image: img9.jpg
+    id: "09"
 
 links:
 
@@ -83,5 +89,7 @@ Kim Albrecht
 Qiao Lin, Paul Heinicker, Daria Stupina & Lukáš Likavčan
 
 A metalab(at)harvard exhibition in collaboration with [Rainbow Unicorn](https://rainbow-unicorn.com/#welcome).
+
+Photos by Fabian Dinklage.
 
 
