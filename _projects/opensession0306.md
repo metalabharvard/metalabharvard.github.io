@@ -50,7 +50,8 @@ research-questions:
 **March 6, 3-4 PM<br />
 Cabot Library Discovery Bar**
 
-Alterspace is a new kind of reading room that lets library patrons control light and sound, adapting conditions for Alterspace design team (from metaLAB & Harvard’s Library Innovation Lab) in this open session exploring digital placemaking and adaptive, emancipatory design in public spaces of all kinds.
+Alterspaace is a new kind of reading room that lets library patrons control light and sound, adapting conditions for brainstorming or quiet study. Join the AlterSpace design team (from metaLAB & Harvard’s Library Innovation Lab) in this open session exploring digital placemaking and adaptive, emancipatory design in public spaces of all kinds.
+
 
 *Through open sessions in Cabot Library's Discovery Bar, metaLAB seeks to highlight the emerging community making new media and digital scholarship happen at harvard and beyond.*
 
