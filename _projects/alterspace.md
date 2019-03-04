@@ -7,7 +7,7 @@ startdate: 3&#46;1
 enddate: 3&#46;4
 datestring: March 1-4, 2019
 stat: ongoing
-featured: true
+featured: false
 location: Cambridge, MA
 upcoming: true
 order: 7
