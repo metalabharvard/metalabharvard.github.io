@@ -8,7 +8,7 @@ datestring: March 12, 2019
 stat: ongoing
 featured: false
 location: Austin, TX
-upcoming: true
+upcoming: false
 order: 7
 chron: 190312
 

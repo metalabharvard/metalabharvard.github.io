@@ -9,7 +9,7 @@ datestring: March 1-4, 2019
 stat: ongoing
 featured: false
 location: Cambridge, MA
-upcoming: true
+upcoming: false
 order: 7
 chron: 190301
 
