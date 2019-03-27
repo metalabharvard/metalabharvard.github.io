@@ -45,7 +45,7 @@ research-questions:
 ***The Truelist, Autopia, and Untitled [You]* as Computing and Poetry
 <br />Nick Montfort**
 
-**April 2, 12:10-1:15 PM<br />
+**April 2, 12:00-1:15 PM<br />
 Sever 110**
 
 Please join us in an intimate dialogue with computational poet Nick Montfort on Tuesday, April 2nd at Harvard. Nick will give a talk entitled "*The Truelist, Autopia,* and *Untitled [You]* as Computing and Poetry" to the English Department seminar, "Poetry Machines." Light refreshments provided. 
