@@ -51,6 +51,8 @@ tweet-summary:
 **Moral Labyrinth at WeRobot Miami**<br />
 **April 11-13**
 
+From <a href="https://robots.law.miami.edu/2019/special-art-installation/">WeRobot 2019</a>:
+
 As machines get smarter, more complex, and able to operate autonomously in the world, we’ll need to program them with certain “values.” Yet we do not agree on what we value: across cultures, across individuals, even within  ourselves. We often do not act in accordance with what we say we value, so should these systems learn from what we say or what we do? What are the implications of how our current belief systems manifest in the swiftly approaching technological future? As we  anticipate such change, can we use this technological moment to become more honest, humble, and compassionate?
 
 
