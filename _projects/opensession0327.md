@@ -6,7 +6,7 @@ year: 2019
 startdate: 03&#46;27
 datestring: March 27, 2019
 stat: ongoing
-featured: true
+featured: false
 location: Cambridge, MA
 upcoming: false
 order: 7
