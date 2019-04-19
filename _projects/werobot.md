@@ -9,7 +9,7 @@ datestring: April 11, 2019
 stat: ongoing
 featured: false
 location: Miami, FL
-upcoming: true
+upcoming: false
 order: 7
 chron: 190411
 
