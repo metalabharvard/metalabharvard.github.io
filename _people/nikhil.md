@@ -6,7 +6,7 @@ title: Research Intern
 one-line: 
 twitter: nikdharmaraj
 instagram: nikhil.dharmaraj
-email: nikhil@dharmaraj.com
+email: ndharmaraj@college.harvard.edu
 order: 12
 row: 1
 ---
