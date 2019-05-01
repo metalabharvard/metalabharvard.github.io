@@ -3,7 +3,8 @@ name: Yue Chelsea
 lastname: Qiu
 layout: project
 title: Assistant Researcher
-row: 2
+row: 1
+order: 13
 instagram: muaffin
 website: chelseaqiu.com
 email: yqiu@law.harvard.edu

@@ -4,7 +4,7 @@ lastname: Suazo-Maler
 layout: project
 title: Research Assistant
 order: 11
-row: 1
+row: 2
 one-line: 
 quote: 
 website: modandbean.com

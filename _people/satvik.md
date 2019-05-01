@@ -3,7 +3,8 @@ name: Satvik
 lastname: Shukla
 layout: project
 title: Research Assistant, Spring 2019
-row: 2
+row: 1
+order: 15
 instagram: satvik.sh
 twitter: satvik_sh
 website: www.satvikshukla.com

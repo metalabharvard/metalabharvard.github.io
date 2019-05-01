@@ -3,7 +3,8 @@ name: Dietmar
 lastname: Offenhuber
 layout: project
 title: Visiting Scholar
-row: 2
+row: 1
+order: 14
 twitter: dietoff 
 website: cssh.northeastern.edu/people/faculty/dietmar-offenhuber/
 email: d.offenhuber@northeastern.edu
