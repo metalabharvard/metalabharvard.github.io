@@ -3,7 +3,7 @@ name: Keith
 lastname: Hartwig
 layout: project
 title: Affiliate
-row: 1
+row: 2
 one-line: 
 quote: 
 website: keithhartwig.com

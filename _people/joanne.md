@@ -3,7 +3,7 @@ name: Joanne
 lastname: Cheung
 layout: project
 title: Affiliate
-row: 2
+row: 3
 quote: Obsessed, bewildered &#47; By the shipwreck &#47; Of the singular &#47; We have chosen the meaning &#47; Of being numerous. &#45;George Oppen
 website: joannekcheung.com
 tools-materials:

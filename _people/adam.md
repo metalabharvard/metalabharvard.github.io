@@ -3,7 +3,7 @@ name: Adam
 lastname: Haar Horowitz
 layout: project
 title: Affiliate
-row: 2
+row: 3
 quote: In her murky gut, the wood-feeding termite harbors the secret of life. What is it? A community becomes an individual. The arithmetic of the living. One plus one is one &#45;Professor Lynn Margulis
 website: adamjhh.com
 tools-materials: Brains and Books
