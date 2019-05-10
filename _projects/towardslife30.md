@@ -46,6 +46,7 @@ tweet-summary:
 
 ---
 **[Navigating the Moral Labyrinth: Intersections of Philosophy, AI, and Art](https://carrcenter.hks.harvard.edu/event/towards-life-30-ethics-and-technology-21st-century-sarah-newman-fellow-berkman-klein?admin_panel=1&delta=0)<br />
+Harvard Kennedy School, Carr Center for Human Rights<br />
 May 13, 5:30-6:45 PM<br />
 Wexner 102**
 
