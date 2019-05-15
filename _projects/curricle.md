@@ -2,7 +2,7 @@
 name: Curricle
 layout: project
 type: project
-year: 2018
+year: 2019
 stat: ongoing
 featured: false
 order: 6

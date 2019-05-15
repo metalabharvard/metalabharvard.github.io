@@ -8,7 +8,7 @@ datestring: May 11, 2019
 stat: ongoing
 featured: true
 location: Cambridge, MA
-upcoming: true
+upcoming: false
 order: 7
 chron: 190511
 
