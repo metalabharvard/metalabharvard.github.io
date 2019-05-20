@@ -6,10 +6,10 @@ year: 2019
 startdate: 05&#46;11
 datestring: May 11, 2019
 stat: ongoing
-featured: true
+featured: false
 location: Cambridge, MA
 upcoming: false
-order: 7
+order: 5
 chron: 190511
 
 collaborators:
