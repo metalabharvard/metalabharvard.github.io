@@ -114,7 +114,7 @@ Earth Measurer / Matthew Battles / Installation, [Berkman Klein Center (2018)](.
 
 The Laughing Room / Jonny Sun / [Cambridge Public Library and MIT's Hayden Library (2018)](../laughingroom) / Produced in collaboration with  metaLAB with support from the ARTificial Intelligence Initiative at MIT and Cambridge Public Library
 
-Contact: [Sarah W. Newman](mailto:snewman@metalab.harvard.edu), Creative Researcher
+Contact: [Sarah W. Newman](mailto:snewman@metalab.harvard.edu), Senior Researcher
 
 
 
