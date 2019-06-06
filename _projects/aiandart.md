@@ -5,7 +5,7 @@ type: project
 year: 2018
 stat: ongoing
 featured: true
-order: 5
+order: 8
 
 collaborators:
 context: Letters
@@ -21,7 +21,7 @@ thumbnail_format:
 
 media:
   - medium:
-    image: 0.jpg
+    image: 13.jpg
     id: 00
     stat: featured
   - medium:
@@ -60,6 +60,9 @@ media:
   - medium:
     image: 12.jpg
     id: 12
+  - medium:
+    image: 0.jpg
+    id: 13
 
 links:
   
@@ -82,6 +85,8 @@ research-questions:
 
 
 ---
+
+**[Download the metaLAB AI + Art Overview, 2017-2019](../../assets/projects/aiandart/metaLAB_AI+Art_Report2017-19.pdf)**
 
 While much public discourse on art and artificial intelligence focuses on the use of algorithms in art-making or the creative capacity of machines, metaLAB's intent is different: to use artistic means to explore the human dimensions of artificial intelligence. In a series of projects ranging across interactive installation, creative computing, writing, teaching, and public speaking, metaLAB projects in this area explore the psychological and philosophical realms of electronic systems, reflect on the long history of human fascination with thinking machines, and consider our uncertain moral reckoning with the agency and autonomy of computers. This line of work carries the conviction that ethical and affective issues that attend deep learning, machine vision, and autonomous systems are matters of concern for all of society, not merely the province of experts. Art can bring that conversation to life for many audiences, engaging broad public audiences with the shared complexities of technological change. This work has been undertaken in dialogue with the Ethics & Governance of AI Initiative at the Berkman Klein Center and the MIT Media Lab.
 
