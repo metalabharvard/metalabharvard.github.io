@@ -6,9 +6,9 @@ year: 2019
 startdate: 06&#46;14
 datestring: June 14, 2019
 stat: ongoing
-featured: true
+featured: false
 location: Tunis, Tunisia
-upcoming: true
+upcoming: false
 order: 9
 chron: 190614
 

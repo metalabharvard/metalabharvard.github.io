@@ -6,9 +6,9 @@ year: 2019
 startdate: 06&#46;15
 datestring: June 15, 2019
 stat: ongoing
-featured: true
+featured: false
 location: Cambridge, MA
-upcoming: true
+upcoming: false
 order: 9
 chron: 190615
 
