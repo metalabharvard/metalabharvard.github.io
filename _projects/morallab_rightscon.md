@@ -9,7 +9,7 @@ stat: ongoing
 featured: false
 location: Tunis, Tunisia
 upcoming: false
-order: 9
+order: 7
 chron: 190614
 
 collaborators:

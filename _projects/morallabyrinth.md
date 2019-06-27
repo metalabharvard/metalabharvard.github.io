@@ -5,7 +5,7 @@ type: project
 year: 2018
 stat: ongoing
 featured: true
-order: 4
+order: 9
 
 collaborators:
 context: Letters
@@ -42,6 +42,9 @@ media:
   - medium:
     image: img6.jpg
     id: 06
+  - medium:
+    image: img.gif
+    id: 07
 
 links:
   
@@ -67,6 +70,9 @@ research-questions:
 
 
 ---
+
+**[Visit the Moral Labyrinth website](https://morallabyrinth.com)**
+
 
 As machines get smarter, more complex, and able to operate autonomously in the world, we’ll need to program them with certain “values.”
 
