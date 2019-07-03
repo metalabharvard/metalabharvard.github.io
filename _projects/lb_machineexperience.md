@@ -15,7 +15,7 @@ chron: 170808
 collaborators: Kim Albrecht, Rachel Kalmar, Maia Leandra, Jonathan Sun,
 context: Archives
 contact-email: snewman@metalab.harvard.edu
-contact-person: sarah
+contact-person: newman
 technologies: 
 opportunities-for-involvement:
 

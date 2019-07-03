@@ -11,7 +11,7 @@ order: 1
 collaborators: 
 context: Letters
 contact-email: snewman@metalab.harvard.edu
-contact-person: sarah
+contact-person: newman
 technologies: Raspberry pis, thermal receipt printers, mac mini, screen, keyboard, secrets
 opportunities-for-involvement: 
 

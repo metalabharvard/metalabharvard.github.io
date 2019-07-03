@@ -9,7 +9,7 @@ featured: false
 collaborators: Harvard Art Museums, Harvard Art Museums Archive
 context: Archives
 contact-email: snewman@metalab.harvard.edu
-contact-person: Sarah
+contact-person: newman
 technologies: still photographs from the American Professional Photographers Collection (Harvard Art Museums), video, data visualization, projection
 
 

@@ -14,7 +14,7 @@ chron: 170509
 collaborators:
 context: Archives
 contact-email: snewman@metalab.harvard.edu
-contact-person: sarah
+contact-person: newman
 technologies: 
 opportunities-for-involvement:
 

@@ -1,6 +1,7 @@
 ---
 name: Sarah
 lastname: Newman
+page-title: Newman
 layout: project
 title: Senior Researcher, Principal
 one-line: 

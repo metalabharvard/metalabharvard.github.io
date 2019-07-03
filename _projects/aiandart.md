@@ -10,7 +10,7 @@ order: 9
 collaborators:
 context: Letters
 contact-email: snewman@metalab.harvard.edu
-contact-person: Sarah
+contact-person: newman
 technologies:
 opportunities-for-involvement:
 

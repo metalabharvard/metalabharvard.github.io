@@ -9,7 +9,7 @@ featured: false
 collaborators: Illuminus Boston, Eagle Leasing Company
 context: Letters
 contact-email: snewman@metalab.harvard.edu
-contact-person: Sarah
+contact-person: newman
 technologies: Shipping container, metal sculpture, arduino, led lights, sound recordings, internet growth data, cosmic background radiation (sounds) 
 opportunities-for-involvement: 
 
