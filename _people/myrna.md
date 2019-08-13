@@ -1,6 +1,6 @@
 ---
 name: Myrna
-lastname: Aloub
+lastname: Ayoub
 layout: person
 title: Affiliate
 row: 2.5
