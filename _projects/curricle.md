@@ -4,13 +4,13 @@ layout: project
 type: project
 year: 2019
 stat: ongoing
-featured: false
-order: 6
+featured: true
+order: 9
 
 collaborators:
 context: Archives
 contact-email: info@metalab.harvard.edu
-contact-person: Alexandra
+contact-person: Oliver
 technologies: Ruby on Rails
 opportunities-for-involvement: student testers, student researchers
 
@@ -85,7 +85,9 @@ research-questions:
 ---
 
 **Try it out at [curricle.berkman.harvard.edu](http://curricle.berkman.harvard.edu) (beta)<br />
-Read more about Curricle in the making at [Curricle LENS](http://curricle.wpengine.com)**
+[Keep up to date](http://curricledev.wpengine.com) with the latest features and project updates**
+
+<iframe src="https://player.vimeo.com/video/354848830" width="450" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 Once, a university’s course catalog was a big book. Students could flip through it, write on its pages, and feel the depth of how many classes were offered. When the catalog went digital, this physical aspect was lost, leaving students with a flattened screen that showed courses as isolated atoms in a list. In 2015, the Faculty of Arts and Sciences commissioned metaLAB to create a product to address this gap, as well as help make Harvard a data-smart institution. In response, we developed Curricle, a platform of digital tools that maps the Harvard curriculum through elegant data visualizations. 
