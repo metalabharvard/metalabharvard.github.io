@@ -10,7 +10,7 @@ order: 9
 collaborators:
 context: Archives
 contact-email: info@metalab.harvard.edu
-contact-person: Oliver
+contact-person: oliver
 technologies: Ruby on Rails
 opportunities-for-involvement: student testers, student researchers
 
