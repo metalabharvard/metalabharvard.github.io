@@ -4,7 +4,7 @@ lastname: Pichet
 layout: project
 title: Visiting Researcher
 row: 1
-order: 14
+order: 13
 instagram: chiarafauda
 twitter: chiarafauda
 website:
