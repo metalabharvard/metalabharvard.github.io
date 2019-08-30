@@ -2,7 +2,7 @@
 name: Moral Labyrinth
 layout: project
 type: project
-year: 2018
+year: 2019
 stat: ongoing
 featured: true
 order: 9

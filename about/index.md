@@ -172,12 +172,6 @@ order: 1
 				<div class="elem_inner">
 						<div class='text fontsize_1 fontcolor_b'>
 							<div><span class="obj_meta_type"></span> <div class="obj_meta_tab">{{ person.name }} {{ person.lastname }}</div></div>
-							{% if person.twitter %}
-								<div><span class="obj_meta_type">Twtr.</span> <div class="obj_meta_tab"><a href="https://twitter.com/{{ person.twitter }}" target="_blank">{{ person.twitter }}</a></div></div>
-							{% endif %}
-							{% if person.port %}							
-								<div><span class="obj_meta_type">Port.</span> <div class="obj_meta_tab"><a href="http://{{ person.website }}" target="_blank">{{ person.website }}</a></div></div>
-							{% endif %}
 						</div>
 				</div>		
 			</div>	

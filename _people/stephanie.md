@@ -3,7 +3,7 @@ name: Stephanie
 lastname: Frampton
 layout: project
 title: Visiting Scholar
-row: 3
+row: 4
 one-line: 
 quote: 
 website:
