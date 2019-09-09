@@ -8,7 +8,7 @@ datestring: Sep 07, 2019
 stat: ongoing
 featured: false
 location: "4S, New Orleans"
-upcoming: true
+upcoming: false
 order: 12
 chron: 190907
 
