@@ -3,7 +3,7 @@ name: Jason
 lastname: Griffey
 layout: project
 title: Affiliate
-row: 2
+row: 4
 quote:
 website: www.jasongriffey.net
 tools-materials:

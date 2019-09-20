@@ -3,7 +3,7 @@ name: Rachel
 lastname: Kalmar
 layout: project
 title: Affiliate
-row: 2.5
+row: 4
 quote:
 website:
 tools-materials:
