@@ -9,7 +9,7 @@ stat: ongoing
 featured: false
 location: "4S, New Orleans"
 upcoming: false
-order: 12
+order: 8
 chron: 190907
 
 collaborators:
