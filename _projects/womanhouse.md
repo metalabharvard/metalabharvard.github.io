@@ -1,7 +1,7 @@
 ---
 name: "Womanhouse (a memory theater)"
 layout: project
-type: event
+type: project
 year: 2019
 startdate: 8&#46;30
 enddate: 11&#46;10

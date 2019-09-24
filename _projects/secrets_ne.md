@@ -6,9 +6,9 @@ year: 2019
 startdate: 9&#46;17
 datestring: Sep 17, 2019
 stat: ongoing
-featured: true
+featured: false
 location: "Boston, MA"
-upcoming: true
+upcoming: false
 order: 12
 chron: 190907
 tweet-summary: "Are secrets uniquely human? Our private lives are mediated and recorded by digital devices. Where are our secrets now? How will intelligent systems of the future process the data we leave behind? What kind of relationships do we have with these systems, and why do we trust them with our most private information?"
