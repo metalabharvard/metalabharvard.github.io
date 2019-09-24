@@ -10,7 +10,7 @@ order: 12
 collaborators:
 context: Letters
 contact-email: jeffrey@metalab.harvard.edu
-contact-person: Jeffrey
+contact-person: jeffrey
 technologies: paper, ink
 opportunities-for-involvement:
 
