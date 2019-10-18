@@ -45,7 +45,7 @@ The project is supported by the 2019-2020 S.T. Lee Grant.
 
 Events in development:<br />
 **Kickoff workshop**<br />
-Early Spring 2020 (tentative): the event will highlight the rich history and contemporary context the project, incorporating a tutorial and opportunity to utilize the tool.
+Early Spring 2020 (tentative): the event will highlight the rich history and contemporary context of the project, incorporating a tutorial and opportunity to utilize the tool.
 
 **Mini-symposium**<br />
 End of Spring 2020 (tentative): the event will convene users, librarians, scholars, and artists to reflect on the project, share outputs, learn about insights and analytics, and offer feedback or suggestions for further extensions of the project.
