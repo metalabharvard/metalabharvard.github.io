@@ -3,7 +3,7 @@ name: Sands Alden
 lastname: Fish
 layout: project
 title: Affiliate
-row: 4
+row: 2
 website: sands.fish
 twitter: sandsfish
 instagram: sandsfish
