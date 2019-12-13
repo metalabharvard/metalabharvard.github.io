@@ -25,24 +25,10 @@ school:
 
 media:
   - medium:
-    image: img0.jpg
+    image: mLportfolio.gif
     id: 00
     stat: featured
-  - medium:
-    image: img1.jpg
-    id: 01
-  - medium:
-    image: img2.jpg
-    id: 02
-  - medium:
-    image: img3.jpg
-    id: 03
-  - medium:
-    image: img4.jpg
-    id: 04
-  - medium:
-    image: img5.jpg
-    id: 05
+
 
 
 bibliography:
@@ -66,4 +52,4 @@ metaLAB began in 2011 as team of makers and thinkers betwixt and between the dis
 **Numbered and signed copies from the first edition; only 10 copies available.**<br />
 Available for purchase to libraries, research centers, collectors, and fellow travelers at a cost of $100 + shipping. Please direct purchase inquiries for this special edition to [info@metalab.harvard.edu](mailto:info@metalab.harvard.edu).
 
-<img src="../../../assets/projects/mLportfolio/metaPortfolio.gif">
+<img src="../../../assets/projects/mLportfolio/Flipping-Book.gif">
