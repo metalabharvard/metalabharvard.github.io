@@ -2,7 +2,7 @@
 name: Life and Death of Data
 layout: project
 type: publication
-year: 2015
+year: 2013
 stat: complete
 featured: false
 
@@ -22,7 +22,12 @@ media:
     image: img0.jpg
     id: 00
     stat: featured
-
+  - medium:
+    image: img1.jpg
+    id: 01
+  - medium:
+    image: img2.jpg
+    id: 02
 
 links:
   - link1: 
