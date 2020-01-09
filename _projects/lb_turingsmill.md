@@ -5,7 +5,7 @@ type: project
 year: 2017
 startdate: 8&#46;09
 datestring: August 09, 2017
-stat: ongoing
+stat: complete
 featured: false
 location: Cambridge, MA
 upcoming: false

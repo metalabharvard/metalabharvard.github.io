@@ -3,7 +3,7 @@ name: Curarium
 layout: project
 type: project
 year: 2016
-stat: ongoing
+stat: complete
 featured: false
 
 collaborators: The Berkman Klein Center, Villa I Tatti
