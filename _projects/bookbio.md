@@ -41,7 +41,7 @@ research-questions:
 
 
 ---
-The *Book Biography Machine* was a prototype interface for mapping the diffusion of books across time and space. Scholars may download rough bibliographic sets from WorldCat for visualization, save them, and upload curated sets in order to tell stories, make arguments, and ask new questions concerning the history of a single book or multiple books in comparison to each other.
+The Book Biography Machine was a prototype interface for mapping the diffusion of books across time and space. Scholars may download rough bibliographic sets from WorldCat for visualization, save them, and upload curated sets in order to tell stories, make arguments, and ask new questions concerning the history of a single book or multiple books in comparison to each other.
 
 
 [http://book-bio-machine.herokuapp.com/index.html](http://book-bio-machine.herokuapp.com/index.html
