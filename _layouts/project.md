@@ -37,8 +37,12 @@ custom_js:
 <div class="nav fontsize_1">
 	{% if page.type == person %}
 		<a class="fontcolor_b" href="/about">< about</a>
-	
+	{% elsif page.type == "teaching" %}
+
+		<a class="fontcolor_b" href="/teaching">< teaching</a>	
 	{% else %}
+		{{ page.type }}
+
 		<a class="fontcolor_b" href="/{{ page.type }}s">< {{ page.type }}s</a>
 	{% endif %} 
 </div>

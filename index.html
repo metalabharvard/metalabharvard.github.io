@@ -18,7 +18,13 @@ custom_js:
 
 
 	{% for project in project_elem reversed %}
-	{% if project.stat == "ongoing" %}
+
+	{% assign test = false %}
+	{% if project.year > 2018 and project.type == "publication" %}{% assign test = true %}{% endif %}
+	{% if project.stat == "ongoing" and project.type == "project" %}{% assign test = true %}{% endif %}
+	{% if project.type == "event" and project.year > 2018 %}{% assign test = true %}{% endif %}
+	{% if project.type == "teaching" and project.year > 2018 %}{% assign test = true %}{% endif %}
+	{% if test == true %}
 		<div class="grid-item short {{ project.year }} {{ project.type }} {% if project.featured %}featured{% endif %}">
 			<div class="elem_inner">
 				<a href="{{ site.baseurl }}{{ project.url }}">
@@ -60,8 +66,13 @@ custom_js:
 
 
 	{% for project in project_elem reversed %}
-	{% if project.stat == "complete" %}
-		<div class="grid-item short {{ project.year }} {{ project.type }} {% if project.featured %}featured{% endif %}">
+	{% assign test = false %}
+	{% if project.year < 2019 and project.type == "publication" %}{% assign test = true %}{% endif %}	
+	{% if project.stat == "complete" %}{% assign test = true %}{% endif %}
+	{% if project.type == "event" and project.year < 2019 %}{% assign test = true %}{% endif %}
+	{% if project.type == "teaching" and project.year < 2019 %}{% assign test = true %}{% endif %}	
+	{% if test == true %}
+			<div class="grid-item short {{ project.year }} {{ project.type }} {% if project.featured %}featured{% endif %}">
 			<div class="elem_inner">
 				<a href="{{ site.baseurl }}{{ project.url }}">
 					{% if project.thumbnail_format %}

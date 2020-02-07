@@ -60,6 +60,18 @@ research-questions:
 
 How do we experience a collection? The Lightbox Gallery in the brand new Renzo Piano designed facility is a venue for digital experiments and new media projects that respond to collections held at the Harvard Art Museums. Built in collaboration with faculty, staff, students, and visiting artists, projects in this space use digital tools to reveal connections between objects and play with traditions of display. Some of these projects are responsive, allowing users to navigate and manipulate the collections. Other projects are cinematic, transforming the Museums into a landscape of digital performance. The Lightbox is a space for cross-disciplinary exploration, turning the gallery into an experimental digital lab. The gallery will be inaugurated in tandem with the inauguration of the new museum in November 2014.
 
-[//]: # Nunc nec nunc luctus, porttitor orci el, ullamcorper tellus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas eget nibh ut lacus bibendum tincidunt ut sed dui. Praesent id ligula vitae nulla viverra dictum. Vestibulum sed lectus turpis. Nam luctus, metus convallis convallis ultrices, massa neque fringilla tellus, quis dignissim nibh ligula at elit. Phasellus feugiat orci at felis consequat imperdiet. Vestibulum interdum luctus ultrices. Phasellus ultrices in ligula at consectetur. Etiam a consequat nulla, in interdum magna. Donec at metus euismod, efficitur neque ut, fermentum lorem [img 1]. In semper fermentum magna et iaculis. Proin eu posuere odio, in egestas ante. Integer blandit condimentum ligula, ut auctor mi posuere eget.
+**Selected Exhibitions at Lightbox Gallery**<br />
+metaLAB Object Map, interactive visualization, 2015<br />
+Feral Trees, video documentation, April 2015<br />
+Light Prop Media Documentation, immersive exhibition, 2016<br />
+Your Story Has Touched My Heart, video installation, May 2016 Animation/Studio Projects, mixed media, October-November, 2016<br />
+
+
+**Selected Talks at Lightbox Gallery**<br />
+“Activation of Moholy-Nagy’s Light Prop for an Electric Stage”, Melissa Venator, January 2016-ongoing
+“What is the Lightbox Gallery?”, Ming Tu, May 12, 2016<br />
+“Your Story Has Touched My Heart”, Sarah Newman, Matthew Battles, May 2016<br />
+“Machine Experience Gallery Talks”, Kim Albrecht, Maia Suazo-Maler, Sarah Newman,
+Rachel Kalmar, Matthew Battles, August-December 2017
 
 
