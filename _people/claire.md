@@ -2,7 +2,7 @@
 name: Claire
 lastname: Reymond
 layout: project
-title: Visiting Researcher
+title: Research Affiliate
 email: claire.reymond@fhnw.ch
 order: 14
 row: 1
