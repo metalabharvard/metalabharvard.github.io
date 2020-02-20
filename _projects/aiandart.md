@@ -4,7 +4,7 @@ layout: project
 type: project
 year: 2019
 stat: ongoing
-featured: true
+featured: false
 order: 10
 
 collaborators:

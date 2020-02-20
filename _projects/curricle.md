@@ -5,7 +5,7 @@ type: project
 year: 2019
 stat: ongoing
 featured: true
-order: 12
+order: 10
 
 collaborators:
 context: Archives

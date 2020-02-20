@@ -7,7 +7,7 @@ startdate: 8&#46;30
 enddate: 11&#46;10
 datestring: Aug 30 - Nov 10, 2019
 stat: ongoing
-featured: true
+featured: false
 location: "Hannover, Germany"
 upcoming: true
 order: 12
