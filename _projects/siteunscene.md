@@ -1,10 +1,10 @@
 ---
-name: "Site Unscene: Medial Ideology and the Literary Interface" 
+name: "POSTPONED: Site Unscene: Medial Ideology and the Literary Interface" 
 layout: project
 type: event
 year: 2020
 startdate: 02&#46;23
-datestring: March 23, 2020
+datestring: "March 23, 2020"
 stat: ongoing
 featured: false
 location: Cambridge, MA
@@ -43,6 +43,8 @@ tweet-summary:
 
 
 ---
+**THIS EVENT HAS BEEN POSTPONED**
+
 2nd Annual Humanities & New Media Lecture<br />
 Johanna Drucker, Breslauer Professor of Bibliographical Studies at UCLA<br />
 Monday, March 23, 5pm<br />
