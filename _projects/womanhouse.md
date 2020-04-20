@@ -71,6 +71,10 @@ links:
 
 
 ---
+
+**This exhibit has moved to [Kunsthaus Graz](../womanhouse_graz).**
+
+
 Developed by Kim Albrecht and Jeffrey Schnapp with Chiara Fauda-Pichet and Mindy Seu, this room-sized installation is part of the exhibition *Wo Kunst geschehen kann – Die frühen Jahre des CalArts :: Where art might happen: The early years of CalArts*, which opened at the Kestnergesellschaft in Hannover, Germany on August 30. (The exhibition runs through November 10, 2019.)
  
 
