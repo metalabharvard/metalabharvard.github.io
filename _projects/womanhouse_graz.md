@@ -28,11 +28,11 @@ thumbnail_format:
 media:
   - medium:
     image: img0.jpg
-    id: 00
+    id: "00 - Martin Grabner / Kunsthaus Graz"
     stat: featured
   - medium:
     image: img1.jpg
-    id: 01
+    id: "01 - Babara Steiner / Kunsthaus Graz"
   
 
 links:
