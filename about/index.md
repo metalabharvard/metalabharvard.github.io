@@ -55,6 +55,7 @@ order: 1
     	font-weight: bold;
     	font-style: italic;
     	margin-top: -70px;
+    	margin-bottom: 30px;
 
 	}
 
@@ -78,11 +79,7 @@ order: 1
 	
 </style>
 
-<div class="about_grid intro-text">
-	<div class="text-block mono">
-		<a href="../community">Interested in joining our community? Learn more!</a>
-	</div>
-</div>
+
 
 <div id="about" class="present_div fontsize_3">About</div>
 
@@ -104,6 +101,11 @@ order: 1
 </div>
 </div>
 
+<div class="about_grid intro-text">
+	<div class="text-block mono">
+		<a href="../community">Interested in joining our community? Learn more!</a>
+	</div>
+</div>
 
 
 <div class="present_div fontsize_3">Humans</div>
