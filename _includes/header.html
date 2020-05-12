@@ -118,13 +118,22 @@
         	{% if my_page.include %}
 						{% if my_page.title %}
               {% if my_page.title != "Events" %}
+                {% if my_page.title != "Community" %}
+
 						<div class="menu_left_elem link">
               <b><a class="page-link" href="{{ site.baseurl }}{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></b>
             </div>
               {% endif %}
+              {% endif %}
 						{% endif %}
 					{% endif %}
         {% endfor %}
+            <div class="menu_left_elem link">
+              <b><a class="page-link" href="{{ site.baseurl }}community">Community</a></b>
+            </div>
+            
+
+
    					<div id="updates-nav" class="menu_left_elem link">
               <b><a class="page-link" href="{{ site.baseurl }}/events">Events</a></b><br />
             </div>

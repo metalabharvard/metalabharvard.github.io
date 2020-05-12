@@ -39,21 +39,32 @@ order: 1
     height: 100%;
 	}
 
-	#text-block {
+	.text-block {
 		position: relative;
 	    float: left;
 	    display: block;
-	    margin: 0 35px 60px 35px;
+	    margin: 0 35px 40px 35px;
 	    font-size: 20px;
+	}
+
+	.intro-text {
+		overflow: hidden;
+    	position: relative;
+    	font-weight: bold;
+    	font-style: italic;
+    	margin-top: -70px;
 	}
 	
 </style>
 
 
-<div class="present_div fontsize_3">Community</div>
+{% assign project_elem = site.people | sort: 'order' %}
+
+
+<div id="community" class="present_div fontsize_3">Community</div>
 
 <div class="grid about_grid">
-<div id="text-block">
+<div class="text-block">
 	<p>
  metaLAB is a porous community of experimentally-minded <a href="../about">scholars, artists, designers, technologists, and thinkers</a>, with affiliations and practices distributed worldwide. Together we instigate and manage a portfolio of projects: some we spin up ourselves intramurally or extramurally; others involve partnerships with public institutions such as libraries, archives, and museums; others still involve commissions or competitions. Projects vary in scope and scale from provocations to platforms and weeks to years. Amidst the ebb and flow of projects, we come together for conversation and shared critique, inspiration, and collaboration. That conversation is ongoing and open, and represents the heart of metaLAB as a community.</p>
  <p>
@@ -63,3 +74,59 @@ If you want to know more, send us a note at <a href='mailto:info@metalab.harvard
 </div>
 
 </div>
+
+
+<div class="grid about_grid">
+	
+	<div class="present_div fontsize_3">Alumni</div>
+
+	{% for person in project_elem %}
+		{% if person.row == 4 %}
+			<div class="grid-item short row2">
+				<div class="elem_inner">
+						<div class='text fontsize_1 fontcolor_b'>
+							<div><span class="obj_meta_type"></span> <div class="obj_meta_tab">{{ person.name }} {{ person.lastname }}</div></div>
+						</div>
+				</div>		
+			</div>	
+		{% endif %}
+	{% endfor %}
+
+</div>
+
+<div class="present_div fontsize_3">Partners</div>
+<div class="grid about_grid">
+
+	<div class="grid-item partners short featured">
+		<div class="elem_inner"><div class="inner">
+			With partners at the Berkman Klein Center, across the university, and in the world at large, metaLAB explores the digital arts and humanities through research, experimentation, tool building, teaching, through publications in print and online, and via exhibition, performance, and social practice. Our projects infuse traditional modes of academic inquiry with an enterprising spirit of hacking, making, and creative research.
+			<div class="partner_list">
+				<a href="" target="_blank">Arts @ 29 Garden</a>
+				<a href="" target="_blank">Critical Media Practice</a>
+				<a href="" target="_blank"><a href="" target="_blank">Faculty of Arts and Sciences</a>
+				<a href="" target="_blank">Film Study Center</a>
+				<a href="" target="_blank">GridRepublic</a>
+				<a href="" target="_blank">Harvard Art Museums</a>
+				<a href="" target="_blank">Harvard Graduate School of Design</a>
+				<a href="" target="_blank">Harvard Library Lab at the Office for Scholarly Communication</a>
+				<a href="" target="_blank">Harvard University Press</a>
+				<a href="" target="_blank">Museum of Fine Arts</a>
+				<a href="" target="_blank">NovelTM</a>
+				<a href="" target="_blank">Project Projects</a>
+				<a href="" target="_blank">PRX</a>
+				<a href="" target="_blank">Small Design Firm Inc.</a>
+				<a href="" target="_blank">The Arnold Arboretum of Harvard University</a>
+				<a href="" target="_blank">The Berkman Klein Center for Internet and Society</a></a>
+				<a href="" target="_blank">The Center for Geographic Analysis</a>
+				<a href="" target="_blank">The Getty Foundation</a>
+				<a href="" target="_blank">The Laboratory at Harvard</a>
+				<a href="" target="_blank">The Observatory of literary life</a>
+				<a href="" target="_blank">The Sensory Ethnography Lab</a>
+				<a href="" target="_blank">Villa i Tatti - The Harvard University Center for Renaissance Studies</a>
+				<a href="" target="_blank">xycomm</a>
+			</div>
+		</div></div>		
+	</div>
+
+
+
