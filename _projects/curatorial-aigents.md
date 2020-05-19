@@ -2,7 +2,8 @@
 name: Curatorial A(i)gents
 layout: project
 type: project 
-year: 2020
+year: 2021
+startdate: 2020
 stat: ongoing
 featured: false
 order: 50
