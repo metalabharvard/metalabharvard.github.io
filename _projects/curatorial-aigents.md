@@ -39,7 +39,8 @@ bibliography:
 
 
 
-tweet-summary:
+tweet-summary: "A metaLAB series of interactive projects exploring machine learning in, around, and about the Harvard Art Museums"
+
 
 
 research-questions:
@@ -48,8 +49,6 @@ research-questions:
 
 
 ---
-**Curatorial A(i)gents<br />
-A metaLAB series of interactive projects exploring machine learning in, around, and about the Harvard Art Museums**
 
 *Curatorial A(i)gents* presents a series of machine-learning-based experiments with museum collections and data developed by members and affiliates of metaLAB (at) Harvard.
 
