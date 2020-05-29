@@ -11,23 +11,9 @@ email: mwmaizels@metalab.harvard.edu
 twitter:
 instagram: time_value_of_art
 ---
-Mike Maizels is an art historian and curator  whose work brings the
-visual arts into productive collision with a broad range of
-disciplinary histories and potential futures.  As an historian, he has
-undertaken several book projects including Barry Le Va: The Aesthetic
-Aftermath (University of Minnesota, 2015), In and Out Phase: An
-Episodic History of Art and Music in the 1960s (Forthcoming,
-University of Michigan), and Collecting the Now: Studies in the
-Postwar Art Market (In Progress).
 
-Maizels curatorial ventures have included  the first museum
-retrospective given to a videogame maker (The Game Worlds of Jason
-Rohrer) and lead to the discovery of hidden CIA training camps in the
-Arkansas National Forest (Until it Reached Into Our Lives...).  He is
-now at work on two major projects,  a multimedia opera produced in
-collaboration with two members of 808 Mafia, and a cryptocurrency
-mining installation that will be presented in both the US and China
-next year.
+Mike Maizels is an art historian and curator whose work brings the visual arts into productive collision with a broad range of disciplinary histories and potential futures. He is the author of three books and more than a dozen articles on topics ranging from the philosophy of mathematics to the influence of hip hop on the contemporary art market.  Maizels curatorial ventures have included the first museum retrospective given to a videogame maker and led to the discovery of CIA training camps hidden in the Arkansas National Forest.
 
-In addition to his work at metaLAB, Maizels is concurrently pursuing
-an MBA at the MIT Sloan Fellows Program (2019-2020)
+At metaLAB, Maizels is focusing on a pair of book projects—a series of essays on art and media in contemporary China, and a new economic history of contemporary art.  He is also working on a number of experimental exhibitions, including the forthcoming [Curatorial (Ai)gents](https://metalabharvard.github.io/projects/curatorial-aigents/). His most recent most book, on the intersecting histories of “minimalism” in contemporary art and music, [is now available](https://www.press.umich.edu/11489215/in_and_out_of_phase) from the University of Michigan Press.
+
+Maizels hold a PhD in the History of Art and Architecture from the University of Virginia and an MBA from MIT Sloan.
