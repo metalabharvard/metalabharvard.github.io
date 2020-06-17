@@ -5,7 +5,7 @@ type: project
 year: 2019
 stat: ongoing
 order: 12
-featured: true
+featured: false
 
 collaborators: Harvard Libraries
 context: Archives
