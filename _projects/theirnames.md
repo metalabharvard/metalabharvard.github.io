@@ -26,7 +26,42 @@ media:
     image: img0.jpg
     id: 00
     stat: featured
-
+  - medium:
+    image: img1.png
+    id: 01
+  - medium:
+    image: img2.png
+    id: 02
+  - medium:
+    image: img3.png
+    id: 03
+  - medium:
+    image: img4.png
+    id: 04
+  - medium:
+    image: img5.png
+    id: 05
+  - medium:
+    image: img6.png
+    id: 06
+  - medium:
+    image: img7.png
+    id: 07
+  - medium:
+    image: img8.png
+    id: 08
+  - medium:
+    image: img9.png
+    id: 09
+  - medium:
+    image: img10.png
+    id: 10
+  - medium:
+    image: img11.png
+    id: 11
+  - medium:
+    image: img12.png
+    id: 12
 
 press:
 
