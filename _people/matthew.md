@@ -2,7 +2,7 @@
 name: Matthew
 lastname: Battles
 layout: project
-title: Associate Director, Principal
+title: Director of Scholarly Initiatives, Principal
 one-line: 
 quote: No bird has the heart to sing in a thicket of questions. —René Char.
 website: mbattl.es

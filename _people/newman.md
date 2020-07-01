@@ -3,7 +3,7 @@ name: Sarah
 lastname: Newman
 page-title: Newman
 layout: project
-title: Senior Researcher, Principal
+title: "Director of Art & Education, Principal"
 one-line: 
 quote: 
 website: sarahwnewman.com
