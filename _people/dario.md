@@ -10,7 +10,7 @@ email: rodighie@mit.edu
 
 ---
 
-Dario Rodighiero is a postdoctoral associate at MIT Comparative Media Studies and an affiliate at Harvard metaLAB. He combines humanities and technology by practicing design at the intersection of architecture, data visualization, social science, graphic and interaction design. The Swiss National Science Foundation is currently financing his position.
+Dario Rodighiero is a postdoctoral associate at MIT Comparative Media Studies and a researcher at Harvard metaLAB. He combines humanities and technology by practicing design at the intersection of architecture, data visualization, social science, graphic and interaction design. The Swiss National Science Foundation is currently financing his position.
 
 He investigates the academic dynamics at different scales. After looking at individuals by designing the Affinity Map⁠, his research now focuses on the Worldwide Map of Research to create a recommendation system for scholarly mobility.
 
