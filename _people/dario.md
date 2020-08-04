@@ -2,7 +2,7 @@
 name: Dario
 lastname: Rodighiero
 layout: project
-title: Affiliate
+title: Postdoctoral Researcher
 row: 2
 website: dariorodighiero.com
 twitter: dariorodighiero
