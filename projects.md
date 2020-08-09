@@ -24,6 +24,7 @@ custom_js:
  {% assign project_elem = site.projects | sort: 'year' | sort: 'order' %}
 	{% for project in project_elem reversed %}
 	{% if project.stat == "ongoing" %}
+	{% if project.sub != true %}
 	{% if project.type == 'project' %}
 		<div class="grid-item short {{ project.year }} {{ project.type }} {% if project.featured %}featured{% endif %}">
 			<div class="elem_inner">
@@ -45,6 +46,7 @@ custom_js:
 		</div>	
 	{% endif %}	
 	{% endif %}	
+	{% endif %}
 	{% endfor %}
 
 

@@ -25,6 +25,7 @@ custom_js:
 	{% if project.type == "event" and project.year > 2018 %}{% assign test = true %}{% endif %}
 	{% if project.type == "teaching" and project.year > 2018 %}{% assign test = true %}{% endif %}
 	{% if test == true %}
+	{% if project.sub != true %}
 		<div class="grid-item short {{ project.year }} {{ project.type }} {% if project.featured %}featured{% endif %}">
 			<div class="elem_inner">
 				<a href="{{ site.baseurl }}{{ project.url }}">
@@ -47,6 +48,7 @@ custom_js:
 			</div>		
 		</div>	
 	{% endif %}	
+	{% endif %}
 	{% endfor %}
 
 
@@ -71,6 +73,8 @@ custom_js:
 	{% if project.stat == "complete" %}{% assign test = true %}{% endif %}
 	{% if project.type == "event" and project.year < 2019 %}{% assign test = true %}{% endif %}
 	{% if project.type == "teaching" and project.year < 2019 %}{% assign test = true %}{% endif %}	
+	{% if project.sub != true %}
+
 	{% if test == true %}
 			<div class="grid-item short {{ project.year }} {{ project.type }} {% if project.featured %}featured{% endif %}">
 			<div class="elem_inner">
@@ -90,6 +94,7 @@ custom_js:
 			</div>		
 		</div>	
 	{% endif %}	
+	{% endif %}
 	{% endfor %}
 
 

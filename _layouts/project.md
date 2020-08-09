@@ -259,8 +259,8 @@ custom_js:
 		{% if page.media %}
 			{% for medium in page.media %}
 				<div class="grid-item short {{ medium.stat }}">
-					<div class="elem_inner" onclick="show_popup('{{ medium.type }}', '../../assets/projects/{{ page.slug }}/{{medium.image}}','{{ medium.url }}')">
-						<div class="image cover medium_thumb" style="background-image:url('../../assets/projects/{{ page.slug }}/{{ medium.image }}')">
+					<div class="elem_inner" onclick="show_popup('{{ medium.type }}', '{% if page.sub %}../{% endif %}../../assets/projects/{% if page.sub %}{{ page.sub-name }}/{% endif %}{{ page.slug }}/{{medium.image}}','{{ medium.url }}')">
+						<div class="image cover medium_thumb" style="background-image:url('{% if page.sub %}../{% endif %}../../assets/projects/{% if page.sub %}{{ page.sub-name }}/{% endif %}{{ page.slug }}/{{ medium.image }}')">
 						</div>
 						<div class='text'>
 							<span class="sub-title"><b>img {{ medium.id }}</b></span>
