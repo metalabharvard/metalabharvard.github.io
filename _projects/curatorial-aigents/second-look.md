@@ -12,8 +12,8 @@ sub-name: curatorial-aigents
 
 collaborators: Harvard Art Museums
 context: Archives
-contact-email: jeffrey@metalab.harvard.edu
-contact-person: jeffrey
+contact-email: lins@metalab.harvard.edu
+contact-person: lins
 technologies:
 
 
