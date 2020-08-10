@@ -29,14 +29,14 @@ media:
   - medium:
     image: img0.jpg
     id: 00
-    stat: featured
+    stat:
     
     - medium:
     image: img1.jpg
     id: 01
-    stat:
+    stat: featured
 
-    url: http://mlhplayground.org/appc/
+url: http://mlhplayground.org/appc/
 
 press:
 
