@@ -13,7 +13,7 @@ sub-name: curatorial-aigents
 collaborators: Harvard Art Museums
 context: Archives
 contact-email: lins@metalab.harvard.edu
-contact-person: lins
+contact-person: _people/lins
 technologies:
 
 
