@@ -46,7 +46,7 @@ bibliography:
 
 
 
-tweet-summary: "Aixquisite Corpse invites museum patrons to explore computational and traditional roles for images by playing a variant of the surrealist game of Exquisite Corpse."
+tweet-summary: "Aixquisite Corpse explores computational and traditional roles for images through a variation on the surrealist game, Exquisite Corpse."
 
 
 
