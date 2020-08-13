@@ -30,7 +30,17 @@ media:
     image: img0.jpg
     id: 00
     stat: featured
-  
+    
+  - medium:
+    image: img1.jog
+    id: 01
+    stat:
+    
+  - medium:
+    image: img2.jog
+    id: 02
+    stat:
+    
 
     url: http://mlhplayground.org/appc/
 
