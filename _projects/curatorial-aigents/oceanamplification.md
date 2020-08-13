@@ -27,18 +27,18 @@ school:
 
 media:
   - medium:
-    image: img1.jpg
-    id: 01
+    image: img0.jpg
+    id: 00
     stat: featured
     
   - medium:
-    image: img2.jpg
-    id: 02
+    image: img1.jpg
+    id: 01
     stat:
     
    - medium:
-    image: img3.jpg
-    id: 03
+    image: img2.jpg
+    id: 02
     stat:
 
     url: http://mlhplayground.org/appc/
