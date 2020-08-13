@@ -51,7 +51,7 @@ bibliography:
 
 
 
-tweet-summary: "Ocean Amplification uses GAN-generated digital images of waves to visualize the transformation of oceans by climate change—and the energy demands of computation itself."
+tweet-summary: "Ocean Amplification uses GAN-generated digital images of waves to visualize the transformation of oceans by climate change—and the energy demands of computation."
 
 
 
