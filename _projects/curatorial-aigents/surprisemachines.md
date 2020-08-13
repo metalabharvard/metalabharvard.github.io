@@ -1,5 +1,5 @@
 ---
-name: Curatorial A(i)gents
+name: Surprise Machines
 layout: project
 type: project 
 year: 2021
