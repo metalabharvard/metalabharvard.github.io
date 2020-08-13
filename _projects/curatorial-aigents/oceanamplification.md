@@ -53,7 +53,7 @@ bibliography:
 
 
 
-tweet-summary: "A metaLAB series of interactive projects exploring machine learning in, around, and about the Harvard Art Museums"
+tweet-summary: "Ocean Amplification uses GAN-generated digital images of waves to visualize the transformation of oceans by climate change—and to explore the role played by the energy demands of computation."
 
 
 
