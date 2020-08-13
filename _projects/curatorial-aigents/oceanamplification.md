@@ -1,5 +1,5 @@
 ---
-name: Ocean Amplification
+name: "Ocean Amplification"
 layout: project
 type: project 
 year: 2021
@@ -12,7 +12,7 @@ sub-name: curatorial-aigents
 
 collaborators: Harvard Art Museums
 context: Archives
-contact-email: jeffrey@metalab.harvard.edu
+contact-email: falarcon@g.harvard.edu
 contact-person: francisco
 technologies:
 
