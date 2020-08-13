@@ -41,7 +41,7 @@ bibliography:
 
 
 
-tweet-summary: "Aixquisite Corpse explores computational and traditional roles for images through a variation on the surrealist game, Exquisite Corpse."
+tweet-summary:
 
 
 
