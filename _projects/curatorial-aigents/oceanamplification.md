@@ -26,21 +26,11 @@ school:
 
 
 media:
-
   - medium:
     image: img0.jpg
     id: 00
     stat: featured
-    
-  - medium:
-    image: img1.jpg
-    id: 01
-    stat:
-    
-   - medium:
-    image: img2.jpg
-    id: 02
-    stat:
+  
 
     url: http://mlhplayground.org/appc/
 
@@ -52,7 +42,7 @@ bibliography:
 
 
 
-tweet-summary: "Ocean Amplification uses GAN-generated digital images of waves to visualize the transformation of oceans by climate change—and the energy demands of computation."
+tweet-summary: "Ocean Amplification simulates images of waves to visualize the effects of climate change—and the energy demands of computation."
 
 
 
