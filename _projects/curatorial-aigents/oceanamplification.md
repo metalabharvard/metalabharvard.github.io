@@ -26,7 +26,7 @@ school:
 
 
 media:
-<!-- image issues -->
+
   - medium:
     image: img0.jpg
     id: 00
@@ -41,7 +41,7 @@ media:
     image: img2.jpg
     id: 02
     stat:
-</!>
+
     url: http://mlhplayground.org/appc/
 
 press:
