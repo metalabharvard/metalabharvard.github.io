@@ -33,7 +33,7 @@ media:
 links:
 
 
-tweet-summary: "In the midst of multiple crises, Hindsight 20/21 asks how the university is changing across its collections, communities, and curricula."
+tweet-summary: "Hindsight 20/21 asks how the university is changing across its collections, communities, and curricula."
 
 
 ---
