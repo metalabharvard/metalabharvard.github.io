@@ -27,6 +27,7 @@ media:
   - medium:
     image: img1.jpg
     id: 01
+    stat:
 
 
 links:
