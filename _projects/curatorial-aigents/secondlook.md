@@ -29,12 +29,12 @@ media:
   - medium:
     image: img0.jpg
     id: 00
-    stat:
+    stat: featured
     
     - medium:
     image: img1.jpg
     id: 01
-    stat: featured
+    stat:
 
 url: https://linsderry.github.io/SecondLook/
 
