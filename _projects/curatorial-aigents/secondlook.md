@@ -61,6 +61,6 @@ Not unlike animal forms of intelligence, artificial intelligence relies upon pat
 
 Conventional AI tools and services like the ones on exhibit, there exist only eight emotions and two genders; conflicted emotions and interstitial gender identities exist only as degrees of uncertainty along the path to a definitive single identification. By making a show of how an AI “sees” and “knows,” Second Look seeks not only to probe how an AI’s predetermined codes filter and interpret the perception of emotion and binary gender identity but also how similar assumptions propagate cultural norms within contemporary society. ([Lins Derry](https://metalabharvard.github.io/people/lins))
 
-[Second Look online.](https://linsderry.github.io/SecondLook/)
+[*Second Look* online.](https://linsderry.github.io/SecondLook/)
 
 [*Curatorial A(i)gents*](https://metalabharvard.github.io/projects/curatorial-aigents/) presents a series of machine-learning-based experiments with museum collections and data developed by members and affiliates of [metaLAB (at) Harvard](https://metalabharvard.github.io/), a creative research group working in the networked arts and humanities.
