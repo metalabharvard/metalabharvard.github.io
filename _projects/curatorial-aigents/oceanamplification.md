@@ -32,12 +32,12 @@ media:
     stat: featured
     
   - medium:
-    image: img1.jog
+    image: img1.jpg
     id: 01
     stat:
     
   - medium:
-    image: img2.jog
+    image: img2.jpg
     id: 02
     stat:
     
