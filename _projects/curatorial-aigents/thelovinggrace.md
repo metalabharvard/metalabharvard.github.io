@@ -41,7 +41,7 @@ bibliography:
 
 
 
-tweet-summary: "Observing the otherwise unwanted parts of facial recognition, The Loving Grace of Machine Eyes visualizes the reductiveness of algorithmic visual sense-making."
+tweet-summary: "Observing the otherwise unwanted parts of facial recognition, Watching Machines Loving Grace visualizes the reductiveness of algorithmic visual sense-making."
 
 
 
