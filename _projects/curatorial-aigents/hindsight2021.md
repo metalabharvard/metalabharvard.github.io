@@ -10,16 +10,19 @@ order: 50
 sub: true
 sub-name: curatorial-aigents
 
-collaborators:
+collaborators: Harvard Art Museums
 context: Archives
 contact-email: jeffrey@metalab.harvard.edu
 contact-person: jeffrey
 technologies:
-opportunities-for-involvement:
 
 
 thumbnail_format:
 
+
+
+semester: 
+school: 
 
 
 media:
