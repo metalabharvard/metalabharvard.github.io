@@ -30,15 +30,14 @@ media:
     stat:
 
 
-links:
+links: https://curricle.net/
 
 
 tweet-summary: "Hindsight 20/21 asks how the university is changing across its collections, communities, and curricula."
 
 
 ---
-The holdings of Harvard Art Museum are part of a larger collection: that of Harvard University, itself a collection of departments and schools,
-institutes and centers, laboratories, libraries, and museums. Varied in shape, scope, and size, these component parts have their roots in the curriculum: in what, as a community of researchers, teachers, and students, we teach. 
+The holdings of the Harvard Art Museums are part of a larger collection: that of Harvard University, itself a collection of departments and schools, institutes and centers, laboratories, libraries, and museums. Varied in shape, scope, and size, these component parts have their roots in the curriculum: in what we teach and learn as a community of researchers, teachers, and students. 
 
 The Covid-19 pandemic and the protest movement ignited by the killing of George Floyd have surely left their mark on the curriculum during the academic year 2020-2021. But what sort of mark? How have course offerings or registration and enrollment patterns shifted? How has the balance between in-person and on-line courses changed? What new alignments between disciplines are emerging? In what ways has the student body been most affected? How have the historical contours of the university changed? 
 
