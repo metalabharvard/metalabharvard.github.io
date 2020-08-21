@@ -56,7 +56,7 @@ Imagine that you are gazing at Claude Monet’s *The Gare Saint-Lazare: Arrival 
 This recommendation system is, in a sense, broken, which is to say, inaccurate. It does not respond to personal choices; it doesn’t collect data; nor does it attempt to interpolate preferences. Instead, it surfaces otherwise invisible artifacts in the collection, filtering for objects either rarely accessed or supported by incomplete records. The project employs randomization techniques to disrupt norms, to de-center the viewer’s perspective, to generate alternative instances of visibility and reimagine peripheries and borders. 
 
 “Brokenness” is a no less relative concept than wholeness. But here it is featured rather than concealed. The term becomes a window into the instrumental ethics of algorithms, one that observes how information filtering systems shape culture by reinscribing what is always already preferred. Brokenness provides an antidote by which further clicks reveal ever less familiar artists, defined objects, and identifiable regions. ([Giulia Taurino](https://metalabharvard.github.io/people/giulia))
-<img src="https://metalabharvard.github.io/assets/projects/curatorial-aigents/giphy1.gif">
+
 <iframe src="https://player.vimeo.com/video/406037065" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<img src="https://metalabharvard.github.io/assets/projects/curatorial-aigents/giphy2.gif"><br /><br />
+
 *Curatorial A(i)gents* presents a series of machine-learning-based experiments with museum collections and data developed by members and affiliates of [metaLAB (at) Harvard](https://metalabharvard.github.io/), a creative research group working in the networked arts and humanities.
