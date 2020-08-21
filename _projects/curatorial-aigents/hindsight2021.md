@@ -1,11 +1,14 @@
 ---
 name: "Hindsight 20/21"
 layout: project
-type: project
-year: 2020
+type: project 
+year: 2021
+startdate: 2020
 stat: ongoing
-order: 50
 featured: false
+order: 50
+sub: true
+sub-name: curatorial-aigents
 
 collaborators:
 context: Archives
