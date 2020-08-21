@@ -46,6 +46,8 @@ The Covid-19 pandemic and the protest movement ignited by the killing of George 
 
 These are some of the questions that the culminating event of Curatorial A(i)gents, *20/21 Hindsight*, will address. Comprised of a series of data visualizations, data science, and machine learning analyses, 20/21 Hindsight will be built within the framework of [Curricle Lens](https://curricle.net/), the research wing of metaLAB’s curricular discovery and exploration tool [Curricle](https://curricle.berkman.harvard.edu/#/home), illuminating insights about the University’s resumption of activities during the academic year 2020-2021.  
 
+[*Curatorial A(i)gents*](https://metalabharvard.github.io/projects/curatorial-aigents/) presents a series of machine-learning-based experiments with museum collections and data developed by members and affiliates of [metaLAB (at) Harvard](https://metalabharvard.github.io/), a creative research group working in the networked arts and humanities.
+
 
 
 
