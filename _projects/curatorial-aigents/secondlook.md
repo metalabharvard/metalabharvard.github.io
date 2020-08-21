@@ -63,4 +63,4 @@ Conventional AI tools and services like the ones on exhibit, there exist only ei
 
 [Second Look online.](https://linsderry.github.io/SecondLook/)
 
-*Curatorial A(i)gents* presents a series of machine-learning-based experiments with museum collections and data developed by members and affiliates of [metaLAB (at) Harvard](https://metalabharvard.github.io/), a creative research group working in the networked arts and humanities.
+[*Curatorial A(i)gents*](https://metalabharvard.github.io/projects/curatorial-aigents/) presents a series of machine-learning-based experiments with museum collections and data developed by members and affiliates of [metaLAB (at) Harvard](https://metalabharvard.github.io/), a creative research group working in the networked arts and humanities.
