@@ -27,9 +27,6 @@ media:
   - medium:
     image: img1.jpg
     id: 01
-  - medium:
-    image: img2.jpg
-    id: 02
 
 
 links:
