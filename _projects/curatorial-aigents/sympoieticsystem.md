@@ -1,5 +1,5 @@
 ---
-name: Sympoietic Systems
+name: Sympoietic System
 layout: project
 type: project 
 year: 2021
@@ -45,7 +45,7 @@ bibliography:
 
 
 
-tweet-summary: "Using weather data, algorithms, and a camera feed of the sky, Sympoietic Systems makes the weather a curator."
+tweet-summary: "Using weather data, algorithms, and a camera feed of the sky, Sympoietic System makes the weather a curator."
 
 
 
