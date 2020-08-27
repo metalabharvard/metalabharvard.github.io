@@ -27,7 +27,7 @@ thumbnail_format:
 media:
   - medium:
     image: img0.jpg
-    id: "0"
+    id: 00
     stat: featured
 
 
