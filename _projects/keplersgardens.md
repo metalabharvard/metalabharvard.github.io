@@ -4,12 +4,12 @@ layout: project
 type: event
 year: 2020
 startdate: 09&#46;11
-datestring: September 11, 2019
+datestring: September 11, 2020
 stat: ongoing
 featured: true
 location: Cambridge, MA
 upcoming: true
-order: 11
+order: 50
 chron: 110920
 
 collaborators:
