@@ -44,7 +44,9 @@ tweet-summary:
 
 ---
 **ONLINE<br />
-Friday, September 11** (full schedule to come)
+Friday, September 11
+12-2pm EDT** 
+(connection details to follow)
 
 In partnership with the Austrian Academy of Sciences, metaLAB is bringing [Curatorial A(i)gents](https://metalabharvard.github.io/projects/curatorial-aigents/) to the [Ars Electronica 2020 festival](https://ars.electronica.art/keplersgardens/en/), happening 9–13 September in Linz, Austria and, virtually, around the world. 
 
