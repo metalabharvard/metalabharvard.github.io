@@ -81,7 +81,7 @@ order: 1
 
 
 
-<div id="about" class="present_div fontsize_3">About</div>
+<div id="about" class="present_div fontsize_3"><h1>About</h1></div>
 
 
 <div class="grid about_grid">
@@ -108,7 +108,7 @@ order: 1
 </div>
 
 
-<div class="present_div fontsize_3">Humans</div>
+<div class="present_div fontsize_3"><h2>Humans</h2></div>
 
 <div class="grid about_grid">
  {% assign project_elem = site.people | sort: 'order' %}

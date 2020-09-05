@@ -56,7 +56,7 @@ custom_js:
 	<div class='project_metadetails fontsize_1'>
 	
 		<span class="obj_meta_type">{% if type == person %}Name:{% else %}Title:{% endif %}</span>
-		<span class="obj_meta_tab2">{{ page.name }}{% if type == person %} {{page.lastname}}{% endif %}</span>
+		<span class="obj_meta_tab2"><h1>{{ page.name }}{% if type == person %} {{page.lastname}}{% endif %}</h1></span>
 		{% if page.author %}
 			</br>
 			<span class="obj_meta_type">Author(s):</span>

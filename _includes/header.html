@@ -98,7 +98,7 @@
   <div class="menu_left">
     <!--metalab logo-->
     <div class="ml_logo">
-      <a class="site-title" href="{{ site.baseurl }}{{ "/" | relative_url}}"><img src="{{ site.baseurl }}/img/ml_logo.gif"/></a>
+      <a class="site-title" href="{{ site.baseurl }}{{ "/" | relative_url}}"><img src="{{ site.baseurl }}/img/ml_logo.gif" alt="metaLAB logo"/></a>
     </div>
     <nav id="nav-elems" class="site-nav">
     <div class="site-nav-inner">
@@ -148,9 +148,17 @@
     </nav>
 
   </div><!--end .wrapper-->
-  <div class="menu_right">
-    <img src="{{ site.baseurl }}/img/ml_logo_text_90.gif"/>
-  </div>
+    <div class="menu_right">
+  {% if page.title == "mL(at)H" %}
+    <h1>
+      <a href="/" tabindex="2">
+      <img alt="metaLAB (at) Harvard" src="{{ site.baseurl }}/img/ml_logo_text_90.gif"/>
+      </a>
+    </h1>
+  {% else %}
+      <img alt="metaLAB (at) Harvard" src="{{ site.baseurl }}/img/ml_logo_text_90.gif"/>
+  {% endif %}
+</div>
 </div>
 <script>
   function toggleNav() {

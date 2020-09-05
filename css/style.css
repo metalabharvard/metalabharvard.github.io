@@ -8,7 +8,9 @@
   color: #ffffff;
 }
 
-
+h1, h2 {
+	margin: 0px;
+}
 
 .left-bar {
 	width: 38%;
@@ -215,10 +217,10 @@ a:hover {
 
 
 
-.fontsize_1{
+.fontsize_1, .fontsize_1 h1{
 	font-size: 10px;
 }
-.fontsize_3{
+.fontsize_3, .fontsize_3 h1, .fontsize_3 h2{
 	font-size: 30px;
 }
 .fontsize_4{
@@ -284,10 +286,16 @@ a.fontcolor_b:hover{
 		font-weight: bold;
 		margin-left: 32px;
 	}
-	.obj_meta_tab2{
+	.obj_meta_tab2 {
 		font-weight: bold;
 		margin-left: 50px;
+
 	}
+	 .obj_meta_tab2 h1 {
+		display: inline;
+		font-weight: bold;
+
+	 }
 	.obj_meta{
 		font-weight: bold;
 	}

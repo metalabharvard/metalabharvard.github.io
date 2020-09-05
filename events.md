@@ -23,7 +23,7 @@ custom_js:
  {% assign project_upcoming = project_events | where: 'upcoming', 'true' %}
  {% assign project_elem = project_upcoming | sort: 'chron' %}
  {% if project_elem.size > 0 %}
-<div class="present_div fontsize_3">Upcoming Events</div>
+<div class="present_div fontsize_3"><h1>Upcoming Events</h1></div>
 <div class="grid grid_present">
 <div class="grid-sizer"></div>	
 	
@@ -33,9 +33,9 @@ custom_js:
 			<div class="elem_inner">
 				<a href="{{ site.baseurl }}{{ project.url }}">
 					{% if project.thumbnail_format %}
-						<div class="image cover" style="background-image:url('{{ site.baseurl }}/assets/projects/{{ project.slug }}.{{ project.thumbnail_format }}')"></div>	
+						<div class="image cover" role="img" aria-label="{% if project.alt-text %}{{project.alt-text}}{% else %}{{project.name}}{% endif %}"  style="background-image:url('{{ site.baseurl }}/assets/projects/{{ project.slug }}.{{ project.thumbnail_format }}')"></div>	
 					{% else %}
-						<div class="image cover" style="background-image:url('{{ site.baseurl }}/assets/projects/{{ project.slug }}.jpg')"></div>	
+						<div class="image cover" role="img" aria-label="{% if project.alt-text %}{{project.alt-text}}{% else %}{{project.name}}{% endif %}"  style="background-image:url('{{ site.baseurl }}/assets/projects/{{ project.slug }}.jpg')"></div>	
 					{% endif %}
 									
 					<div class='text fontsize_1 fontcolor_b'>
@@ -61,7 +61,7 @@ custom_js:
 
 
 
-<div class="present_div fontsize_3">Past Events</div>
+<div class="present_div fontsize_3"><h2>Past Events</h2></div>
 <div class="grid grid_past">
 <div class="grid-sizer"></div>
 
@@ -76,9 +76,9 @@ custom_js:
 			<div class="elem_inner">
 				<a href="{{ site.baseurl }}{{ project.url }}">
 					{% if project.thumbnail_format %}
-						<div class="image cover" style="background-image:url('{{ site.baseurl }}/assets/projects/{{ project.slug }}.{{ project.thumbnail_format }}')"></div>	
+						<div class="image cover" role="img" aria-label="{% if project.alt-text %}{{project.alt-text}}{% else %}{{project.name}}{% endif %}"  style="background-image:url('{{ site.baseurl }}/assets/projects/{{ project.slug }}.{{ project.thumbnail_format }}')"></div>	
 					{% else %}
-						<div class="image cover" style="background-image:url('{{ site.baseurl }}/assets/projects/{{ project.slug }}.jpg')"></div>	
+						<div class="image cover" role="img" aria-label="{% if project.alt-text %}{{project.alt-text}}{% else %}{{project.name}}{% endif %}"  style="background-image:url('{{ site.baseurl }}/assets/projects/{{ project.slug }}.jpg')"></div>	
 					{% endif %}
 									
 					<div class='text fontsize_1 fontcolor_b'>

@@ -61,7 +61,7 @@ order: 1
 {% assign project_elem = site.people | sort: 'order' %}
 
 
-<div id="community" class="present_div fontsize_3">Community</div>
+<div id="community" class="present_div fontsize_3"><h1>Community</h1></div>
 
 <div class="grid about_grid">
 <div class="text-block">
@@ -78,7 +78,7 @@ If you want to know more, send us a note at <a href='mailto:info@metalab.harvard
 
 <div class="grid about_grid">
 	
-	<div class="present_div fontsize_3">Alumni</div>
+	<div class="present_div fontsize_3"><h2>Alumni</h2></div>
 
 	{% for person in project_elem %}
 		{% if person.row == 4 %}
@@ -94,7 +94,7 @@ If you want to know more, send us a note at <a href='mailto:info@metalab.harvard
 
 </div>
 
-<div class="present_div fontsize_3">Partners</div>
+<div class="present_div fontsize_3"><h2>Partners</h2></div>
 <div class="grid about_grid">
 
 	<div class="grid-item partners short featured">
