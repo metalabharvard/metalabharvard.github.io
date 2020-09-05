@@ -56,6 +56,7 @@ The theme for this year's festival, "Kepler's Gardens," highlights the tenuous c
 
 In addition to sharing our projects in the festival's virtual exhibition, on Friday, September 11, metaLAB will host an online gathering with Curatorial A(i)gents artists, contributors to the program's accompanying publication, and members of the wider community. 
 
-Check out [further event details](https://ars.electronica.art/keplersgardens/en/aigents/). Curatorial A(i)gents is part of the [Ars Electronica Garden of Knowledge for Humanity](https://ars.electronica.art/keplersgardens/en/knowledge-for-humanity/).
+Check out [further event details](https://ars.electronica.art/keplersgardens/en/aigents/). 
+Curatorial A(i)gents is part of the [Ars Electronica Garden of Knowledge for Humanity](https://ars.electronica.art/keplersgardens/en/knowledge-for-humanity/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jqwzyOYOu9U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
