@@ -44,7 +44,7 @@ tweet-summary:
 
 ---
 **ONLINE<br />
-Friday, September 11
+Friday, September 11<br />
 12-2pm EDT** 
 
 [**LIVESTREAM EVENT REGISTRATION**](https://zoom.us/webinar/register/WN_1OqrxWZWT6WhPXxFD8ScTQ)
