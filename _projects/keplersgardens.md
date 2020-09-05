@@ -47,7 +47,7 @@ tweet-summary:
 Friday, September 11<br />
 12-2pm EDT** 
 
-[**LIVESTREAM EVENT REGISTRATION**](https://zoom.us/webinar/register/WN_1OqrxWZWT6WhPXxFD8ScTQ)
+Click through for [**LIVESTREAM EVENT REGISTRATION**](https://zoom.us/webinar/register/WN_1OqrxWZWT6WhPXxFD8ScTQ).
 
 In partnership with the Austrian Academy of Sciences, metaLAB is bringing [Curatorial A(i)gents](https://metalabharvard.github.io/projects/curatorial-aigents/) to the [Ars Electronica 2020 festival](https://ars.electronica.art/keplersgardens/en/), happening 9–13 September in Linz, Austria and, virtually, around the world. 
 
