@@ -56,4 +56,6 @@ Can machines think? In 1950 Alan Turing famously answered this question in the a
 
 *Surprise Machines* reprises Turing’s experiment some seven decades later by means of an AI-based curatorial experiment that relies upon “black box” algorithms whose behaviors, once set in motion, cannot be predicted by their programmers. It sets out to visualize the entire universe of Harvard Art Museums' collections, with the aim of opening up unexpected vistas on the more than 250,000 objects that make them up. ([Dario Rodighiero](https://metalabharvard.github.io/people/dario)) <br /><br />
 
+[**Surprise Machines online**](https://rodighiero.github.io/Surprise-Machines/).
+
 [*Curatorial A(i)gents*](https://metalabharvard.github.io/projects/curatorial-aigents/) presents a series of machine-learning-based experiments with museum collections and data developed by members and affiliates of [metaLAB (at) Harvard](https://metalabharvard.github.io/), a creative research group working in the networked arts and humanities.
