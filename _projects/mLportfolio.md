@@ -28,6 +28,7 @@ media:
     image: mLportfolio.gif
     id: 00
     stat: featured
+    alt-text: "animated tools moving on a table around the portfolio"
 
 
 
@@ -48,4 +49,4 @@ metaLAB began in 2011 as team of makers and thinkers betwixt and between the dis
 
 **Regular Copy:** $25 + shipping (calculated individually). Payment by check made out to "Harvard University." Use the [order form](https://forms.gle/fBqne61irvoFEjFR8) to calculate shipping and complete purchase. Numbered and signed copes are available from the first edition as well, at a cost of $100; email [info@metalab.harvard.edu](mailto:info@metalab.harvard.edu) for details.
 
-<img src="../../../assets/projects/mLportfolio/Flipping-Book.gif">
+<img src="../../../assets/projects/mLportfolio/Flipping-Book.gif" alt="animate gif of portfolio pages flipping">

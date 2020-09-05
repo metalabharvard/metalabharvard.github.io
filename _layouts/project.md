@@ -248,7 +248,7 @@ custom_js:
 	{% if page.type == person %}
 		<div class="grid-item short">
 			<div class="elem_inner" onclick="show_popup('{{ medium.type }}','../../assets/people/{{ page.slug }}.jpg','{{ medium.url }}')">
-				<div class="image cover medium_thumb" style="background-image:url('../../assets/people/{{ page.slug }}.jpg')">
+				<div class="image cover medium_thumb" role="img" aria-label="{% if page.alt-text %}{{page.alt-text}}{% else %}{{page.name}} {{page.lastname}}{% endif %}" style="background-image:url('../../assets/people/{{ page.slug }}.jpg')">
 				</div>
 				<div class='text'>
 					<span class="sub-title"><b>img 0</b></span>
@@ -260,7 +260,7 @@ custom_js:
 			{% for medium in page.media %}
 				<div class="grid-item short {{ medium.stat }}">
 					<div class="elem_inner" onclick="show_popup('{{ medium.type }}', '{% if page.sub %}../{% endif %}../../assets/projects/{% if page.sub %}{{ page.sub-name }}/{% endif %}{{ page.slug }}/{{medium.image}}','{{ medium.url }}')">
-						<div class="image cover medium_thumb" style="background-image:url('{% if page.sub %}../{% endif %}../../assets/projects/{% if page.sub %}{{ page.sub-name }}/{% endif %}{{ page.slug }}/{{ medium.image }}')">
+						<div class="image cover medium_thumb" role="img" aria-label="{% if medium.alt-text %}{{medium.alt-text}}{% else %}{{page.name}} project image{% endif %}" style="background-image:url('{% if page.sub %}../{% endif %}../../assets/projects/{% if page.sub %}{{ page.sub-name }}/{% endif %}{{ page.slug }}/{{ medium.image }}')">
 						</div>
 						<div class='text'>
 							<span class="sub-title"><b>img {{ medium.id }}</b></span>
