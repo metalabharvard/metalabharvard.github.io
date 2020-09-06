@@ -34,6 +34,12 @@
     line-height: 15px
 
   }
+
+  .menu_left ul {
+    margin-left:0px;
+    list-style: none;
+
+  }
   .menu_left .trigger{
     margin: 0;
     padding: 0;
@@ -100,7 +106,7 @@
     <div class="ml_logo">
       <a class="site-title" href="{{ site.baseurl }}{{ "/" | relative_url}}"><img src="{{ site.baseurl }}/img/ml_logo.gif" alt="metaLAB logo"/></a>
     </div>
-    <nav id="nav-elems" class="site-nav">
+    <nav id="nav-elems" class="site-nav" aria-label="Main Navigation">
     <div class="site-nav-inner">
 
       <!--menu elements-->
@@ -110,9 +116,10 @@
           <i class="fa fa-bars"></i>
        </a>
      </div>
-      <div id="homelink" class="menu_left_elem link">
+     <ul>
+      <li id="homelink" class="menu_left_elem link">
         <b><a class="page-link" href="https://metalabharvard.github.io">Home</a></b>
-      </div>
+      </li>
       {% assign sorted_pages = site.pages | sort:"title" %}
       {% for my_page in sorted_pages %}
         	{% if my_page.include %}
@@ -120,26 +127,27 @@
               {% if my_page.title != "Events" %}
                 {% if my_page.title != "Community" %}
 
-						<div class="menu_left_elem link">
+						<li class="menu_left_elem link">
               <b><a class="page-link" href="{{ site.baseurl }}{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></b>
-            </div>
+            </li>
               {% endif %}
               {% endif %}
 						{% endif %}
 					{% endif %}
         {% endfor %}
-            <div class="menu_left_elem link">
+            <li class="menu_left_elem link">
               <b><a class="page-link" href="{{ site.baseurl }}/community">Community</a></b>
-            </div>
+            </li>
             
 
 
-   					<div id="updates-nav" class="menu_left_elem link">
+   					<li id="updates-nav" class="menu_left_elem link">
               <b><a class="page-link" href="{{ site.baseurl }}/events">Events</a></b><br />
-            </div>
-            <div class="menu_left_elem link">
+            </li>
+            <li class="menu_left_elem link">
               <b><a class="page-link" href="https://medium.com/@metalabharvard">News</a></b>
-            </div>     
+            </li>   
+            </ul>  
 
       </div>
       
