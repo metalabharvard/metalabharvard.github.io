@@ -60,6 +60,24 @@ The theme for this year's festival, "Kepler's Gardens," highlights the tenuous c
 
 In addition to sharing our projects in the festival's virtual exhibition, on Friday, September 11, metaLAB will host an online gathering with Curatorial A(i)gents artists, contributors to the program's accompanying publication, and members of the wider community. 
 
+***Full program as follows:***
+
+Brief welcome (Eveline Wandl-Vogt, OAW)
+Introductory remarks (Jeffrey Schnapp, metaLAB)
+**Part 1** (respondent: Matthew Battles, metaLAB)
+1. A Flitting Atlas of the Human Gaze *Kevin Brewster, Todd Linkner, Dietmar Offenhuber, Jeffrey Schnapp*
+2. Aixquisite Corpse *Kevin Brewster, Keith Hartwig, Daniel Newman*
+3. Second Look: Gender and Sentiment on Show *Lins Derry*
+4. Ocean Amplification *Francisco Alarcon with Stefan Helmreich*
+*interlude* - Poster design *Chelsea Qiu* (Newman is respondent)
+**Part 2** (respondent: Jeffrey Schnapp)
+5. Surprise Machines *Dario Rodighiero*
+6. Sympoietic System *Philipp Schmitt*
+7. The Loving Grace of Machine Eyes *Kim Albrecht*
+8. This Recommendation System is Broken *Giulia Taurino*
+*interlude* - Touchless interface demo/presentation *Lins Derry* (respondent: Newman metaLAB)
+Closing remarks (Matthew Battles)
+
 Check out [further event details](https://ars.electronica.art/keplersgardens/en/aigents/). 
 Curatorial A(i)gents is part of the [Ars Electronica Garden of Knowledge for Humanity](https://ars.electronica.art/keplersgardens/en/knowledge-for-humanity/).
 
