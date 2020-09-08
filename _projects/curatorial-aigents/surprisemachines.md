@@ -58,4 +58,6 @@ Can machines think? In 1950 Alan Turing famously answered this question in the a
 
 [**Surprise Machines online**](https://rodighiero.github.io/Surprise-Machines/).
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4FHJPvq3RZg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [*Curatorial A(i)gents*](https://metalabharvard.github.io/projects/curatorial-aigents/) presents a series of machine-learning-based experiments with museum collections and data developed by members and affiliates of [metaLAB (at) Harvard](https://metalabharvard.github.io/), a creative research group working in the networked arts and humanities.
