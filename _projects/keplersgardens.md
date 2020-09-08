@@ -64,17 +64,21 @@ In addition to sharing our projects in the festival's virtual exhibition, on Fri
 
 Brief welcome (Eveline Wandl-Vogt, OAW)
 Introductory remarks (Jeffrey Schnapp, metaLAB)
+
 **Part 1** (respondent: Matthew Battles, metaLAB)
 1. A Flitting Atlas of the Human Gaze *Kevin Brewster, Todd Linkner, Dietmar Offenhuber, Jeffrey Schnapp*
 2. Aixquisite Corpse *Kevin Brewster, Keith Hartwig, Daniel Newman*
 3. Second Look: Gender and Sentiment on Show *Lins Derry*
-4. Ocean Amplification *Francisco Alarcon with Stefan Helmreich*</br>
+4. Ocean Amplification *Francisco Alarcon with Stefan Helmreich*
+
 *interlude* - Poster design *Chelsea Qiu* (Newman is respondent)
+
 **Part 2** (respondent: Jeffrey Schnapp)
 5. Surprise Machines *Dario Rodighiero*
 6. Sympoietic System *Philipp Schmitt*
 7. The Loving Grace of Machine Eyes *Kim Albrecht*
-8. This Recommendation System is Broken *Giulia Taurino*</br>
+8. This Recommendation System is Broken *Giulia Taurino*
+
 *interlude* - Touchless interface demo/presentation *Lins Derry* (respondent: Newman metaLAB)
 Closing remarks (Matthew Battles)
 
