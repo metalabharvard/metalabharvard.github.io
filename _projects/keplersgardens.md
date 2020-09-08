@@ -68,13 +68,13 @@ Introductory remarks (Jeffrey Schnapp, metaLAB)
 1. A Flitting Atlas of the Human Gaze *Kevin Brewster, Todd Linkner, Dietmar Offenhuber, Jeffrey Schnapp*
 2. Aixquisite Corpse *Kevin Brewster, Keith Hartwig, Daniel Newman*
 3. Second Look: Gender and Sentiment on Show *Lins Derry*
-4. Ocean Amplification *Francisco Alarcon with Stefan Helmreich*
+4. Ocean Amplification *Francisco Alarcon with Stefan Helmreich*</br>
 *interlude* - Poster design *Chelsea Qiu* (Newman is respondent)
 **Part 2** (respondent: Jeffrey Schnapp)
 5. Surprise Machines *Dario Rodighiero*
 6. Sympoietic System *Philipp Schmitt*
 7. The Loving Grace of Machine Eyes *Kim Albrecht*
-8. This Recommendation System is Broken *Giulia Taurino*
+8. This Recommendation System is Broken *Giulia Taurino*</br>
 *interlude* - Touchless interface demo/presentation *Lins Derry* (respondent: Newman metaLAB)
 Closing remarks (Matthew Battles)
 
