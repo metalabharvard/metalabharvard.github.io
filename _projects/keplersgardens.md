@@ -75,7 +75,7 @@ Brief welcome (Eveline Wandl-Vogt, OAW); introductory remarks (Jeffrey Schnapp, 
 **Part 2** (respondent: Jeffrey Schnapp)
 5. Surprise Machines *Dario Rodighiero*
 6. Sympoietic System *Philipp Schmitt*
-7. The Loving Grace of Machine Eyes *Kim Albrecht*
+7. Watching Machines Loving Grace *Kim Albrecht*
 8. This Recommendation System is Broken *Giulia Taurino*
 
 *interlude* - Touchless interface demo/presentation *Lins Derry* (respondent: Newman metaLAB); closing remarks (Matthew Battles)
