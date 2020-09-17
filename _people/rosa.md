@@ -3,12 +3,11 @@ name: Rosa
 lastname: Weinberg
 layout: project
 title: Affiliate
-row: 2
+row: 3
 website: leahrosaweinberg.com
 twitter: rosaweinberg
 instagram:leahrosaw
 email: rosaweinberg@gmail.com
-order: 8
 
 
 ---
