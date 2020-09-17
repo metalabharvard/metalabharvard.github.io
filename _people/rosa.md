@@ -3,7 +3,7 @@ name: Rosa
 lastname: Weinberg
 layout: project
 title: Affiliate
-row: 3
+row: 2
 website: leahrosaweinberg.com
 twitter: rosaweinberg
 instagram:leahrosaw
