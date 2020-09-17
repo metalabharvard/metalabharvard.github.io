@@ -1,5 +1,5 @@
 ---
-name: "metaLABprojects series: Idea Colliders: The Future of Science Museums, by Michael John Gorman"
+name: "Idea Colliders: The Future of Science Museums, by Michael John Gorman"
 layout: project
 type: publication
 year: 2020
