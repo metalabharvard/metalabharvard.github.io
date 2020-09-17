@@ -25,7 +25,7 @@ school:
 
 media:
   - medium:
-    image: collids_covers.jpg
+    image: img0.jpg
     id: 00
     stat: featured
     alt-text: "cover of book with title, author name, and abstract figural column"
@@ -36,7 +36,7 @@ bibliography:
 
 
 
-tweet-summary: "A provocative call for the transformation of science museums into “idea colliders” that spark creative collaborations and connections.""
+tweet-summary: "A provocative call for the transformation of science museums into “idea colliders” that spark creative collaborations and connections."
 
 
 research-questions:
