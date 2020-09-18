@@ -49,4 +49,4 @@ Today's science museums descend from the *Kunst-und Wunderkammern* of the Renais
 
 Gorman, founder of the trailblazing Science Gallery, describes three scenarios for science museums of the future—the Megamuseum Mall, “the Cirque de Soleil of the science museum world”; the Cloud Chamber, a local space for conversations and co-creation; and the invisible museum, digital device-driven informal science learning. He discusses hybrids that experiment with science and art and science galleries that engage with current research, encouraging connection, participation and surprise. Finally, he identifies ten key shifts in the evolution of science museums, including those from large to small, from interactive to participatory, from enclosed to porous, and from subject-specific to cross-disciplinary.
 
-**Idea Colliders** *is the first volume in the new [metaLABprojects series](https://mitpress.mit.edu/books/series/metalabprojects) with MIT Press.*
+*Idea Colliders* is the first volume in the new [metaLABprojects series](https://mitpress.mit.edu/books/series/metalabprojects) with MIT Press.
