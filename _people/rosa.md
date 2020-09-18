@@ -6,7 +6,7 @@ title: Affiliate
 row: 2
 website: leahrosaweinberg.com
 twitter: rosaweinberg
-instagram:leahrosaw
+instagram: leahrosaw
 email: rosaweinberg@gmail.com
 
 ---
