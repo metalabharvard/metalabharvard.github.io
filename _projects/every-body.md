@@ -59,7 +59,7 @@ tweet-summary: Celebrating the arrival of two books that question hidden assumpt
 Thursday, October 8
 12–1 pm EDT**
 
-register to attend: [brk.mn/every_body](https://harvard.zoom.us/s/95057002942?pwd=aDJrVkQra1pWRWRHVGQ0WUhwbWlHZz09)
+register to attend: [brk.mn/every-body](https://harvard.zoom.us/webinar/register/WN_7rb4WucGQFauNXP2zSkBqQ?_x_zm_rtaid=rj-J3n8eTSatVHyRJtl2-Q.1600954554561.858f31f2a938e496979008924430fc07&_x_zm_rhtaid=230)
 
 What does it look like when we engineer assistance for adaptation, rather than “normalcy”? How do makers, users, and designers actively reshape environments into usable worlds? Join us for a conversation with [Sara Hendren](https://sarahendren.com/), author of [*What Can a Body Do?*](https://www.penguinrandomhouse.com/books/561049/what-can-a-body-do-by-sara-hendren/) (Riverhead 2020); and Elizabeth Guffey, co-editor of & contributor to [*Making Disability Modern*](https://www.bloomsbury.com/us/making-disability-modern-9781350070448/) (Bloomsbury 2020)—two new books that question the hidden assumptions on which our everyday environment is built, and the roles of design & technology in defining ability & disability. 
 
