@@ -3,13 +3,13 @@ name: "EVERY BODY: a conversation with SARA HENDREN & ELIZABETH GUFFEY"
 layout: project
 type: event
 year: 2020
-startdate: 09&#46;11
+startdate: 10&#46;08
 datestring: October 8, 2020
 stat: ongoing
 featured: true
 location: Cambridge, MA
 upcoming: true
-order: 1
+order: 50
 chron: 081020
 
 collaborators:
