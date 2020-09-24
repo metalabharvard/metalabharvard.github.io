@@ -28,7 +28,7 @@ media:
   - medium:
     image: img0.jpg
     id: "0"
-    stat:
+    stat: featured
   - medium:
     image: img1.jpg
     id: "1"
