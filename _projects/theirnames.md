@@ -4,7 +4,7 @@ layout: project
 type: project 
 year: 2020
 stat: ongoing
-featured: true
+featured: false
 order: 40
 
 context: Archives
