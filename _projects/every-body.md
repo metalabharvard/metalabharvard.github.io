@@ -10,7 +10,7 @@ featured: true
 location: Cambridge, MA
 upcoming: true
 order: 50
-chron: 081020
+chron: 201008
 
 collaborators:
 context: Archives
@@ -27,19 +27,19 @@ thumbnail_format:
 media:
   - medium:
     image: img0.jpg
-    id: "0"
+    id: 00
     stat: featured
   - medium:
     image: img1.jpg
-    id: "1"
+    id: 01
     stat:
   - medium:
     image: img2.jpg
-    id: "2"
+    id: 02
     stat:
   - medium:
     image: img3.jpg
-    id: "3"
+    id: 03
     stat:
 
 
