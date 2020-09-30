@@ -29,18 +29,22 @@ media:
     image: img0.jpg
     id: 00
     stat:
+    alt-text: "cover for the book, What Can a Body Do?"
   - medium:
     image: img1.jpg
     id: 01
     stat:
+    alt-text: "cover for the book, Making Disability Modern"
   - medium:
     image: img2.jpg
     id: 02
     stat:
+    alt-text: "portrait of author Sara Hendren"
   - medium:
     image: img3.jpg
     id: 03
     stat:
+    alt-text: "portrait of author Elizabeth Guffey"
 
 
 links:
