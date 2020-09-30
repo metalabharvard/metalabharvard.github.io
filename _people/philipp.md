@@ -1,5 +1,5 @@
 ---
-name: Philip
+name: Philipp
 lastname: Schmitt
 layout: project
 title: Affiliate
