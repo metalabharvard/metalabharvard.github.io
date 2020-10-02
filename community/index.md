@@ -101,7 +101,7 @@ If you want to know more, send us a note at <a href='mailto:info@metalab.harvard
 		<div class="elem_inner"><div class="inner">
 			With partners at the Berkman Klein Center, across the university, and in the world at large, metaLAB explores the digital arts and humanities through research, experimentation, tool building, teaching, through publications in print and online, and via exhibition, performance, and social practice. Our projects infuse traditional modes of academic inquiry with an enterprising spirit of hacking, making, and creative research.
 			<div class="partner_list">
-				<a href="" target="_blank">Arts @ 29 Garden</a>
+				<a href="https://camd.northeastern.edu/center-for-design/" target="_blank">The Center for Design at Northeastern University</a>
 				<a href="" target="_blank">Critical Media Practice</a>
 				<a href="" target="_blank"><a href="" target="_blank">Faculty of Arts and Sciences</a>
 				<a href="" target="_blank">Film Study Center</a>
