@@ -110,7 +110,6 @@ If you want to know more, send us a note at <a href='mailto:info@metalab.harvard
 				<a href="https://mitpress.mit.edu/" target="_blank">MIT Press</a>
 				<a href="https://www.getty.edu/foundation/" target="_blank">The Getty Foundation</a>
 				<a href="https://sel.fas.harvard.edu/" target="_blank">The Sensory Ethnography Lab</a>
-				<a href="" target="_blank">xycomm</a>
 			</div>
 		</div></div>		
 	</div>
