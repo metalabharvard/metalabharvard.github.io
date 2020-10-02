@@ -112,7 +112,7 @@ If you want to know more, send us a note at <a href='mailto:info@metalab.harvard
 				<a href="https://sel.fas.harvard.edu/" target="_blank">The Sensory Ethnography Lab</a>
 			</div>
 		</div></div>		
-	</div>
+	</div></div>
 
 
 
