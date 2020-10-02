@@ -105,10 +105,12 @@ If you want to know more, send us a note at <a href='mailto:info@metalab.harvard
 				<a href="https://cmp.gsas.harvard.edu/" target="_blank">Critical Media Practice</a>
 				<a href="https://www.fas.harvard.edu/" target="_blank"><a href="" target="_blank">Faculty of Arts and Sciences</a>
 				<a href="https://filmstudycenter.org/" target="_blank">Film Study Center</a>
+				<a href="https://www.getty.edu/foundation/" target="_blank">The Getty Foundation</a>
+				<a href="https://datascience.harvard.edu/" target="_blank">Harvard Data Science Initiative</a>
 				<a href="https://www.harvardartmuseums.org/" target="_blank">Harvard Art Museums</a>
 				<a href="https://www.gsd.harvard.edu/" target="_blank">Harvard Graduate School of Design</a>
 				<a href="https://mitpress.mit.edu/" target="_blank">MIT Press</a>
-				<a href="https://www.getty.edu/foundation/" target="_blank">The Getty Foundation</a>
+				<a href="https://www.oeaw.ac.at/" target="_blank">Österreichische Akademie der Wissenschaften"</a>
 				<a href="https://sel.fas.harvard.edu/" target="_blank">The Sensory Ethnography Lab</a>
 		
 
