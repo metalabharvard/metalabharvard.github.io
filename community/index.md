@@ -102,27 +102,14 @@ If you want to know more, send us a note at <a href='mailto:info@metalab.harvard
 			With partners at the Berkman Klein Center, across the university, and in the world at large, metaLAB explores the digital arts and humanities through research, experimentation, tool building, teaching, through publications in print and online, and via exhibition, performance, and social practice. Our projects infuse traditional modes of academic inquiry with an enterprising spirit of hacking, making, and creative research.
 			<div class="partner_list">
 				<a href="https://camd.northeastern.edu/center-for-design/" target="_blank">The Center for Design at Northeastern University</a>
-				<a href="" target="_blank">Critical Media Practice</a>
-				<a href="" target="_blank"><a href="" target="_blank">Faculty of Arts and Sciences</a>
-				<a href="" target="_blank">Film Study Center</a>
-				<a href="" target="_blank">GridRepublic</a>
-				<a href="" target="_blank">Harvard Art Museums</a>
-				<a href="" target="_blank">Harvard Graduate School of Design</a>
-				<a href="" target="_blank">Harvard Library Lab at the Office for Scholarly Communication</a>
-				<a href="" target="_blank">Harvard University Press</a>
-				<a href="" target="_blank">Museum of Fine Arts</a>
-				<a href="" target="_blank">NovelTM</a>
-				<a href="" target="_blank">Project Projects</a>
-				<a href="" target="_blank">PRX</a>
-				<a href="" target="_blank">Small Design Firm Inc.</a>
-				<a href="" target="_blank">The Arnold Arboretum of Harvard University</a>
-				<a href="" target="_blank">The Berkman Klein Center for Internet and Society</a></a>
-				<a href="" target="_blank">The Center for Geographic Analysis</a>
-				<a href="" target="_blank">The Getty Foundation</a>
-				<a href="" target="_blank">The Laboratory at Harvard</a>
-				<a href="" target="_blank">The Observatory of literary life</a>
-				<a href="" target="_blank">The Sensory Ethnography Lab</a>
-				<a href="" target="_blank">Villa i Tatti - The Harvard University Center for Renaissance Studies</a>
+				<a href="https://cmp.gsas.harvard.edu/" target="_blank">Critical Media Practice</a>
+				<a href="https://www.fas.harvard.edu/" target="_blank"><a href="" target="_blank">Faculty of Arts and Sciences</a>
+				<a href="https://filmstudycenter.org/" target="_blank">Film Study Center</a>
+				<a href="https://www.harvardartmuseums.org/" target="_blank">Harvard Art Museums</a>
+				<a href="https://www.gsd.harvard.edu/" target="_blank">Harvard Graduate School of Design</a>
+				<a href="https://mitpress.mit.edu/" target="_blank">MIT Press</a>
+				<a href="https://www.getty.edu/foundation/" target="_blank">The Getty Foundation</a>
+				<a href="https://sel.fas.harvard.edu/" target="_blank">The Sensory Ethnography Lab</a>
 				<a href="" target="_blank">xycomm</a>
 			</div>
 		</div></div>		
