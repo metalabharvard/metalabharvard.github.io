@@ -14,8 +14,8 @@ chron: 081020
 
 collaborators:
 context: Archives
-contact-email: matthew@metalab.harvard.edu
-contact-person: matthew
+contact-email: magdaromanska@outlook.com
+contact-person: magda
 technologies:
 opportunities-for-involvement:
 
