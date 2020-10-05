@@ -10,7 +10,7 @@ featured: true
 location: Cambridge, MA
 upcoming: true
 order: 40
-chron: 081020
+chron: 091020
 
 collaborators:
 context: Archives
@@ -29,7 +29,7 @@ media:
     image: img0.jpg
     id: 00
     stat: featured
-    alt-text: Mahindra Transmedia Center logo
+    alt-text: "Mahindra Transmedia Center logo"
 
 
 links:
@@ -39,7 +39,7 @@ bibliography:
 
 
 
-tweet-summary: A seminar considering the intersection of contemporary art/theatre and new media technologies in immersive, multisite, and networked modes of transmedia storytelling, and performances instrumentalizing a range of live and digital platforms and formats.
+tweet-summary: A seminar considering the intersection of contemporary art/theatre and new media technologies in immersive, multisite, and networked modes of transmedia storytelling.
 
 
 
