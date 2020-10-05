@@ -1,16 +1,12 @@
 ---
 name: "MAHINDRA HUMANITIES CENTER: TRANSMEDIA ARTS SEMINAR"
 layout: project
-type: event
-year: 2020
-startdate: 10&#46;09
-datestring: October 9, 2020
+type: project 
+year: 2021
+startdate: 2020
 stat: ongoing
-featured: true
-location: Cambridge, MA
-upcoming: true
+featured: false
 order: 40
-chron: 091020
 
 collaborators:
 context: Archives
