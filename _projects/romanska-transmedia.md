@@ -45,7 +45,7 @@ tweet-summary:
 
 
 ---
-Magda Romanska, Emerson College, Oct 9, 5 pm 
+Magda Romanska, Emerson College, Oct 9, 5 pm </br> 
 Click to register: [**Transmedia Dramaturgy of Pre- and Post-Pandemic Theatre**](https://harvard.zoom.us/webinar/register/WN_1tb0qt4eTYqeQKTRgckoxw) 
 
 The classical, Aristotelian dramaturgy of two-dimensional linear storytelling traditionally used in theatre and film no longer works in transmedia narratives, which in addition to deploying familiar plot-driven structural devices (inciting incident, climax, denouement), often incorporate multiple access points, serendipity, immersion, world building, role play, seriality, and time/space co-presence. The vertical and horizontal structure of transmedia narratives has unpinned our previously familiar dramaturgical concepts, demanding a whole new vocabulary and structural understanding of how meaning is created in the three-dimensional paradigm of multiplatform storytelling. With the Covid-19 pandemic forcing theatre to adapt new technologies and new transmedia dramaturgy, new questions emerge: how are we to analyze, think critically, and develop narratives that use multiple structural and architectural frameworks?
