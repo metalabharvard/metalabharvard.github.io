@@ -35,7 +35,7 @@ bibliography:
 
 
 
-tweet-summary: A seminar considering the intersection of contemporary art/theatre and new media technologies in immersive, multisite, and networked modes of transmedia storytelling, and performances instrumentalizing a range of live and digital platforms and formats.
+tweet-summary: A seminar considering the intersection of contemporary art/theatre and new media technologies in immersive, multisite, and networked modes of transmedia storytelling.
 
 
 
