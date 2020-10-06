@@ -35,16 +35,16 @@ bibliography:
 
 
 
-tweet-summary: A seminar considering the intersection of contemporary art/theatre and new media technologies in immersive, multisite, and networked modes of transmedia storytelling.
+tweet-summary: The intersection of contemporary art/theatre and new media technologies in immersive, multisite, and networked modes of transmedia storytelling.
 
 
 
 
 
 ---
-Considers the intersection of contemporary art/theatre and new media technologies, taking up immersive, multisite, and networked modes of transmedia storytelling, performances instrumentalizing a range of live and digital platforms and formats, including social media, augmented and virtual reality, haptic and digital technology, visual and audio mapping, human/AI interaction, algorithms, and bodily and sensory enhancements.
+metaLAB is partnering with the Mahindra Humanities Center to sponsor the [Transmedia Arts Seminar](https://mahindrahumanities.fas.harvard.edu/transmedia-arts), chaired by [Magda Romanska](https://mahindrahumanities.fas.harvard.edu/people/magda-romanska) and [Hana Worthen](https://mahindrahumanities.fas.harvard.edu/people/hana-worthen). The seminar considers the intersection of contemporary art/theatre and new media technologies, taking up immersive, multisite, and networked modes of transmedia storytelling, performances instrumentalizing a range of live and digital platforms and formats, including social media, augmented and virtual reality, haptic and digital technology, visual and audio mapping, human/AI interaction, algorithms, and bodily and sensory enhancements.
 
-
+For the 2020-21 academic year, all seminar meetings will take place as webinars on Zoom; for all details, see the schedule and registration links below. 
 
 Magda Romanska, Emerson College, Oct 9, 5 pm 
 [“Transmedia Dramaturgy of Pre- and Post-Pandemic Theatre”](https://harvard.zoom.us/webinar/register/WN_1tb0qt4eTYqeQKTRgckoxw) 
