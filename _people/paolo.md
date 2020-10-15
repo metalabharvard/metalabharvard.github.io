@@ -5,7 +5,7 @@ layout: project
 title: Senior Affiliate
 row: 2
 website: https://camd.northeastern.edu/faculty/paolo-ciuccarelli/
-twitter: https://twitter.com/pciuccarelli
+twitter: pciuccarelli
 instagram:
 email: p.ciuccarelli@northeastern.edu
 
