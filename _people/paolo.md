@@ -1,33 +1,15 @@
 ---
 name: Paolo
-lastname: Petrocelli
+lastname: Ciuccarelli
 layout: project
-title: Affiliate
+title: Senior Affiliate
 row: 2
-one-line: 
-quote: 
-website: paolopetrocelli.com 
-tools-materials:
-email: paolo@paolopetrocelli.com 
-twitter: paolopetrocelli
-instagram: paolopetrocelli
-order: 8
+website: https://camd.northeastern.edu/faculty/paolo-ciuccarelli/
+twitter: https://twitter.com/pciuccarelli
+instagram:
+email: p.ciuccarelli@northeastern.edu
+
 ---
-Paolo Petrocelli, PhD-EMBA, is a senior performing arts manager, university professor, journalist, musicologist and violinist driven by the belief that culture, arts and education are a major force for growth, development and change globally.
 
-A passionate, innovative and dynamic manager with an extensive experience in leadership positions in a wide range of institutions and organizations, he is an international relations and global cultural affairs expert. In order to serve as an active citizen and support non-profit activity, he has become a leading member of some of the most prestigious international organizations, including United Nations, UNESCO, World Economic Forum.
- 
-As a cultural and music diplomacy ambassador, he serves in institutional roles to forge bonds through music and arts in Europe, the Middle East, Africa, Asia and the US.
+Architect and Communication Designer Paolo Ciuccarelli is the Director of the [Center for Design](https://camd.northeastern.edu/center-for-design/) and Professor of Design at Northeastern University, a position to which he was named after twenty years at Politecnico di Milano in Italy. At Politecnico, he coordinated the Communication Design program (BSc and MSc), has been member of the board at the PhD in Design and he founded the DensityDesign Research Lab, an award winning laboratory for data visualization and information design. Paolo’s research focuses on the design transformations that help making sense of data and information to improve decision making processes, especially with non experts stakeholders and for controversial complex social issues where he’s also experimenting on the role of rhetorics and visual poetry for a deeper engagement. He also works in developing tools and methods to understanding the evolution of the design discipline in the frame of a meta-design approach. Paolo is the author of award-winning publications, lectured at the Royal College of Arts, ENSCI Les Ateliers, Glasgow School of Arts, king’s College and Stanford Humanities Centre, and has been invited to talk at conferences such as Eyeo, TEDx, Visualized, NetSci, Congreso Futuro. He has been member of the board of the [Master in European Design](http://www.masterofeuropeandesign.com/).
 
-He is the Founder and President of EMMA for Peace (Euro-Mediterranean Music Academy), international non-governmental organization for the promotion of music diplomacy between Europe and the Middle East, Co-Founder of Opera for Peace, 
-Co-Founder and Honorary President of the Italian Youth Association for UNESCO, the largest youth organization in the UNESCO system, of which he served as President from 2014 to 2019.
-
-He is the Cultural and Music Diplomacy Officer of the Permanent Secretariat of the World Summit of Nobel Peace Laureates and Cultural Advisor to Coldplay. 
-
-He serves as Assistant for international development to the Superintendent of the Rome Opera House and he is the Lead for Italy of Sound Diplomacy. 
-
-Petrocelli is a Professor of cultural and music management at the Luiss Business School, John Cabot University,  Business School of Il Sole 24 Ore, Accademia Teatro alla Scala. 
-He has been a Visiting Fellow at Yale University and a Visiting Researcher at MIT Media Lab of the Massachusetts Institute of Technology.
-He is Founder of Opera Futura, the first Italian independent observatory on the future of opera.
-
-Petrocelli is a contributor to Forbes and Huffington Post, a TEDx Speaker and an Official Member of Forbes Nonprofit Council.
