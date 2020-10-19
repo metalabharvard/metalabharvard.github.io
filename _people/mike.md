@@ -12,8 +12,10 @@ twitter:
 instagram: time_value_of_art
 ---
 
-Mike Maizels is an art historian and curator whose work brings the visual arts into productive collision with a broad range of disciplinary histories and potential futures. He is the author of three books and more than a dozen articles on topics ranging from the philosophy of mathematics to the influence of hip hop on the contemporary art market.  Maizels curatorial ventures have included the first museum retrospective given to a videogame maker and led to the discovery of CIA training camps hidden in the Arkansas National Forest.
+Michael Maizels is a poly-disciplinary researcher working at the intersection of creativity, technology and commerce.
 
-At metaLAB, Maizels is focusing on a pair of book projects—a series of essays on art and media in contemporary China, and a new economic history of contemporary art.  He is also working on a number of experimental exhibitions, including the forthcoming [Curatorial (Ai)gents](https://metalabharvard.github.io/projects/curatorial-aigents/). His most recent most book, on the intersecting histories of “minimalism” in contemporary art and music, [is now available](https://www.press.umich.edu/11489215/in_and_out_of_phase) from the University of Michigan Press.
+Current projects include a white paper examining the applicability of novel organizational paradigms to the future of creative agency work, and a piece of adaptive AdTech which synchronizes music to film content in real time.  He is also completing two books: a collection of essays on Chinese art and technology, and a new economic history of postwar American art.
 
-Maizels hold a PhD in the History of Art and Architecture from the University of Virginia and an MBA from MIT Sloan.
+Highlights from past projects include curating the world’s first museum show given to a videogame designer and discovering the ruins of covert CIA training camps in the Arkansas National Forest. He has also published three books and more than a dozen articles on topics ranging from Kanye West to the philosophy of mathematics. His most recent book, on the intersecting histories of visual art and contemporary classical music, was published by the University of Michigan in June.
+
+He holds a PhD in the History of Art from the University of Virginia and an MBA from MIT Sloan.
