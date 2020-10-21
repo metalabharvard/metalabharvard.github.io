@@ -44,7 +44,7 @@ bibliography:
 
 
 
-tweet-summary: Exploring the varied museums of Iceland, and how we content with memory, trauma, fascination, and fear in objects on display.
+tweet-summary: Exploring the varied museums of Iceland, and how we contend with memory and trauma, fascination and fear, through objects on display.
 
 
 
