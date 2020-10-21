@@ -50,7 +50,7 @@ tweet-summary: Exploring the varied museums of Iceland, and how we contend with 
 
 ---
 **ONLINE<br />
-Thursday, October 8
+Thursday, October 29
 12–1 pm EDT**
 
 register to attend: [brk.mn/sea-seen](https://harvard.zoom.us/webinar/register/WN_nEr70AqcRwuklBfJcUtF_g)
