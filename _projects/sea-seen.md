@@ -53,7 +53,7 @@ tweet-summary: Exploring the varied museums of Iceland, and how we content with 
 Thursday, October 8
 12–1 pm EDT**
 
-register to attend: [brk.mn/sea-seen](brk.mn/sea-seen)
+register to attend: [brk.mn/sea-seen](https://harvard.zoom.us/webinar/register/WN_nEr70AqcRwuklBfJcUtF_g)
 
 With a population roughly that of St. Louis, Iceland boasts 265 museums: museums of driftwood; museums of birds; museums of sorcery and sea monsters. Join metaLAB’s Matthew Battles in conversation with author A. Kendra Greene, whose lively, wise book explores the collections of this long-isolated, tourist-buffeted nation. At metaLAB, we’re fascinated with & flummoxed by museums large and small. As they assemble objects into networks, they tell stories of power and authority in digital and material worlds. We turn to Greene in hopes of learning how the qualities of memory and trauma, fascination and fear, become bound up in objects on display.
 
