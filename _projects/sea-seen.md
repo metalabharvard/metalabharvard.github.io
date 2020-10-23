@@ -3,14 +3,14 @@ name: "From Sea to Seen: a metaLAB conversation with A. Kendra Greene"
 layout: project
 type: event
 year: 2020
-startdate: 10&#46;29
-datestring: October 29, 2020
+startdate: 11&#46;05
+datestring: November 5, 2020
 stat: ongoing
 featured: true
 location: Cambridge, MA
 upcoming: true
 order: 50
-chron: 201029
+chron: 201105
 
 collaborators:
 context: Archives
@@ -50,7 +50,7 @@ tweet-summary: Exploring the varied museums of Iceland, and how we contend with 
 
 ---
 **ONLINE<br />
-Thursday, October 29
+Thursday, November 5
 12–1 pm EDT**
 
 register to attend: [brk.mn/sea-seen](https://harvard.zoom.us/webinar/register/WN_nEr70AqcRwuklBfJcUtF_g)
