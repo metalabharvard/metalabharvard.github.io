@@ -68,7 +68,7 @@ bibliography:
 
 
 
-tweet-summary: "I learned that questions are not indicative of incompleteness, but rather the questions themselves can be the practice."
+tweet-summary: ""I learned that questions are not indicative of incompleteness, but rather the questions themselves can be the practice.""
 
 
 research-questions:
