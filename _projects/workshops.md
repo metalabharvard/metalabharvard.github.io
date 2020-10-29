@@ -27,31 +27,31 @@ media:
     stat: featured
   - medium:
     image: img1.jpg
-    id: 00
+    id: 01
     stat:
   - medium:
     image: img2.jpg
-    id: 00
+    id: 02
     stat:
   - medium:
     image: img3.jpg
-    id: 00
+    id: 03
     stat:
   - medium:
     image: img4.jpg
-    id: 00
+    id: 04
     stat:
   - medium:
     image: img5.jpg
-    id: 00
+    id: 05
     stat:
   - medium:
     image: img6.jpg
-    id: 00
+    id: 06
     stat:
   - medium:
     image: img7.jpg
-    id: 00
+    id: 07
     stat:
 
 
