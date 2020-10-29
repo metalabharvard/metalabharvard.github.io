@@ -2,7 +2,7 @@
 name: Workshops
 layout: project
 type: teaching
-year: 2017
+year: 2020
 stat: ongoing
 featured: true
 order: 1
