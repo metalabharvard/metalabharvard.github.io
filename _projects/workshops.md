@@ -5,7 +5,7 @@ type: teaching
 year: 2020
 stat: ongoing
 featured: true
-order: 1
+order: 50
 
 collaborators:
 context: Letters
@@ -16,8 +16,8 @@ opportunities-for-involvement:
 
 thumbnail_format:
 
-semester: Fall 2017
-school: GSD
+semester: Spring 2020
+school: FAS
 
 
 media:
@@ -76,6 +76,9 @@ research-questions:
 
 
 ---
+
+<iframe src="https://player.vimeo.com/video/473445114" width="100%" height="300" frameborder="0"></iframe>
+
 metaLAB is committed to interdisciplinary work and collaboration across the humanities, arts, and technology, with innovative research methods and media-rich outputs. Over the past several years, we have offered a number of workshops, a wintersession course, and a graduate seminar that bridge disparate forms of scholarship. metaLAB has created a workshop methodology that brings creative and artistic materials to bear on otherwise abstract research problems. The workshops, designed by metaLAB Director of Art & Education, Sarah Newman, and led by scholars and artists from metaLAB, utilize design-thinking methodologies to contend with conceptual and philosophical questions through a series of exercises and artistic production. metaLAB has led workshops at Harvard College, the Berkman Klein Center, Harvard Art Museums, the MIT Media Lab, Vassar College, SXSW in Austin, RightsCon in Tunis, and in 2020 have redesigned these workshops to offer them virtually.
 
 <iframe src="https://player.vimeo.com/video/473445114" width="100%" height="300" frameborder="0"></iframe>
