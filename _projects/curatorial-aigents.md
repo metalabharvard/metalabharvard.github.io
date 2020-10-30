@@ -6,7 +6,7 @@ year: 2021
 startdate: 2020
 stat: ongoing
 featured: false
-order: 50
+order: 40
 
 collaborators: Harvard Art Museums
 context: Archives
