@@ -4,7 +4,7 @@ lastname: Petrocelli
 layout: project
 title: Affiliate
 row: 2
-website:  http://www.paolopetrocelli.com 
+website:  www.paolopetrocelli.com 
 twitter: paolopetrocelli
 instagram: paolopetrocelli
 email: paolo@paolopetrocelli.com 
