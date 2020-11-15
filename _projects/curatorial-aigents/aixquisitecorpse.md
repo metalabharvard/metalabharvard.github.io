@@ -59,6 +59,8 @@ research-questions:
 
 
 ---
+<iframe src="http://www.exquisitecorpse.tech/" width="100%" height="800" frameborder="0" title="AIxquisite Corpse"></iframe><br />
+[**Aixquisite Corpse**](http://www.exquisitecorpse.tech/)
 
 Images of the objects that museums collect are increasingly analyzed by algorithms. What is the relationship between algorithmic image analysis and time-honored traditions of human study, analysis, and curation? How might humans interact with algorithms to produce new modes of creative and curatorial expression? 
 
