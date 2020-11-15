@@ -56,7 +56,7 @@ research-questions:
 
 
 ---
-<iframe src="https://linsderry.github.io/SecondLook/" width="100%" height="800" frameborder="0" title="Second Look"></iframe>
+<iframe src="https://linsderry.github.io/SecondLook/" width="100%" height="500" frameborder="0" title="Second Look"></iframe>
 <br />
 [*Second Look*](https://linsderry.github.io/SecondLook/)
 
