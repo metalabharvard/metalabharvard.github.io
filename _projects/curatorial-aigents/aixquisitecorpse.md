@@ -59,7 +59,7 @@ research-questions:
 
 
 ---
-<iframe src="http://www.exquisitecorpse.tech/" width="100%" height="300" frameborder="0" title="AIxquisite Corpse"></iframe>
+<iframe src="http://exquisitecorpse.tech/" width="100%" height="300" frameborder="0" title="AIxquisite Corpse"></iframe>
 
 [**Aixquisite Corpse**](http://www.exquisitecorpse.tech/)
 
