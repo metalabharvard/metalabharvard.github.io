@@ -56,6 +56,9 @@ research-questions:
 
 
 ---
+<iframe src="https://linsderry.github.io/SecondLook/" width="100%" height="800" frameborder="0" title="Second Look"></iframe>
+<br />
+[*Second Look*](https://linsderry.github.io/SecondLook/)
 
 Not unlike animal forms of intelligence, artificial intelligence relies upon pattern recognition. But its understanding of patterns is dependent upon rigid and rigorous categories predefined by human programmers and upon far more limited data inputs than those provided by the sensory apparatus of a sentient being. Second Look calls attention to the circularity of how an artificial intelligence “sees” and “knows” by asking it to infer gender and sentiment in paintings from the Harvard Art Museums. The result is a curatorial exercise that, as it exposes aspects of how gender has been interpreted by painters across time within the Harvard collections, showcases the powers and limitations of AI as an analytical tool. 
 
