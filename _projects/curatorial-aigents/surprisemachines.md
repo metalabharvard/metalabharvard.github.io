@@ -51,8 +51,8 @@ research-questions:
 
 
 ---
-<iframe src="https://rodighiero.github.io/Surprise-Machines/" width="100%" height="800" frameborder="0" title="Surprise Machines"></iframe>
-
+<iframe src="https://rodighiero.github.io/Surprise-Machines/" width="100%" height="300" frameborder="0" title="Surprise Machines"></iframe>
+<br />
 [**Surprise Machines**](https://rodighiero.github.io/Surprise-Machines/)
 
 Can machines think? In 1950 Alan Turing famously answered this question in the affirmative by means of a so-called “imitation game” in the course of which an examiner is asked to distinguish between humans and machines while communicating via a typewriter. He argued that, once the responses appear indistinguishable, the machine can be correctly be understood as engaged in thought. In an article entitled “Computing Machines and Intelligence,” Turing approached the subject of artificial intelligence from multiple perspectives, one of them inspired by the English mathematician Ada Lovelace. Here Lovelace figures as Turing’s foil, arguing that machines are incapable of thought because they are incapable of “tak[ing] us by surprise.” Turing counters by stating that machines are a frequent source of surprise, behaving unpredictably and, thereby, generating surprises. 
