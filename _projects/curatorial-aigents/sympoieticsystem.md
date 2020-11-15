@@ -55,6 +55,9 @@ research-questions:
 
 
 ---
+<iframe src="https://philippschmitt.com/sympoietic-system/" width="100%" height="300" frameborder="0" title="A Flitting Atlas of the Human Gaze"></iframe><br />
+[**Sympoietic System**](https://philippschmitt.com/sympoietic-system/).
+
 Expectations of artificial intelligence are typically drawn from expectations of ourselves as autonomous, thinking agents. However, humans are social as well as cognitive beings; they make worlds by interacting with one another, with objects, and with systems. Dempster and Haraway have called this phenomenon "sympoiesis," or "making-together." Here, the observed weather becomes the curator of an exhibition. 
 
 The project was developed for the Harvard Art Museums’ Lightbox Gallery, which is located between a glass roof above and a sweeping courtyard view below. Using weather data and a camera feed of the sky, a custom software continuously selects works from the museum's collections by linking color between meteorological observations and image metadata. Artworks are presented on a digital display, and the color of the sky outside tints the naturally-lighted gallery. A contact microphone attached to the glass roof creates a soundscape, subtly meandering between indoors and out.
