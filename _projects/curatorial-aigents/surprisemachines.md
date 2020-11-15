@@ -51,7 +51,7 @@ research-questions:
 
 
 ---
-<iframe src="https://rodighiero.github.io/Surprise-Machines/" width="100%" height="300" frameborder="0" title="Surprise Machines"></iframe>
+<iframe src="https://rodighiero.github.io/Surprise-Machines/" width="100%" height="800" frameborder="0" title="Surprise Machines"></iframe>
 <br />
 [**Surprise Machines**](https://rodighiero.github.io/Surprise-Machines/)
 
