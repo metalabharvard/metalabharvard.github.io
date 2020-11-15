@@ -51,6 +51,10 @@ research-questions:
 
 
 ---
+<iframe src="https://watching-machines.kimalbrecht.com/" width="100%" height="500" frameborder="0" title="Watching Machines Loving Grace"></iframe><br />
+
+[**Watching Machines Loving Grace**](http://watching-machines.kimalbrecht.com/)
+
 *Watching Machines Loving Grace* observes the otherwise unwanted parts of facial recognition. The project visualizes the media negativity of algorithmic visual sense-making within the Harvard Art Museums collection.
 
 Computer vision is reductive by design. It proceeds by splicing rectangles out of images to determine age, gender, or facial expression, among others but removes the contextual framework to perform the task. For a human observer, the image of a smiling 24-year-old belly dancer and a smiling 24-year-old old soldier may appear sharply distinct. The algorithmic interpretation highlights the sameness of the two while removing its context. Through the advances of machine learning and computational capacities, machine vision moved from scientific endeavors into a broad spectrum of domains. Consumer goods such as Apple's Face ID, aging apps, or Instagram filters shaped popular culture over the last decade. Similar algorithms are currently reshaping mass surveillance and the tracking of unwanted individuals. 
