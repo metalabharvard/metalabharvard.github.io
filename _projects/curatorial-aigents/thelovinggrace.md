@@ -51,7 +51,7 @@ research-questions:
 
 
 ---
-<iframe src="https://watching-machines.kimalbrecht.com/" width="100%" height="500px" frameborder="0" title="Watching Machines Loving Grace"></iframe><br />
+<iframe src="https://watching-machines.kimalbrecht.com/" width="100%" height="500px" style="margin-left:-100px"frameborder="0" title="Watching Machines Loving Grace"></iframe><br />
 
 [**Watching Machines Loving Grace**](http://watching-machines.kimalbrecht.com/)
 
