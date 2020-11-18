@@ -69,4 +69,4 @@ Thursday, December 10
 
  In conversation with metaLAB faculty director Jeffrey Schnapp, Gorman will discuss his trajectory in the museums world, point to provocations and innovative models around the world, and discuss key shifts he sees in the evolution of science museums, including from large to small, from interactive to participatory, from enclosed to porous, and from subject-specific to cross-disciplinary.
 
-<iframe src="https://player.vimeo.com/video/480982296" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/480982296" width="100" height="300" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
