@@ -44,7 +44,7 @@ bibliography:
 
 
 
-tweet-summary: Exploring the future of science museums with Michael John Gorman, founder of the innovative Science Gallery.
+tweet-summary: Exploring the future of science museums with Michael John Gorman, founder of Biotopia and Science Gallery International.
 
 
 
