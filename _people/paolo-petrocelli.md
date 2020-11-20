@@ -7,7 +7,7 @@ row: 2
 website:  www.paolopetrocelli.com 
 twitter: paolopetrocelli
 instagram: paolopetrocelli
-email: paolo@paolopetrocelli.com 
+email: paolop@metalab.harvard.edu
 
 ---
 
