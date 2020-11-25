@@ -2,7 +2,7 @@
 name: Rosa
 lastname: Weinberg
 layout: project
-title: Affiliate
+title: Research Affiliate
 row: 2
 website: leahrosaweinberg.com
 twitter: rosaweinberg
