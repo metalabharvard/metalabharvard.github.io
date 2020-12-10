@@ -3,7 +3,7 @@ name: Heather
 lastname: Kapplow
 layout: project
 title: Affiliate
-row: 4
+row: 2
 website: http://www.heatherkapplow.com
 twitter: @hkapplow
 instagram: @heather_kapplow
