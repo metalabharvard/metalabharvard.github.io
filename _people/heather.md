@@ -4,9 +4,9 @@ lastname: Kapplow
 layout: project
 title: Affiliate
 row: 2
-website: http://www.heatherkapplow.com
-twitter: @hkapplow
-instagram: @heather_kapplow
+website: heatherkapplow.com
+twitter: hkapplow
+instagram: heather_kapplow
 email: 
 
 ---
