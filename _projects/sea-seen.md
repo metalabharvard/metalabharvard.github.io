@@ -53,7 +53,8 @@ tweet-summary: Exploring the varied museums of Iceland, and how we contend with 
 Thursday, November 5
 12–1 pm EDT**
 
-register to attend: [brk.mn/sea-seen](https://harvard.zoom.us/webinar/register/WN_nEr70AqcRwuklBfJcUtF_g)
+<iframe src="https://player.vimeo.com/video/490442667" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/490442667">From Sea to Seen: a metaLAB conversation with A. Kendra Greene</a> from <a href="https://vimeo.com/metalabharvard">metaLAB(at)Harvard</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 With a population roughly that of St. Louis, Iceland boasts 265 museums: museums of driftwood; museums of birds; museums of sorcery and sea monsters. Here, metaLAB’s Matthew Battles joins a conversation with author A. Kendra Greene, whose lively, wise book explores the collections of this long-isolated, tourist-buffeted nation. At metaLAB, we’re fascinated with & flummoxed by museums large and small. As they assemble objects into networks, they tell stories of power and authority in digital and material worlds. We turn to Greene in hopes of learning how the qualities of memory and trauma, fascination and fear, become bound up in objects on display.
 
