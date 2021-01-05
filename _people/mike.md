@@ -11,11 +11,8 @@ email: mwmaizels@metalab.harvard.edu
 twitter:
 instagram: time_value_of_art
 ---
+Michael Maizels is a poly-disciplinary researcher working at the intersection of creativity, technology and economics. Recent topics of exploration include the applicability of novel organizational paradigms to the future of creative agency work, and the potential to create adaptive advertising soundtracks. Previous projects include overseeing the world’s first museum show given to a videogame designer and discovering the ruins of covert CIA training camps in the Arkansas National Forest. He has also published three books and more than a dozen articles on topics ranging from the philosophy of mathematics to Kanye West. His most recent book, on the intersecting histories of visual art and contemporary classical music, was published by the University of Michigan in summer 2020. Two additional books are forthcoming in 2021. 
 
-Michael Maizels is a poly-disciplinary researcher working at the intersection of creativity, technology and commerce.
+Maizels holds a PhD in the History of Art and Architecture from the University of Virginia and an MBA from MIT Sloan.
 
-Current projects include a white paper examining the applicability of novel organizational paradigms to the future of creative agency work, and a piece of adaptive AdTech which synchronizes music to film content in real time.  He is also completing two books: a collection of essays on Chinese art and technology, and a new economic history of postwar American art.
-
-Highlights from past projects include curating the world’s first museum show given to a videogame designer and discovering the ruins of covert CIA training camps in the Arkansas National Forest. He has also published three books and more than a dozen articles on topics ranging from Kanye West to the philosophy of mathematics. His most recent book, on the intersecting histories of visual art and contemporary classical music, was published by the University of Michigan in June.
-
-He holds a PhD in the History of Art from the University of Virginia and an MBA from MIT Sloan.
+[Platform Strategies + Agency Futures White Paper](https://drive.google.com/file/d/1Jk8aOmuXosfrF2V-vzIlkOL5tQMXggrG/view)
