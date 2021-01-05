@@ -15,4 +15,4 @@ Michael Maizels is a poly-disciplinary researcher working at the intersection of
 
 Maizels holds a PhD in the History of Art and Architecture from the University of Virginia and an MBA from MIT Sloan.
 
-[Platform Strategies + Agency Futures White Paper](https://drive.google.com/file/d/1Jk8aOmuXosfrF2V-vzIlkOL5tQMXggrG/view)
+[Platform Strategies + Agency Futures White Paper](https://drive.google.com/file/d/1Jk8aOmuXosfrF2V-vzIlkOL5tQMXggrG/view)(Paper is password protected; for access, reach out to the author via email, listed above.)
