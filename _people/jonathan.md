@@ -11,7 +11,7 @@ tools-materials:
 email:
 twitter: jonnysun
 instagram: jomnysun
-row: 2
+row: 4
 ---
 Jonathan Sun is the author behind [@jonnysun](https://twitter.com/jonnysun) and the book ["everyone’s a aliebn when ur a aliebn too"](https://www.harpercollins.com/9780062569028/everyones-a-aliebn-when-ur-a-aliebn-too) (HarperPerennial, 2017). When he isn't tweeting, he is a designer, engineer, artist, playwright and comedy writer. He is currently a doctoral student at MIT, an affiliate of the Berkman Klein Center for Internet and Society at Harvard, and a creative researcher at the Harvard metaLAB, where he studies AI, social media and online community. 
 
