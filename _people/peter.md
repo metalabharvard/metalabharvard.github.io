@@ -3,7 +3,7 @@ name: Peter
 lastname: McMurray
 layout: person
 title: Post-Doctoral Researcher
-row: 2.5
+row: 4
 one-line: 
 quote: 
 website:
