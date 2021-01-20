@@ -3,7 +3,7 @@ name: Myrna
 lastname: Ayoub
 layout: person
 title: Affiliate
-row: 2.5
+row: 4
 one-line: 
 quote: 
 website:
