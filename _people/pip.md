@@ -3,7 +3,7 @@ name: Pip
 lastname: Mothersill
 layout: project
 title: Affiliate
-row: 2
+row: 4
 one-line: 
 quote: 
 website: pipmothersill.com
