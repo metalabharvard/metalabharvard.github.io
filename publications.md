@@ -12,20 +12,14 @@ custom_js:
 .ind{
 }
 .present_div{
-}
-.about_grid .short{
-}
-.about_grid .short.row2{
-	height: 100px;
 }	
 	
 .text-block {
-		position: relative;
-	    float: left;
-	    display: block;
-	    margin: 0 35px 40px 35px;
-	    font-size: 20px;
-	}
+	position: relative;
+	float: left;
+	display: block;
+	margin: 0 35px 40px 35px;
+	font-size: 20px;
 }
 </style>
 
