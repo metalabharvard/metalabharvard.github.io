@@ -19,7 +19,7 @@ custom_js:
 	    display: block;
 	    margin: 0 35px 40px 35px;
 	    font-size: 20px;
-	}
+}
 
 </style>
 
