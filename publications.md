@@ -21,12 +21,18 @@ custom_js:
 	margin: 0 35px 40px 35px;
 	font-size: 20px;
 }
+
+.alt-grid {
+    overflow: hidden;
+    position: relative;
+    margin-bottom: 60px;
+}
 </style>
 
 
 
 <div class="present_div fontsize_3"><h1>Publications</h1></div>
-<div class="about_grid">
+<div class="alt-grid about_grid">
 <div class="text-block">
 <p>As a knowledge design lab, metaLAB produces work that inhabits, extends, and connects across the received categories of cultural and scholarly communication. Lab members collaborate on books, articles, database documentaries, installations, and exhibitions as well as on such publications as decks of cards, posters, and data visualizations. Like our research, these publications take diverse forms, combining traditional scholarly genres like the monograph with the poster, the playing card, and other popular formats, and experimenting with materiality, graphic design, and digital/print hybridity.</p>
 </div>
