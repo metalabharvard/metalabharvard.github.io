@@ -52,7 +52,7 @@ We were very pleased to inaugurate our distribution partnership with Printed Mat
 
 Finally, *The Library Beyond the Book* examines the proliferating future for libraries in a world mixed digital and physical realities.  metaLAB principals Jeffrey Schnapp and Matthew Battles imagine a variety of new social, cultural, and architectural forms that the institution of the library is likely to take.  Fittingly, the book is accompanied by a playable deck of cards, offered here, which encourages readers, users, and participants to “reshuffle” the future of the library for themselves.
 
- <iframe width="100%" height="100%" src="https://www.youtube.com/embed/MA5fttnJpeY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="100%" height="300" src="https://www.youtube.com/embed/MA5fttnJpeY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
