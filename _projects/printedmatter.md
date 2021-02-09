@@ -7,7 +7,7 @@ startdate: 1&#46;28
 datestring: January 28, 2021
 stat: ongoing
 featured: true
-location: Cambridge, MA
+location: online
 upcoming: false
 order: 60
 chron: 210128
