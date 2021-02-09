@@ -1,5 +1,5 @@
 ---
-name: "Printed Matter: Discussing metaLAB publications with the premier seller of artists' books"
+name: "Printed Matter: exploring metaLAB publications"
 layout: project
 type: event
 year: 2020
