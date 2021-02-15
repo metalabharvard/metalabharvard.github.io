@@ -4,7 +4,7 @@ layout: project
 type: teaching
 year: 2020
 stat: ongoing
-featured: true
+featured: false
 order: 50
 
 collaborators:

@@ -5,7 +5,7 @@ type: project
 year: 2021
 startdate: 2020
 stat: ongoing
-featured: true
+featured: false
 order: 50
 
 collaborators: Harvard Art Museums
