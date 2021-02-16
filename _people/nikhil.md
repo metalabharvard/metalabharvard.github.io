@@ -8,7 +8,7 @@ twitter: nikdharmaraj
 instagram: nikhil.dharmaraj
 email: ndharmaraj@college.harvard.edu
 order: 12
-row: 2
+row: 4
 ---
 Nikhil Dharmaraj is a senior at The Harker School in sunny San Jose, California who is fascinated by the intersection of technology and the humanities. Through post-AP Computer Science coursework, extra-curricular courses, hackathons, and research internships at CMU and MIT, Nikhil has developed a deep passion for software engineering, and specifically, artificial intelligence. However, as a strong proponent of interdisciplinary study, Nikhil has delved deeply into the liberal arts too: he is a nationally-ranked speech competitor in Original Oratory, an avid student of the Classics (and vice president of his school's JCL chapter), and a current Mitra Family Foundation scholar researching Lucretius and Charles Darwin. Now, Nikhil hopes to make use of cutting-edge technology to better understand the timeless human experience.
 
