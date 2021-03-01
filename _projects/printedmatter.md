@@ -6,7 +6,7 @@ year: 2020
 startdate: 1&#46;28
 datestring: January 28, 2021
 stat: ongoing
-featured: true
+featured: false
 location: online
 upcoming: false
 order: 60
