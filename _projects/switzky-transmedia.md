@@ -2,7 +2,7 @@
 name: "MAHINDRA TRANSMEDIA ARTS SEMINAR: Lawrence Switzky, "Playable Theatre: on Gaming and Aesthetic Control"
 layout: project
 type: event
-year: 2020
+year: 2021
 startdate: 03&#46;23
 datestring: March 23, 2021
 stat: ongoing
@@ -29,7 +29,7 @@ media:
     image: img0.jpg
     id: 00
     stat: featured
-    alt-text: "Mahindra Center title card for Transmedia Arts Seminar"
+    alt-text: "Mahindra Center notice for Switzky Seminar"
   
 
 
