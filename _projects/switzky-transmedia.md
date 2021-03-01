@@ -1,5 +1,5 @@
 ---
-name: "MAHINDRA TRANSMEDIA ARTS SEMINAR: "Playable Theatre": on Gaming and Aesthetic Control
+name: "MAHINDRA TRANSMEDIA ARTS SEMINAR: 'Playable Theatre': on Gaming and Aesthetic Control"
 layout: project
 type: event
 year: 2021
