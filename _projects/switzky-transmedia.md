@@ -9,7 +9,7 @@ stat: ongoing
 featured: true
 location: Cambridge, MA
 upcoming: true
-order: 40
+order: 60
 chron: 210323
 
 collaborators:
@@ -40,7 +40,7 @@ bibliography:
 
 
 
-tweet-summary: 
+tweet-summary: Theorizing the enhancements and constraints that gaming brings to theatre.
 
 
 
