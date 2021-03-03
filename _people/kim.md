@@ -7,6 +7,7 @@ one-line:
 quote: 
 website: kimalbrecht.com
 twitter: kimay
+instagram: kimfalbrecht
 tools-materials:
 email: me@kimalbrecht.com
 row: 1
