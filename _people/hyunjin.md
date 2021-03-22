@@ -7,7 +7,7 @@ row: 2
 website:
 twitter: hyunjinseo
 instagram:
-email:
+email: hseo@ku.edu
 linkedin: hyunjinseo
 
 ---
