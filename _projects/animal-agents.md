@@ -40,7 +40,7 @@ bibliography:
 
 
 
-tweet-summary: 
+tweet-summary: How mechanized animals might produce a disturbance that provokes possibility.
 
 
 
