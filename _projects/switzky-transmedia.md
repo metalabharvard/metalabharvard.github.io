@@ -8,7 +8,7 @@ datestring: March 23, 2021
 stat: ongoing
 featured: false
 location: Cambridge, MA
-upcoming: true
+upcoming: false
 order: 60
 chron: 210323
 
