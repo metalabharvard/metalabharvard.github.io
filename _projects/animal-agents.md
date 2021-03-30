@@ -1,5 +1,5 @@
 ---
-name: "MAHINDRA TRANSMEDIA ARTS SEMINAR: Jenn Parker-Starbuck, "Animals in the Machine: Robotic Animal Agents"
+name: "MAHINDRA TRANSMEDIA ARTS SEMINAR: Jenn Parker-Starbuck, Animals in the Machine: Robotic Animal Agents"
 layout: project
 type: event
 year: 2021
@@ -29,7 +29,7 @@ media:
     image: img0.jpg
     id: 00
     stat: featured
-    alt-text: "Mahindra Center title card for Transmedia Arts Seminar"
+    alt-text: "Mahindra Center title card for Animal Agents talk"
   
 
 
