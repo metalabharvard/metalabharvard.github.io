@@ -2,7 +2,7 @@
 name: "Printed Matter: exploring metaLAB publications"
 layout: project
 type: event
-year: 2020
+year: 2021
 startdate: 1&#46;28
 datestring: January 28, 2021
 stat: ongoing

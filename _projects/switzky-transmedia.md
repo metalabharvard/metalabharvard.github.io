@@ -6,10 +6,10 @@ year: 2021
 startdate: 03&#46;23
 datestring: March 23, 2021
 stat: ongoing
-featured: true
+featured: false
 location: Cambridge, MA
-upcoming: true
-order: 60
+upcoming: false
+order: 40
 chron: 210323
 
 collaborators:
