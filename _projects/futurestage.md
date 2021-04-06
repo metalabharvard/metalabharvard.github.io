@@ -5,7 +5,7 @@ type: project
 year: 2021
 stat: ongoing
 order: 50
-featured: false
+featured: true
 
 collaborators:
 context: Archives
