@@ -3,7 +3,7 @@ name: Margaret
 lastname: Rhee
 layout: project
 title: Visiting Researcher
-row: 1
+row: 4
 order: 14
 twitter: mrheeloy
 email: mrhee@fas.harvard.edu
