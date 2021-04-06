@@ -3,7 +3,7 @@ name: Yue Chelsea
 lastname: Qiu
 layout: project
 title: Researcher
-row: 1
+row: 4
 order: 13
 instagram: muaffin
 website: chelseaqiu.com
