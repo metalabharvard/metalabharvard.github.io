@@ -3,7 +3,7 @@ name: Dario
 lastname: Rodighiero
 layout: project
 title: Postdoctoral Researcher
-row: 2
+row: 1
 website: dariorodighiero.com
 twitter: dariorodighiero
 email: rodighie@mit.edu
