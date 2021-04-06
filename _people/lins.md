@@ -4,7 +4,7 @@ lastname: Derry
 layout: project
 title: Researcher, Principal
 row: 1
-order: 7
+order: 6
 instagram: linsderry
 twitter: linsderry
 ---
