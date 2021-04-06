@@ -3,7 +3,7 @@ name: Annette
 lastname: Jael Lehmann
 layout: project
 title: Senior Affiliate
-row: 2
+row: 1
 website: annette-jael-lehmann.de
 twitter:
 instagram: annettejaellehmann
