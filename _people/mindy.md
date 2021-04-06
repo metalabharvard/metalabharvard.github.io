@@ -3,7 +3,7 @@ name: Mindy
 lastname: Seu
 layout: project
 title: Designer and Researcher
-row: 1
+row: 4
 order: 7
 one-line: 
 quote: 
