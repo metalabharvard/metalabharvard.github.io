@@ -2,9 +2,9 @@
 name: Lins
 lastname: Derry
 layout: project
-title: Researcher
+title: Researcher, Principal
 row: 1
-order: 12
+order: 7
 instagram: linsderry
 twitter: linsderry
 ---
