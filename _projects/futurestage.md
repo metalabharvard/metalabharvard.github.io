@@ -23,6 +23,7 @@ media:
   - medium:
     image: img0.jpg
     id: 00
+    stat: featured
 
 
 links:
