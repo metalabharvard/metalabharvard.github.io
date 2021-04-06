@@ -4,6 +4,7 @@ lastname: Jael Lehmann
 layout: project
 title: Senior Affiliate
 row: 1
+order: 7
 website: annette-jael-lehmann.de
 twitter:
 instagram: annettejaellehmann
