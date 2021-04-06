@@ -3,7 +3,7 @@ name: Chiara Fauda
 lastname: Pichet
 layout: project
 title: Visiting Researcher
-row: 1
+row: 4
 order: 13
 instagram: chiarafauda
 twitter: chiarafauda
