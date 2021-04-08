@@ -95,7 +95,7 @@ Research Affiliate, metaLAB at Harvard
 President, Beijing Contemporary Art Foundation 
 
 
-[Magda Romanska](https://metalabharvard.github.io/people/magda) (USA)
+[Magda Romanska](http://magdaromanska.com) (USA)
 Associate Professor of Theatre Studies and Dramaturgy, Emerson College 
 Executive Director and Editor-in-Chief, [TheTheatreTimes.com](https://thetheatretimes.com)   
 
