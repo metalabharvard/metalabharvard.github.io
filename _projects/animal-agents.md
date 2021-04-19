@@ -6,9 +6,9 @@ year: 2021
 startdate: 04&#46;15
 datestring: April 15, 2021
 stat: ongoing
-featured: true
+featured: false
 location: Cambridge, MA
-upcoming: true
+upcoming: false
 order: 60
 chron: 210415
 
