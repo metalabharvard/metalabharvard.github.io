@@ -3,7 +3,7 @@ name: Shirley
 lastname: Ogolla
 layout: project
 title: Affiliate
-row: 2
+row: 4
 quote:
 website: ai-oracle.info
 tools-materials:
