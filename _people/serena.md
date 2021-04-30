@@ -4,7 +4,7 @@ lastname: Oduro
 layout: project
 title: Affiliate
 row: 2
-website:  
+website:  linkedin.com/in/serena-oduro/
 twitter: SerenaOduro
 instagram: 
 email: serena.oduro@greenlining.org
