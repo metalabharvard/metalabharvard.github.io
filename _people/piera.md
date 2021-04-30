@@ -3,7 +3,7 @@ name: Piera
 lastname: Riccio
 layout: project
 title: Affiliate
-row: 2
+row: 4
 website: linkedin.com/in/piera-riccio-96649211a/
 twitter:
 instagram: petronilla___
