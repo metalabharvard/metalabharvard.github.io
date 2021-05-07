@@ -8,8 +8,8 @@ website:  Jeanette-Andrews.com
 twitter:
 instagram: @JeanetteAndrewsMagic 
 email: info@jeanetteandrews.com
-
 ---
+
 Jeanette Andrews is an artist, magician and researcher. Her practice seeks to create, and create access to wondrous things. Andrews’ work focuses the development of interactive magic and sensory illusions via performance, sculpture, installation and audio. 
 
 Over 25 years of specialized study and technical training in parlor and sleight of hand magic has now afforded her a distinct perspective on crafting experiences with nuanced psychological underpinnings, direction of attention and inattention, the creation of surreal visuals and designing/building objects that function completely differently than they appear. Her research-based process centers around phenomenological philosophy, contemporary cognitive science, and physics. Her work is rooted in highlighting astonishing aspects of everyday life via moments of the seemingly impossible. This draws viewers’ awareness to the dynamic process of sensory perception itself and ‘sensing oneself sensing,’ to create a lived phenomenology. Themes of pieces have included invisibility, impossible objects, the relationship between scent and magic, unseen communication, and how illusions can construct reality. Scientific oddities, historic anecdotes, and sensory anomalies combine with magic and illusion to create robust interactive experiences. In an increasingly connected and knowledge-driven world, an explicit goal of her practice is to foster empathy and spark curiosity, contemplation and wonder.
