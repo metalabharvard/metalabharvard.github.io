@@ -4,9 +4,9 @@ lastname: Andrews
 layout: project
 title: Affiliate
 row: 2
-website:  Jeanette-Andrews.com
+website: Jeanette-Andrews.com
 twitter:
-instagram: @JeanetteAndrewsMagic 
+instagram: JeanetteAndrewsMagic 
 email: info@jeanetteandrews.com
 ---
 
