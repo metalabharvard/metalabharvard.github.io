@@ -66,3 +66,5 @@ Lawrence Switzky, University of Toronto, March 23, 2021, 5 pm
 
 Jen Parker-Starbuck, Royal Holloway, University of London, April 15, 2021, 5 pm
 [“Animals in the Machine: Robotic Animal Agents”](https://harvard.zoom.us/webinar/register/WN_Ps1Kkaf_S-yb0tjxv0TrSg)
+
+[Panel: The Future of Transmedia Performance](https://harvard.zoom.us/webinar/register/WN_eeQ8KbEiS16OX0yAIRIDdg). May 14, 2021, 5 pm
