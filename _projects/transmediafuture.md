@@ -64,7 +64,7 @@ PANELISTS:
 [Paul Sermon (UK) Professor of Visual Communication at the University of Brighton](http://www.paulsermon.org/sermon/)
 
  
-[Roman Senkl (Germany) Dramaturg at Digitale Dramaturgie / Akademie für Theater und Digitalität](https://theater.digital/en/)
+[Roman Senkl (Germany) Head of Digital Arts Lab at Berliner Festspiele; Theatre Director and Founder of Digitale Dramaturgie](https://theater.digital/en/)
 
 
 
