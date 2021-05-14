@@ -3,7 +3,7 @@ name: Robots In and Out of Buildings
 layout: project
 type: teaching
 year: 2017
-stat: ongoing
+stat: complete
 featured: false
 order: 1
 
