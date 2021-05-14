@@ -3,7 +3,7 @@ name: Knowledge Design Seminar
 layout: project
 type: teaching
 year: 2017
-stat: ongoing
+stat: complete
 featured: false
 
 collaborators:
