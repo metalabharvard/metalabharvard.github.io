@@ -82,5 +82,5 @@ Fri 6.25,3-4:15 PM EST
 Ten minutes of pre-work will be required for each workshop. In the interest of extending the opportunity as broadly as possible, we are allowing individuals to sign up for one workshop (feel free to join the waitlist for others). **Attendance for the full 75 minutes is expected.** Since it is interactive and quite intense, it is not a drop in/out kind of thing! If you sign up and realize you cannot attend, just let us know and we will open up a spot from the waitlist. Thank you! Looking forward to it!
 
 [Learn more about our workshops here.](https://metalabharvard.github.io/projects/workshops/)   
-With additional questions, please contact Newman: [sarahnewmanstudio@gmail.com](sarahnewmanstudio@gmail.com)
+With additional questions, please contact Newman: [sarahnewmanstudio@gmail.com](mailto:sarahnewmanstudio@gmail.com)
 
