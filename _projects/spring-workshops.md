@@ -54,25 +54,25 @@ Created and led by metaLAB Director of Art & Education, Sarah Newman, these work
 
 
 **AI as a Mirror</br>
-Reflecting our Best (and Worst) Selves**</br>
-Fri 5.28,12-1:15 PM EST</br>
-*Registration opens Monday 5.17, 12 pm EST*</br> 
+Reflecting our Best (and Worst) Selves**  
+Fri 5.28,12-1:15 PM EST  
+*Registration opens Monday 5.17, 12 pm EST*   
 [Sign up here to receive an email with link when registration opens](https://docs.google.com/forms/d/e/1FAIpQLSeodec2_b_a480ATRueH1DlbBNwvxBtlAmfKSPYpxncFQaRqw/viewform?usp=sf_link)
 
 We hear all the buzz about AI. We know some of the risks. Maybe some of the opportunities. How much better can a technology be than the people who create it? Who (and what) are we building for? And who gets left out? How can we learn about ourselves by looking to the technologies that we want to build or use? As AI systems are built on more and more data, what do we get, and what are we giving up? We’ll explore these and other questions through discussion, design thinking, physical prototyping, and more. 
 
-**The Mysteries of Time</br> 
-In Physics & Philosophy**</br>
-Fri 6.11,10-11:15 AM EST</br>
+**The Mysteries of Time   
+In Physics & Philosophy**  
+Fri 6.11,10-11:15 AM EST  
 *Registration opens Monday 5.31, 12 pm EST*</br>
 [Sign up here to receive an email with link when registration opens](https://docs.google.com/forms/d/e/1FAIpQLSdHu5ou6wOZy-smKOAJqK1S2-sxfcLhOjVgwgrfanewwGihsw/viewform?usp=sf_link)
 
 Five minutes can pass in a flash, or feel like an eternity. There are countless poems, songs, and cliches about it. But what really *is* time? How is time defined in physics and philosophy? Is time a property of the world or a property of experience—or both? Or neither? What do we know, what do we not yet understand? We’ll explore these and other questions through discussion, design thinking, physical prototyping, and more. 
 
 
-**From Telegrams to Telepathic Memos:</br>
-The Future of Trust & Truth Online**</br>
-Fri 6.25,3-4:15 PM EST</br>
+**From Telegrams to Telepathic Memos:  
+The Future of Trust & Truth Online**  
+Fri 6.25,3-4:15 PM EST  
 *Registration opens Monday 5.31, 12 pm EST*</br>
 [Sign up here to receive an email with link when registration opens](https://docs.google.com/forms/d/e/1FAIpQLSe-kvAXlT5K3odmSUtbiwRs7hzWLrWTMec1VtEWwXwfa9TZBQ/viewform?usp=sf_link)
 
