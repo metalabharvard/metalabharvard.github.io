@@ -16,7 +16,7 @@ opportunities-for-involvement:
 
 thumbnail_format:
 
-semester: Fall 2017
+semester: Spring 2021
 school: GSD
 
 
