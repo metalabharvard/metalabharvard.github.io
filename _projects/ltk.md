@@ -3,7 +3,7 @@ name: Library Test Kitchen
 layout: project
 type: teaching
 year: 2016
-stat: ongoing
+stat: complete
 featured: false
 
 collaborators: Simmons SLIS, Jeff Goldenson
