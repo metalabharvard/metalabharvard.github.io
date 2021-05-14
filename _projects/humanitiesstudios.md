@@ -3,7 +3,7 @@ name: Humanities Studios
 layout: project
 type: teaching
 year: 2016
-stat: ongoing
+stat: complete
 featured: false
 
 collaborators:
