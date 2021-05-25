@@ -2,7 +2,7 @@
 name: Lucas
 lastname: Chu
 layout: project
-title: Research Assistant
+title: Researcher and TOP Project Lead
 row: 2
 website:
 twitter:
