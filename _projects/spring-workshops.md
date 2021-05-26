@@ -1,7 +1,7 @@
 ---
 name: 2021 Virtual Creative Spring Workshops
 layout: project
-type: teaching
+type: event
 year: 2021
 stat: ongoing
 featured: true
