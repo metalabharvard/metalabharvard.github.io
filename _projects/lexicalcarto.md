@@ -3,7 +3,7 @@ name: "Lexical Cartography of DH2020"
 layout: project
 type: project
 year: 2020
-stat: ongoing
+stat: complete
 order: 12
 featured: false
 

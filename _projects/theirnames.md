@@ -3,7 +3,7 @@ name: Their Names
 layout: project
 type: project 
 year: 2020
-stat: ongoing
+stat: complete
 featured: false
 order: 40
 

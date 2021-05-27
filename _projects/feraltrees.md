@@ -3,7 +3,7 @@ name: Networks &#43; Natures&#58; Feral Trees
 layout: project
 type: project
 year: 2016
-stat: ongoing
+stat: complete
 featured: false
 
 collaborators:

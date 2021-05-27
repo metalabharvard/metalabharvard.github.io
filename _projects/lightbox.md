@@ -3,7 +3,7 @@ name: Light Box
 layout: project
 type: project
 year: 2016
-stat: ongoing
+stat: complete
 featured: false
 
 collaborators: Harvard Art Museums

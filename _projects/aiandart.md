@@ -3,7 +3,7 @@ name: "AI + Art at metaLAB"
 layout: project
 type: project
 year: 2019
-stat: ongoing
+stat: complete
 featured: false
 order: 10
 

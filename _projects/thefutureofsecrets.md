@@ -3,7 +3,7 @@ name: The Future of Secrets
 layout: project
 type: project
 year: 2018
-stat: ongoing
+stat: complete
 featured: false
 upcoming: false
 order: 1

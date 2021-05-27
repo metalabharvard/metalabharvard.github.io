@@ -3,7 +3,7 @@ name: Networks and Natures
 layout: project
 type: project
 year: 2018
-stat: ongoing
+stat: complete
 featured: true
 
 collaborators:

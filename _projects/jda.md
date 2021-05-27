@@ -3,7 +3,7 @@ name: Digital Archive of Japan’s 2011 Disasters
 layout: project
 type: project
 year: 2011
-stat: ongoing
+stat: complete
 featured: false
 
 collaborators: Reischauer Institute of Japanese Studies

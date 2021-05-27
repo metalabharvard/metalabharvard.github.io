@@ -3,7 +3,7 @@ name: Deep Learning in the Museum
 layout: project
 type: project
 year: 2019
-stat: ongoing
+stat: complete
 featured: false
 
 collaborators:

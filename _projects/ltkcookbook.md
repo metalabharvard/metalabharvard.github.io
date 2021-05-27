@@ -3,7 +3,7 @@ name: Library Test Kitchen Cookbook
 layout: project
 type: project
 year: 2018
-stat: ongoing
+stat: complete
 featured: false
 order: 2
 

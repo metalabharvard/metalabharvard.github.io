@@ -6,7 +6,7 @@ year: 2020
 startdate: 3&#46;13
 enddate: 06&#46;07
 datestring: Mar 13 - Jun 7, 2020
-stat: ongoing
+stat: complete
 featured: false
 location: "Graz, Austria"
 upcoming: true

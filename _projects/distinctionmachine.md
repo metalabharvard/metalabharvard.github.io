@@ -3,7 +3,7 @@ name: "Distinction Machine"
 layout: project
 type: project
 year: 2019
-stat: ongoing
+stat: complete
 featured: false
 order: 8
 

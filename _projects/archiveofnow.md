@@ -3,7 +3,7 @@ name: "The Archive of Now"
 layout: project
 type: project
 year: 2019
-stat: ongoing
+stat: complete
 order: 12
 featured: false
 

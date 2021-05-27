@@ -3,7 +3,7 @@ name: Hypercam
 layout: project
 type: project
 year: 2020
-stat: ongoing
+stat: complete
 featured: false
 order: 12
 
