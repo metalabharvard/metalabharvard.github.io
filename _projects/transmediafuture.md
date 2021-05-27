@@ -8,7 +8,7 @@ datestring: May 14, 2021
 stat: ongoing
 featured: true
 location: Cambridge, MA
-upcoming: true
+upcoming: false
 order: 60
 chron: 210514
 
