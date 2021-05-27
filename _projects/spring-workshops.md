@@ -7,7 +7,7 @@ startdate: 06&#46;06
 datestring: June 06, 2019
 stat: ongoing
 featured: true
-location: Conline
+location: Online
 upcoming: true
 order: 65
 chron: 210606
