@@ -1,11 +1,14 @@
 ---
-name: 2021 Virtual Creative Spring Workshops
+name: "2021 Virtual Creative Spring Workshops"
 layout: project
 type: event
 year: 2021
+startdate: 06&#46;06
+datestring: June 06, 2019
 stat: ongoing
 featured: true
 order: 65
+chron: 210606
 
 collaborators:
 context: Letters
