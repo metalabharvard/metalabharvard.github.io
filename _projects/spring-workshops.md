@@ -68,8 +68,7 @@ Fri 5.28,12-1:15 PM EST
 **The Mysteries of Time   
 In Physics & Philosophy**  
 Fri 6.11,10-11:15 AM EST  
-*Registration opens Monday 5.31, 12 pm EST*  
-[Sign up here to receive an email with link when registration opens](https://docs.google.com/forms/d/e/1FAIpQLSdHu5ou6wOZy-smKOAJqK1S2-sxfcLhOjVgwgrfanewwGihsw/viewform?usp=sf_link)
+*Register [HERE](https://docs.google.com/forms/d/e/1FAIpQLSckPzeZw17wy71HI8LRjWCqcfmDQiXandZhWh3syjOdc7RVpw/viewform)*
 
 *Five minutes can pass in a flash, or feel like an eternity. There are countless poems, songs, and cliches about it. But what really *is* time? How is time defined in physics and philosophy? Is time a property of the world or a property of experience—or both? Or neither? What do we know, what do we not yet understand? We’ll explore these and other questions through discussion, design thinking, physical prototyping, and more.* 
 
