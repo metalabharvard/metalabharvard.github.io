@@ -6,7 +6,7 @@ year: 2020
 startdate: 05&#46;14
 datestring: May 14, 2021
 stat: ongoing
-featured: true
+featured: false
 location: Cambridge, MA
 upcoming: false
 order: 60
