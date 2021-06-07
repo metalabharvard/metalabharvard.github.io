@@ -60,6 +60,9 @@ Managing Director, Tactical Manoeuvre
 [Paolo Ciuccarelli](https://camd.northeastern.edu/faculty/paolo-ciuccarelli/) (Italy/USA)
 Founding director, Center for Design, Northeastern University, Boston
 
+[Wesley Cornwell](http://wfcornwell.com/)
+Harvard Graduate School of Design
+
 
 [Lins Derry](https://www.linsderry.com/) (USA)
 Researcher metaLAB (at) Harvard
