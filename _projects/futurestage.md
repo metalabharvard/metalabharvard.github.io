@@ -85,7 +85,7 @@ President, Beijing Contemporary Art Foundation
 
 [Magda Romanska](http://magdaromanska.com) (USA)
 Associate Professor of Theatre Studies and Dramaturgy, Emerson College 
-Executive Director and Editor-in-Chief, [TheTheatreTimes.com](https://thetheatretimes.com)   
+Executive Director; Editor-in-Chief, [TheTheatreTimes.com](https://thetheatretimes.com)   
 
 [Adama Sanneh](https://moleskinefoundation.org/people/adama-sanneh/) (ITA)
 Co-Founder and CEO, Moleskine Foundation 
