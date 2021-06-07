@@ -44,46 +44,32 @@ The project is coordinated by [Jeffrey Schnapp](https://metalabharvard.github.io
 Members of Research Group:
 
 [Matthew Battles](https://metalabharvard.github.io/people/matthew) (USA)
-Director of Scholarly Initiatives at metaLAB at Harvard
-
-
+Director of Scholarly Initiatives, metaLAB (at) Harvard
 
 [Cathie Boyd](https://www.cryptic.org.uk/who-we-are/) (Ireland/Scotland)
 Founder & Artistic Director, Cryptic
- 
- 
 
 [Marc Brickman](https://www.tactman.com/) (USA)
 Managing Director, Tactical Manoeuvre
  
 
 [Paolo Ciuccarelli](https://camd.northeastern.edu/faculty/paolo-ciuccarelli/) (Italy/USA)
-Founding director, Center for Design, Northeastern University, Boston
+Founding Director, Center for Design, Northeastern University, Boston
 
-[Wesley Cornwell](http://wfcornwell.com/)
+[Wesley Cornwell](http://wfcornwell.com/) (USA)
 Harvard Graduate School of Design
 
-
 [Lins Derry](https://www.linsderry.com/) (USA)
-Researcher metaLAB (at) Harvard
+Prinicipal, metaLAB (at) Harvard
  
-
 [Evenlyn Ficarra](http://www.sussex.ac.uk/cromt/) (UK)
 Associate Director, Centre for Research in Opera and Music Theatre, University of Sussex
 
-
 [Mariana Ibañez](https://sap.mit.edu/) (Argentina/USA)
-Associate Professor of Architecture, MIT School of Architecture and Planning 
-Co-founder, [Ibañez Kim](https://www.ibanezkim.com/)
+Chair and Associate Professor, Architecture and Urban Design, UCLA; Co-founder, [Ibañez Kim](https://www.ibanezkim.com/)
    
-
 [Simone Kim](https://www.immersivekinematics.com/) (USA)
-Director. Immersive Kinematics Research Group
- Co-founder, [Ibañez Kim](https://www.ibanezkim.com/) 
-
-[Sarah Newman](https://cyber.harvard.edu/people/snewman) (USA)
-Director of Art & Education at metaLAB at Harvard
- 
+Director, Immersive Kinematics Research Group; Co-founder, [Ibañez Kim](https://www.ibanezkim.com/) 
 
 [Mohammed Obaidullah](https://www.linkedin.com/in/mohaobaid/) (Saudi Arabia)
 Producer 
@@ -97,7 +83,6 @@ Research Affiliate, metaLAB at Harvard
 [Cui Qiao](https://bcaf.org.cn/Homepage) (China)
 President, Beijing Contemporary Art Foundation 
 
-
 [Magda Romanska](http://magdaromanska.com) (USA)
 Associate Professor of Theatre Studies and Dramaturgy, Emerson College 
 Executive Director and Editor-in-Chief, [TheTheatreTimes.com](https://thetheatretimes.com)   
@@ -109,7 +94,7 @@ Co-Founder and CEO, Moleskine Foundation
 International Cultural Consultant
 
 [Jeffrey Schnapp](https://jeffreyschnapp.com/) (USA)
-Faculty Director, metaLAB at Harvard
+Faculty Director, metaLAB (at) Harvard
 
 [Shain Shapiro](https://www.sounddiplomacy.com/) (UK)
 Founder & CEO, Sound Diplomacy 
@@ -120,9 +105,8 @@ Founder, Conference for Research on Choreographic Interfaces
 [Jean-Philippe Thiellay](http://www.cnv.fr/) (France)
 President, Centre national de la musique 
 
-Shahrokh Yadegari (USA)
-Director, [Sonic Arts Research and Development](https://sonicarts.ucsd.edu/) group at the University of California San Diego 
-Director, [Initiative for Digital Exploration of Arts and Sciences](http://ideas.calit2.net/) at the Qualcomm Institute 
+[Shahrokh Yadegari](https://sonicarts.ucsd.edu/people/shahrokh.html) (USA)
+Director, [Sonic Arts Research and Development](https://sonicarts.ucsd.edu/) group at the University of California San Diego; Director, [Initiative for Digital Exploration of Arts and Sciences](http://ideas.calit2.net/) at the Qualcomm Institute 
 
 
 
