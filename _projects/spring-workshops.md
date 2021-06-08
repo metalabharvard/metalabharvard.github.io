@@ -65,9 +65,10 @@ Reflecting our Best (and Worst) Selves**
 Fri 5.28, 12-1:15 PM EST     
 
 *We hear all the buzz about AI. We know some of the risks. Maybe some of the opportunities. How much better can a technology be than the people who create it? Who (and what) are we building for? And who gets left out? How can we learn about ourselves by looking to the technologies that we want to build or use? As AI systems are built on more and more data, what do we get, and what are we giving up? We’ll explore these and other questions through discussion, design thinking, physical prototyping, and more.* 
- \  
- \  
- \   
+  
+    
+  
+  
 **The Mysteries of Time   
 In Physics & Philosophy**  
 Fri 6.11, 10-11:15 AM EDT  
