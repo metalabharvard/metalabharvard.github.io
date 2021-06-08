@@ -56,13 +56,16 @@ research-questions:
 metaLAB’s experimental, materials-based creative workshops bring together hybrid formats that include design thinking exercises, group discussion, and physical prototyping (yes, even on zoom!) to think through pressing questions and work toward possible reformulations, new metaphors—and maybe, some solutions.  
 
 Created and led by metaLAB Director of Art & Education, Sarah Newman, these workshops will cover wide ranging topics including artificial intelligence, time, and online communication, through the lenses of technology, psychology, and philosophy. The workshops are FUN(!), interactive, and meant to help foster new ideas, introduce participants to a new creative methodology, and build community and embodied experience in the disembodied virtual world we so often inhabit. No advance knowledge or experience is required—all are welcome, and spots will be offered on a first-come, first-served basis. 
-
+</br>
+</br>
 
 **AI as a Mirror  
 Reflecting our Best (and Worst) Selves**  
 Fri 5.28, 12-1:15 PM EST     
 
 *We hear all the buzz about AI. We know some of the risks. Maybe some of the opportunities. How much better can a technology be than the people who create it? Who (and what) are we building for? And who gets left out? How can we learn about ourselves by looking to the technologies that we want to build or use? As AI systems are built on more and more data, what do we get, and what are we giving up? We’ll explore these and other questions through discussion, design thinking, physical prototyping, and more.* 
+</br>
+</br>
 
 **The Mysteries of Time   
 In Physics & Philosophy**  
@@ -70,7 +73,8 @@ Fri 6.11, 10-11:15 AM EDT
 *Workshop is at capacity. Join waitlist [here](https://docs.google.com/forms/d/e/1FAIpQLSeGLztZ-VcZ52RGauvZVT-MDbKoxlGwNkg0Myvcm5bmBOU3Ug/viewform).*
 
 *Five minutes can pass in a flash, or feel like an eternity. There are countless poems, songs, and cliches about it. But what really* is *time? How is time defined in physics and philosophy? Is time a property of the world or a property of experience—or both? Or neither? What do we know, what do we not yet understand? We’ll explore these and other questions through discussion, design thinking, physical prototyping, and more.* 
-
+</br>
+</br>
 
 **From Telegrams to Telepathic Memos:  
 The Future of Trust & Truth Online**  
