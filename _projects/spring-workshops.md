@@ -61,14 +61,13 @@ Created and led by metaLAB Director of Art & Education, Sarah Newman, these work
 **AI as a Mirror  
 Reflecting our Best (and Worst) Selves**  
 Fri 5.28,12-1:15 PM EST     
-*Workshop is at capacity.*
 
 *We hear all the buzz about AI. We know some of the risks. Maybe some of the opportunities. How much better can a technology be than the people who create it? Who (and what) are we building for? And who gets left out? How can we learn about ourselves by looking to the technologies that we want to build or use? As AI systems are built on more and more data, what do we get, and what are we giving up? We’ll explore these and other questions through discussion, design thinking, physical prototyping, and more.* 
 
 **The Mysteries of Time   
 In Physics & Philosophy**  
 Fri 6.11,10-11:15 AM EST  
-*Register [HERE](https://docs.google.com/forms/d/e/1FAIpQLSckPzeZw17wy71HI8LRjWCqcfmDQiXandZhWh3syjOdc7RVpw/viewform)*
+*Workshop is at capacity. Join waitlist [here](https://docs.google.com/forms/d/e/1FAIpQLSeGLztZ-VcZ52RGauvZVT-MDbKoxlGwNkg0Myvcm5bmBOU3Ug/viewform).*
 
 *Five minutes can pass in a flash, or feel like an eternity. There are countless poems, songs, and cliches about it. But what really* is *time? How is time defined in physics and philosophy? Is time a property of the world or a property of experience—or both? Or neither? What do we know, what do we not yet understand? We’ll explore these and other questions through discussion, design thinking, physical prototyping, and more.* 
 
