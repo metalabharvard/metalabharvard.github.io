@@ -56,7 +56,7 @@ research-questions:
 metaLAB’s experimental, materials-based creative workshops bring together hybrid formats that include design thinking exercises, group discussion, and physical prototyping (yes, even on zoom!) to think through pressing questions and work toward possible reformulations, new metaphors—and maybe, some solutions.  
 
 Created and led by metaLAB Director of Art & Education, Sarah Newman, these workshops will cover wide ranging topics including artificial intelligence, time, and online communication, through the lenses of technology, psychology, and philosophy. The workshops are FUN(!), interactive, and meant to help foster new ideas, introduce participants to a new creative methodology, and build community and embodied experience in the disembodied virtual world we so often inhabit. No advance knowledge or experience is required—all are welcome, and spots will be offered on a first-come, first-served basis.  
- 
+&nbsp;  
  
  
  
