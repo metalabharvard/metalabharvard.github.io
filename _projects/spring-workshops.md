@@ -81,7 +81,7 @@ Fri 6.11, 10-11:15 AM EDT
 **From Telegrams to Telepathic Memos:  
 The Future of Trust & Truth Online**  
 Fri 6.25, 3-4:15 PM EDT  
-[REGISTRATION NOW OPEN](https://docs.google.com/forms/d/e/1FAIpQLScFweljqeCsH_MJzloIB-TqyWKWUHjwluYYqulCsdDcskV57Q/viewform)
+Workshop at capacity, [JOIN WAITLIST HERE](https://docs.google.com/forms/d/e/1FAIpQLSdWe71n81g1hrWwpU7K7KzMo3rvYtFgfd525W-orueZZ6ShWA/viewform).
 
 *Communication is at the core of what it means to be human. And today, most of that communication is technologically mediated. As our communication systems change, the risks evolve alongside the benefits. We now see it daily: mis- and disinformation campaigns, polarization, surveillance, the undermining of social infrastructures. How do the design and incentives of social media companies influence individual choices and major social movements? Where are we headed? What do we want to create—and what do we want to leave behind? How can we work toward building the forms of connection that we (or others) would like to see, while also mitigating the risks? We’ll explore these and other questions through discussion, design thinking, physical prototyping, and more.*  
 &nbsp;  
