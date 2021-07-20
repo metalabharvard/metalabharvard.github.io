@@ -85,6 +85,8 @@ President, Beijing Contemporary Art Foundation
 
 [Magda Romanska](http://magdaromanska.com) (USA)
 Associate Professor of Theatre Studies and Dramaturgy, Emerson College; 
+Research Affiliate, metaLAB at Harvard; 
+Chair, Transmedia Arts Seminar at Mahindra Humanities Center and metaLAB; 
 Executive Director and Editor-in-Chief, [TheTheatreTimes.com](https://thetheatretimes.com)   
 
 [Adama Sanneh](https://moleskinefoundation.org/people/adama-sanneh/) (ITA)
