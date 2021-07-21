@@ -4,8 +4,8 @@ lastname: Skybetter
 layout: project
 title: Affiliate
 row: 2
-website:  www.skybetter.org 
-twitter:
+website: www.skybetter.org 
+twitter: sydneyskybetter
 instagram:
 email:
 ---
