@@ -6,7 +6,7 @@ title: Affiliate
 row: 2
 website: www.skybetter.org 
 twitter: sydneyskybetter
-instagram:
+instagram: sydneyskybetter
 email:
 ---
 
