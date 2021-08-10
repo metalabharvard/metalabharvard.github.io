@@ -2,7 +2,7 @@
 name: Sinan
 lastname: Goknur
 layout: project
-title: Postdoctoral
+title: Postdoctoral Researcher
 row: 2
 website:
 twitter:
