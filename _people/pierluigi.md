@@ -1,5 +1,5 @@
 ---
-name: Pier Luigi
+name: Pierluigi
 lastname: Sacco
 layout: person
 title: Affiliate
