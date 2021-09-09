@@ -2,8 +2,8 @@
 name: Pier Luigi
 lastname: Sacco
 layout: person
-title: Senior Researcher
-row: 2.5
+title: Affiliate
+row: 2
 one-line: 
 quote: 
 website:
