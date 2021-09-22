@@ -58,7 +58,7 @@ Kasia Lech, Canterbury Christ Church University and TheTheatreTimes.com, Decembe
 Robert Pratten, CEO and founder of Conducttr, February 24, 2022, 5pm
 [TRANSMEDIA STORYTELLING FOR REAL-LIFE REHEARSAL](https://harvard.zoom.us/webinar/register/WN_LtKY_24jTrKOvXQnut3nOA)
 
-Doris Kolesch, Freie University of Berlin, Germany, March 31, 2022, 5 pm
+Doris Kolesch, Freie Universitët Berlin, Germany, March 31, 2022, 5 pm
 [TEMPORAL COMMUNITIES AND TRANSMEDIALITY](https://harvard.zoom.us/webinar/register/WN_tp9q92qZSTyLCJRG3W9DmQ)
 
 Caroline Jones, MIT Department of Architecture, April 22, 2022, 5 pm
