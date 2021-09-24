@@ -3,13 +3,13 @@ name: "MAHINDRA TRANSMEDIA ARTS SEMINAR: Sarah Ellis: Transmedia, Technology, an
 layout: project
 type: event
 year: 2021
-startdate: 10&#46;08
-datestring: October 8, 2020
+startdate: 09&#46;30
+datestring: September 30, 2021
 stat: ongoing
 featured: true
 location: Cambridge, MA
-upcoming: false
-order: 40
+upcoming: true
+order: 50
 chron: 201008
 
 collaborators:
