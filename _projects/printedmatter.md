@@ -9,7 +9,7 @@ stat: ongoing
 featured: false
 location: online
 upcoming: false
-order: 60
+order: 40
 chron: 210128
 
 collaborators:
