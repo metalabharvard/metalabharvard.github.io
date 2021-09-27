@@ -36,14 +36,13 @@ tweet-summary: "An international research collaborative mapping opportunities fo
 
 
 ---
+NOW AVAILABLE: The [FutureStage MANIFESTO](https://drive.google.com/file/d/1QRtyIAaB4rcdI8YJGUojgNBvjVTt9NEN/view?usp=sharing) offers a vision of performance as a human right, intimately entangled with all the stages on which contemporary life is performed, offering global society new skills, sensibilities, and points of view.
+
 FutureSTAGE is a global research project dedicated to investigating current challenges and future prospects for the development of opera houses, theatres, and performing arts centers.
 
 With new expectations for media, culture, and presence in a hyperconnected world, the civic stakes of the performing arts are shifting. In a series of convenings, an international, interdisciplinary team of scholars and experts are collaborating to identify and map these shifts, seeking both the problems and opportunities that arise with new configurations of stages, cities, and publics. Comparing and analyzing best practices and key ideas across a variety of areas, the group aims to produce an annual manifesto/report as reference and inspiration for governments, cultural institutions and arts organizations worldwide.
 
 The project is coordinated by [Jeffrey Schnapp](https://metalabharvard.github.io/people/jeffrey)  and [Paolo Petrocelli](https://metalabharvard.github.io/people/paolo-petrocelli). 
-
-NOW AVAILABLE: The [FutureSage MANIFESTO](https://drive.google.com/file/d/1QRtyIAaB4rcdI8YJGUojgNBvjVTt9NEN/view?usp=sharing) offers a vision of performance as a human right, intimately entangled with all the stages on which contemporary life is performed, offering global society new skills, sensibilities, and points of view.
-
 
 
 Members of Research Group:
