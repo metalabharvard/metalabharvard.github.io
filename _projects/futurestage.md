@@ -22,12 +22,11 @@ thumbnail_format:
 media:
   - medium:
     image: img0.jpg
-    id: 00
+    id: "00"
     stat: featured
   - medium:
-  - image: img1.jpg
-  - id: 01
-  - stat:
+    image: img1.jpg
+    id: "01"
 
 
 links:
