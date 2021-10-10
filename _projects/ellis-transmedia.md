@@ -6,9 +6,9 @@ year: 2021
 startdate: 09&#46;30
 datestring: September 30, 2021
 stat: ongoing
-featured: true
+featured: false
 location: Cambridge, MA
-upcoming: true
+upcoming: false
 order: 50
 chron: 201008
 
