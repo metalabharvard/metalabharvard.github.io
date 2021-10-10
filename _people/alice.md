@@ -3,7 +3,7 @@ name: Alice
 lastname: Cai
 layout: project
 title: Researcher and TOP Project Co-Lead
-row: 4
+row: 2
 website: 
 twitter:
 instagram:
