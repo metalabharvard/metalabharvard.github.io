@@ -5,8 +5,8 @@ type: project
 year: 2021
 startdate: 2020
 stat: ongoing
-featured: false
-order: 40
+featured: true
+order: 50
 
 collaborators:
 context: Archives
@@ -42,29 +42,24 @@ tweet-summary: The intersection of contemporary art/theatre and new media techno
 
 
 ---
-metaLAB is partnering with the Mahindra Humanities Center to sponsor the [Transmedia Arts Seminar](https://mahindrahumanities.fas.harvard.edu/transmedia-arts), chaired by [Magda Romanska](https://mahindrahumanities.fas.harvard.edu/people/magda-romanska) and [Hana Worthen](https://mahindrahumanities.fas.harvard.edu/people/hana-worthen). The seminar considers the intersection of contemporary art/theatre and new media technologies, taking up immersive, multisite, and networked modes of transmedia storytelling, performances instrumentalizing a range of live and digital platforms and formats, including social media, augmented and virtual reality, haptic and digital technology, visual and audio mapping, human/AI interaction, algorithms, and bodily and sensory enhancements.
+For the second year, metaLAB is partnering with the Mahindra Humanities Center to sponsor the [Transmedia Arts Seminar](https://mahindrahumanities.fas.harvard.edu/transmedia-arts), chaired by [Magda Romanska](https://mahindrahumanities.fas.harvard.edu/people/magda-romanska) and [Hana Worthen](https://mahindrahumanities.fas.harvard.edu/people/hana-worthen). The seminar considers the intersection of contemporary art/theatre and new media technologies, taking up immersive, multisite, and networked modes of transmedia storytelling, performances instrumentalizing a range of live and digital platforms and formats, including social media, augmented and virtual reality, haptic and digital technology, visual and audio mapping, human/AI interaction, algorithms, and bodily and sensory enhancements.
 
-For the 2020-21 academic year, all seminar meetings will take place as webinars on Zoom; for all details, see the schedule and registration links below. 
+For the 2021-22 academic year, all seminar meetings will take place as webinars on Zoom; for all details, see the schedule and registration links below. 
+ 
+[TRANSMEDIA, TECHNOLOGY, AND THE FUTURE OF THEATRE](https://harvard.zoom.us/webinar/register/WN_z4VV1vQlRdGdUMAM8HsUbg) 
+Sarah Ellis, Royal Shakespeare Company, September 30, 2021, 5pm
+ 
+[DECENTRALIZED STORYTELLING – WHERE AI, THE BLOCKCHAIN, CODE, AND METAVERSE INTERSECT](https://harvard.zoom.us/webinar/register/WN_yyN8-Xf-QSi-EQ78y7YwHw) 
+Lance Weiler, Columbia University Digital Storytelling Lab, October 28, 2021, 5pm
 
-Magda Romanska, Emerson College, Oct 9, 5 pm 
-[“Transmedia Dramaturgy of Pre- and Post-Pandemic Theatre”](https://harvard.zoom.us/webinar/register/WN_1tb0qt4eTYqeQKTRgckoxw) 
+[HETEROGLOSSIA AND INTELLIGIBILITY IN TRANSMEDIA THEATRE](https://harvard.zoom.us/webinar/register/WN_CJd5AGeaR2GHBwz1nkjMuw) 
+Kasia Lech, Canterbury Christ Church University and TheTheatreTimes.com, December 2, 2021, 5pm
 
-Francesca Ferrando, NYU, October 23, 5 pm
-[“Covid19, TransMedia and the Art of Posthuman Existence”](https://harvard.zoom.us/webinar/register/WN_Bit8WSVnR-CxfhEzsEdkkg) 
+[TRANSMEDIA STORYTELLING FOR REAL-LIFE REHEARSAL](https://harvard.zoom.us/webinar/register/WN_LtKY_24jTrKOvXQnut3nOA)
+Robert Pratten, CEO and founder of Conducttr, February 24, 2022, 5pm
 
-Joris Weijdom, HKU University of the Arts Utrecht, November 19, 2020 at 5 pm
-[“Embodiment and Presence in Designing Performative Mixed-Reality Experiences”](https://harvard.zoom.us/webinar/register/WN_hvaOTz5JSyOWui0o-UfJVg) 
+[TEMPORAL COMMUNITIES AND TRANSMEDIALITY](https://harvard.zoom.us/webinar/register/WN_tp9q92qZSTyLCJRG3W9DmQ)
+Doris Kolesch, Freie Universitët Berlin, Germany, March 31, 2022, 5 pm
 
-Agnieszka Jelewska & Michał Krawczak, Adam Mickiewicz University in Poznań, December 3, 2020, 5 pm
-[“Spectral storytelling. Social Engagement Through Technology in Traumatized Environments.”](https://harvard.zoom.us/webinar/register/WN_RmbqrM28SOy6A-YxBihHwA)
-
-Krisztina Rosner, Meiji University, Japan, February 18, 2021, 5 pm
-[“Technology and Transmedia Dramaturgy in Contemporary Japanese Performing Arts”](https://harvard.zoom.us/webinar/register/WN_1rE3g77rQCmUm5XIn8kMvg)
-
-Lawrence Switzky, University of Toronto, March 23, 2021, 5 pm
-[“’Playable Theatre’: On Gaming and Aesthetic Control”](https://harvard.zoom.us/webinar/register/WN_WTjBRM2oRpyoxbL6MAaLgg)
-
-Jen Parker-Starbuck, Royal Holloway, University of London, April 15, 2021, 5 pm
-[“Animals in the Machine: Robotic Animal Agents”](https://harvard.zoom.us/webinar/register/WN_Ps1Kkaf_S-yb0tjxv0TrSg)
-
-[Panel: The Future of Transmedia Performance](https://harvard.zoom.us/webinar/register/WN_eeQ8KbEiS16OX0yAIRIDdg). May 14, 2021, 5 pm
+Caroline Jones, MIT Department of Architecture, April 22, 2022, 5 pm
+[WHAT IS TRANSMEDIA? PERSPECTIVES ON METAVERSE](https://harvard.zoom.us/webinar/register/WN_I1uwkjfsS42ypR3SeNCxMA)
