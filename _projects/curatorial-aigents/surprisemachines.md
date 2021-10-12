@@ -51,14 +51,19 @@ research-questions:
 
 
 ---
+<!-- 
 <iframe src="https://rodighiero.github.io/Surprise-Machines/" width="100%" height="500" frameborder="0" title="Surprise Machines"></iframe>
 <br />
 [**Surprise Machines**](https://rodighiero.github.io/Surprise-Machines/)
+-->
 
-Can machines think? In 1950 Alan Turing famously answered this question in the affirmative by means of a so-called “imitation game” in the course of which an examiner is asked to distinguish between humans and machines while communicating via a typewriter. He argued that, once the responses appear indistinguishable, the machine can be correctly be understood as engaged in thought. In an article entitled “Computing Machines and Intelligence,” Turing approached the subject of artificial intelligence from multiple perspectives, one of them inspired by the English mathematician Ada Lovelace. Here Lovelace figures as Turing’s foil, arguing that machines are incapable of thought because they are incapable of “tak[ing] us by surprise.” Turing counters by stating that machines are a frequent source of surprise, behaving unpredictably and, thereby, generating surprises. 
+Surprise Machines is a visual investigation that will take the form of a digital installation at the Harvard Art Museums in Spring 2022. The project sets out to visualize and curate the entire universe of the museums’ collections, with the aim of opening up unexpected vistas on the more than 200,000 objects that make them up. To accomplish these surprise encounters, “black box” algorithms are curatorially employed to shape the visualizations, and a “choreographic interface” has been designed to connect the audience’s movement with several unique views of the objects.
 
-*Surprise Machines* reprises Turing’s experiment some seven decades later by means of an AI-based curatorial experiment that relies upon “black box” algorithms whose behaviors, once set in motion, cannot be predicted by their programmers. It sets out to visualize the entire universe of Harvard Art Museums' collections, with the aim of opening up unexpected vistas on the more than 250,000 objects that make them up. ([Dario Rodighiero](https://metalabharvard.github.io/people/dario)) <br /><br />
+From a technical point of view, Surprise Machines relies on the Harvard Art Museums’ API, which provides access to images and metadata of more than 200,000 objects. Making use of the PixPlot library from the Yale DHLab, the images from the API are arranged in the Cartesian plane using a UMAP algorithm. The interface uses machine vision to mediate the interactive gestures, and AI to interpret them in each still frame that's reviewed in a Python script. Surprise Machines is a work-in-progress and will premiere as a digital, participatory installation next Spring.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4FHJPvq3RZg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/595473865?h=7fb57e62af&color=f90000&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/595473865">Lins Derry, Douglas Duhaime, Jordan Kruguer, Dario Rodighiero, Jeffrey Schnapp and Christopher Pietsch - Surprise Machines</a> from <a href="https://vimeo.com/informationplus">Information+ Conference</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+Surprise Machines is a collaboration of Dario Rodighiero, Douglas Duhaime, Christopher Pietsch, Lins Derry, Jordan Kruguer, and Jeffrey Schnapp.
 
 [*Curatorial A(i)gents*](https://metalabharvard.github.io/projects/curatorial-aigents/) presents a series of machine-learning-based experiments with museum collections and data developed by members and affiliates of [metaLAB (at) Harvard](https://metalabharvard.github.io/), a creative research group working in the networked arts and humanities.
