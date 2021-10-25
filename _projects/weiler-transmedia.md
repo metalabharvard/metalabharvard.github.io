@@ -1,5 +1,5 @@
 ---
-name: "MAHINDRA TRANSMEDIA ARTS SEMINAR: Lance Weiler: Decentralized Storytelling — Where AI, the Blokchain, Code, and the Metaverse Connect"
+name: "MAHINDRA TRANSMEDIA ARTS SEMINAR: Lance Weiler: Decentralized Storytelling — Where AI, the Blockchain, Code, and the Metaverse Connect"
 layout: project
 type: event
 year: 2021
