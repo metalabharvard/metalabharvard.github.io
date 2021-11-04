@@ -88,7 +88,7 @@ Founding Director, Center for Design, Northeastern University, Boston
 Harvard Graduate School of Design
 
 [Lins Derry](https://www.linsderry.com/) (USA)
-Prinicipal, metaLAB (at) Harvard
+Principal, metaLAB (at) Harvard
  
 [Evenlyn Ficarra](http://www.sussex.ac.uk/cromt/) (UK)
 Associate Director, Centre for Research in Opera and Music Theatre, University of Sussex
