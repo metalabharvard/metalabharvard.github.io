@@ -9,7 +9,7 @@ stat: ongoing
 featured: true
 location: Cambridge, MA
 upcoming: true
-order: 40
+order: 60
 chron: 211119
 
 collaborators:
