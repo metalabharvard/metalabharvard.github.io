@@ -65,4 +65,4 @@ Jeanette Andrews, metaLAB affiliate, artist, magician and researcher, based in N
 
 Sydney Skybetter, Founder, Conference for Research on Choreographic Interfaces; Associate Chair and Senior Lecturer, Theatre Arts & Performance Studies Department at Brown University; and futureStage member/collaborator.
 
-metaLAB is partnering with the Mahindra Humanities Center to sponsor the [Transmedia Arts Seminar](https://mahindrahumanities.fas.harvard.edu/transmedia-arts), chaired by [Magda Romanska](https://mahindrahumanities.fas.harvard.edu/people/magda-romanska) and [Hana Worthen](https://mahindrahumanities.fas.harvard.edu/people/hana-worthen).
+metaLAB is partnering with the Mahindra Humanities Center to sponsor the [Transmedia Arts Seminar](https://mahindrahumanities.fas.harvard.edu/transmedia-arts), chaired by [Magda Romanska](https://mahindrahumanities.fas.harvard.edu/people/magda-romanska).
