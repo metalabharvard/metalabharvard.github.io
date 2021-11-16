@@ -52,6 +52,9 @@ Sarah Ellis, Royal Shakespeare Company, September 30, 2021, 5pm
 [DECENTRALIZED STORYTELLING – WHERE AI, THE BLOCKCHAIN, CODE, AND METAVERSE INTERSECT](https://harvard.zoom.us/webinar/register/WN_yyN8-Xf-QSi-EQ78y7YwHw) 
 Lance Weiler, Columbia University Digital Storytelling Lab, October 28, 2021, 5pm
 
+[FUTURESTAGE MANIFESTO: NEW SCENARIOS FOR THE PERFORMING ARTS](https://harvard.zoom.us/webinar/register/WN_RGRjIoXSQYq9qXMcsp4AXQ)
+Members of the futureStage Research Group, November 19, 2021, 5pm
+
 [HETEROGLOSSIA AND INTELLIGIBILITY IN TRANSMEDIA THEATRE](https://harvard.zoom.us/webinar/register/WN_CJd5AGeaR2GHBwz1nkjMuw) 
 Kasia Lech, Canterbury Christ Church University and TheTheatreTimes.com, December 2, 2021, 5pm
 
