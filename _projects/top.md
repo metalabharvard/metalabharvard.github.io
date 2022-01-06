@@ -50,9 +50,9 @@ Fall 2021 Products:
 
 For more information about TOP (at) Harvard:
 
-TOP (at) Harvard Public Drive: [https://drive.google.com/drive/folders/1Sn26w-dIkCjcRflwHEVspVUB4bTmF39Q?usp=sharing](https://drive.google.com/drive/folders/1Sn26w-dIkCjcRflwHEVspVUB4bTmF39Q?usp=sharing)
+[TOP (at) Harvard Public Drive](https://drive.google.com/drive/folders/1Sn26w-dIkCjcRflwHEVspVUB4bTmF39Q?usp=sharing)
 
-Press Release: [https://docs.google.com/document/d/1HMwZf6QIWGbn2TZmUfl_i8LiRXVuyhSIQBll5G3gkRs/edit](https://docs.google.com/document/d/1HMwZf6QIWGbn2TZmUfl_i8LiRXVuyhSIQBll5G3gkRs/edit)
+[Press Release](https://docs.google.com/document/d/1HMwZf6QIWGbn2TZmUfl_i8LiRXVuyhSIQBll5G3gkRs/edit)
 
 *This project is funded by the generous support of the [Harvard Data Science Initiative](https://datascience.harvard.edu/).*
 
