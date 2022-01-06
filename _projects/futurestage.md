@@ -60,7 +60,7 @@ tweet-summary: "An international research collaborative mapping opportunities fo
 
 
 ---
-The [futureStage Manifesto](https://drive.google.com/file/d/1QRtyIAaB4rcdI8YJGUojgNBvjVTt9NEN/view?usp=sharing) offers a vision of performance as a human right, intimately entangled with all the stages on which contemporary life is performed, and offering global society new skills, sensibilities, and points of view.
+The [futureStage Manifesto](https://future-stage.org/) offers a vision of performance as a human right, intimately entangled with all the stages on which contemporary life is performed, and offering global society new skills, sensibilities, and points of view.
 
 futureStage is a global research project dedicated to investigating current challenges and future prospects for the development of opera houses, theatres, and performing arts centers.
 
