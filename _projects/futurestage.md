@@ -1,5 +1,5 @@
 ---
-name: "futureSTAGE"
+name: "futureStage"
 layout: project
 type: project
 year: 2021
@@ -27,6 +27,30 @@ media:
   - medium:
     image: img1.jpg
     id: "01"
+  - medium:
+    image: img2.jpg
+    id: "02"
+  - medium:
+    image: img3.jpg
+    id: "03"
+  - medium:
+    image: img4.jpg
+    id: "04"
+  - medium:
+    image: img5.jpg
+    id: "05"
+  - medium:
+    image: img6.jpg
+    id: "06"
+  - medium:
+    image: img7.jpg
+    id: "07"
+  - medium:
+    image: img8.jpg
+    id: "08"
+  - medium:
+    image: img9.jpg
+    id: "09"
 
 
 links:
@@ -36,9 +60,9 @@ tweet-summary: "An international research collaborative mapping opportunities fo
 
 
 ---
-NOW AVAILABLE: The [FutureSTAGE MANIFESTO](https://drive.google.com/file/d/1QRtyIAaB4rcdI8YJGUojgNBvjVTt9NEN/view?usp=sharing) offers a vision of performance as a human right, intimately entangled with all the stages on which contemporary life is performed, and offering global society new skills, sensibilities, and points of view.
+The [futureStage Manifesto](https://future-stage.org/) offers a vision of performance as a human right, intimately entangled with all the stages on which contemporary life is performed, and offering global society new skills, sensibilities, and points of view.
 
-FutureSTAGE is a global research project dedicated to investigating current challenges and future prospects for the development of opera houses, theatres, and performing arts centers.
+futureStage is a global research project dedicated to investigating current challenges and future prospects for the development of opera houses, theatres, and performing arts centers.
 
 With new expectations for media, culture, and presence in a hyperconnected world, the civic stakes of the performing arts are shifting. In a series of convenings, an international, interdisciplinary team of scholars and experts are collaborating to identify and map these shifts, seeking both the problems and opportunities that arise with new configurations of stages, cities, and publics. Comparing and analyzing best practices and key ideas across a variety of areas, the group aims to produce an annual manifesto/report as reference and inspiration for governments, cultural institutions and arts organizations worldwide.
 
@@ -64,7 +88,7 @@ Founding Director, Center for Design, Northeastern University, Boston
 Harvard Graduate School of Design
 
 [Lins Derry](https://www.linsderry.com/) (USA)
-Prinicipal, metaLAB (at) Harvard
+Principal, metaLAB (at) Harvard
  
 [Evenlyn Ficarra](http://www.sussex.ac.uk/cromt/) (UK)
 Associate Director, Centre for Research in Opera and Music Theatre, University of Sussex
