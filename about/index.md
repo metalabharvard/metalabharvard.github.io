@@ -117,9 +117,9 @@ order: 1
 		{% if person.row == 1 %}
 			<div class="grid-item short">
 				<div class="elem_inner">
-						<a href="../people/{{ person.slug }}"><div class="image cover" style="background-image:url('{{ site.baseurl }}/assets/people/{{ person.slug }}.jpg')"></div>	</a>	
+						<a href="{% if person.redirect != nil %}{{ person.redirect }}{% else %}../people/{{ person.slug }}{% endif %}"><div class="image cover" style="background-image:url('{{ site.baseurl }}/assets/people/{{ person.slug }}.jpg')"></div>	</a>	
 						<div class='text fontsize_1 fontcolor_b'>
-							<div><span class="obj_meta_type">Name</span> <div class="obj_meta_tab"><a href="../people/{{ person.slug }}">{{ person.name }} {{ person.lastname }}</a></div></div>
+							<div><span class="obj_meta_type">Name</span> <div class="obj_meta_tab"><a href="{% if person.redirect != nil %}{{ person.redirect }}{% else %}../people/{{ person.slug }}{% endif %}">{{ person.name }} {{ person.lastname }}</a></div></div>
 							<div><span class="obj_meta_type">Title</span> <div class="obj_meta_tab">{{ person.title }}</div></div>
 							{% if person.twitter %}
 								<div><span class="obj_meta_type">Twtr.</span> <div class="obj_meta_tab"><a href="https://twitter.com/{{ person.twitter }}" target="_blank">{{ person.twitter }}</a></div></div>
@@ -142,14 +142,9 @@ order: 1
 		{% if person.row == 2 %}
 			<div class="grid-item short">
 				<div class="elem_inner">
-						<a href="../people/{{ person.slug }}"><div class="image cover" style="background-image:url('{{ site.baseurl }}/assets/people/{{ person.slug }}.jpg')"></div>	</a>	
+						<a href="{% if person.redirect != nil %}{{ person.redirect }}{% else %}../people/{{ person.slug }}{% endif %}"><div class="image cover" style="background-image:url('{{ site.baseurl }}/assets/people/{{ person.slug }}.jpg')"></div>	</a>	
 						<div class='text fontsize_1 fontcolor_b'>
-							<div><span class="obj_meta_type">Name</span> <div class="obj_meta_tab">
-							{% if person.email %}
-							<a href="mailto:{{ person.email }}">{{ person.name }} {{ person.lastname }}</a>
-							{% else %} {{ person.name }} {{ person.lastname }}
-							{% endif %}
-							</div></div>
+							<div><span class="obj_meta_type">Name</span> <div class="obj_meta_tab"><a href="{% if person.redirect != nil %}{{ person.redirect }}{% else %}../people/{{ person.slug }}{% endif %}">{{ person.name }} {{ person.lastname }}</a></div></div>
 							<div><span class="obj_meta_type">Title</span> <div class="obj_meta_tab">{{ person.title }}</div></div>
 							{% if person.twitter %}
 								<div><span class="obj_meta_type">Twtr.</span> <div class="obj_meta_tab"><a href="https://twitter.com/{{ person.twitter }}" target="_blank">{{ person.twitter }}</a></div></div>
@@ -172,14 +167,9 @@ order: 1
 		{% if person.row == 3 %}
 			<div class="grid-item short">
 				<div class="elem_inner">
-						<a href="../people/{{ person.slug }}"><div class="image cover" style="background-image:url('{{ site.baseurl }}/assets/people/{{ person.slug }}.jpg')"></div>	</a>	
+						<a href="{% if person.redirect != nil %}{{ person.redirect }}{% else %}../people/{{ person.slug }}{% endif %}"><div class="image cover" style="background-image:url('{{ site.baseurl }}/assets/people/{{ person.slug }}.jpg')"></div>	</a>	
 						<div class='text fontsize_1 fontcolor_b'>
-							<div><span class="obj_meta_type">Name</span> <div class="obj_meta_tab">
-							{% if person.email %}
-							<a href="mailto:{{ person.email }}">{{ person.name }} {{ person.lastname }}</a>
-							{% else %} {{ person.name }} {{ person.lastname }}
-							{% endif %}
-							</div></div>
+							<div><span class="obj_meta_type">Name</span> <div class="obj_meta_tab"><a href="{% if person.redirect != nil %}{{ person.redirect }}{% else %}../people/{{ person.slug }}{% endif %}">{{ person.name }} {{ person.lastname }}</a></div></div>
 							<div><span class="obj_meta_type">Title</span> <div class="obj_meta_tab">{{ person.title }}</div></div>
 							{% if person.twitter %}
 								<div><span class="obj_meta_type">Twtr.</span> <div class="obj_meta_tab"><a href="https://twitter.com/{{ person.twitter }}" target="_blank">{{ person.twitter }}</a></div></div>
@@ -202,11 +192,7 @@ order: 1
 			<div class="grid-item short row2">
 				<div class="elem_inner">	
 						<div class='text fontsize_1 fontcolor_b'>
-							<div><span class="obj_meta_type">Name</span> <div class="obj_meta_tab">
-								{% if person.email %}
-								<a href="mailto:{{ person.email }}">{{ person.name }} {{ person.lastname }}</a>
-								{% else %}{{ person.name }} {{ person.lastname }}{% endif %}
-								</div></div>
+							<div><span class="obj_meta_type">Name</span> <div class="obj_meta_tab"><a href="{% if person.redirect != nil %}{{ person.redirect }}{% else %}../people/{{ person.slug }}{% endif %}">{{ person.name }} {{ person.lastname }}</a></div></div>
 							<div><span class="obj_meta_type">Title</span> <div class="obj_meta_tab">{{ person.title }}</div></div>
 							{% if person.twitter %}
 								<div><span class="obj_meta_type">Twtr.</span> <div class="obj_meta_tab"><a href="https://twitter.com/{{ person.twitter }}" target="_blank">{{ person.twitter }}</a></div></div>

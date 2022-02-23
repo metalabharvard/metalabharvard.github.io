@@ -2,14 +2,30 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title>{% if page.type == "index" %}{{ page.title }}{% else %}{% if page.page-title %}{{page.page-title}}{% else %}{{ page.name }}{% endif %}{% endif %}</title>
+  {% if page.redirect != nil %}
+  <meta http-equiv="refresh" content="0; URL={{ page.redirect }}">
+  <link rel="canonical" href="{{ page.redirect }}">
+  {% elsif page.title == "mL(at)H" %}
+  <link rel="canonical" href="https://mlml.io/">
+  {% elsif page.title == "About" %}
+  <link rel="canonical" href="https://mlml.io/about/">
+  {% elsif page.title == "Community" %}
+  <link rel="canonical" href="https://mlml.io/about/">
+  {% elsif page.title == "Projects" %}
+  <link rel="canonical" href="https://mlml.io/projects/">
+  {% elsif page.title == "Publications" %}
+  <link rel="canonical" href="https://mlml.io/projects/">
+  {% elsif page.title == "Teaching" %}
+  <link rel="canonical" href="https://mlml.io/events/">
+  {% elsif page.title == "Events" %}
+  <link rel="canonical" href="https://mlml.io/events/">
+  {% endif %}
   <meta name="description" content="{{ site.description }}">
   <meta name="viewport" content="width=device-width">
 	<link rel="shortcut icon" type="image/png" href="/favicon.png">  
   <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/css/style.css">
  	<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
-<link href="https://fonts.googleapis.com/css?family=Bad+Script|Roboto+Mono:100,300,400,400i,500,700" rel="stylesheet">
-
-
+  <link href="https://fonts.googleapis.com/css?family=Bad+Script|Roboto+Mono:100,300,400,400i,500,700" rel="stylesheet">
 </head>

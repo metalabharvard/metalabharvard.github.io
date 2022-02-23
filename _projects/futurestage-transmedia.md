@@ -11,6 +11,7 @@ location: Cambridge, MA
 upcoming: true
 order: 60
 chron: 211119
+redirect: https://mlml.io/e/future-stage-manifesto/
 
 collaborators:
 context: Archives

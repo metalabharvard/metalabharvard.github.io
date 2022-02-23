@@ -6,6 +6,7 @@ year: 2021
 stat: ongoing
 order: 50
 featured: true
+redirect: https://mlml.io/p/futurestage/
 
 collaborators:
 context: Archives

@@ -28,7 +28,7 @@ custom_js:
 	{% if project.type == 'teaching' %}
 		<div class="grid-item short {{ project.year }} {{ project.type }} {% if project.featured %}featured{% endif %}">
 			<div class="elem_inner">
-				<a href="{{ site.baseurl }}{{ project.url }}">
+				<a href="{% if project.redirect != nil %}{{ project.redirect }}{% else %}{{ site.baseurl }}{{ project.url }}{% endif %}">
 					{% if project.thumbnail_format %}
 						<div class="image cover" role="img" aria-label="{% if project.alt-text %}{{project.alt-text}}{% else %}{{project.name}}{% endif %}"  style="background-image:url('{{ site.baseurl }}/assets/projects/{{ project.slug }}.{{ project.thumbnail_format }}')"></div>	
 					{% else %}
