@@ -5,6 +5,7 @@
   {% if page.redirect != nil %}
   <meta http-equiv="refresh" content="0; URL={{ page.redirect }}">
   <link rel="canonical" href="{{ page.redirect }}">
+  <meta name="robots" content="noindex">
   {% elsif page.title == "mL(at)H" %}
   <link rel="canonical" href="https://mlml.io/">
   {% elsif page.title == "About" %}
