@@ -1,5 +1,6 @@
 ---
 name: Digital Archive of Japan’s 2011 Disasters
+redirect: https://mlml.io/p/digital-archive-of-japans-2011-disasters
 layout: project
 type: project
 year: 2011

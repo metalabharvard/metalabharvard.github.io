@@ -1,5 +1,6 @@
 ---
 name: "Overflow: Inexplicable Parts of the Intimate"
+redirect: https://mlml.io/e/overflow
 layout: project
 type: event
 year: 2019

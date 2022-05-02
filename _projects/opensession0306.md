@@ -1,5 +1,6 @@
 ---
 name: "Open Session: Alterspace"
+redirect: https://mlml.io/e/open-session-alterspace
 layout: project
 type: event
 year: 2019

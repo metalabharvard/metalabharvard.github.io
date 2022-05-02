@@ -1,5 +1,6 @@
 ---
 name: Curarium
+redirect: https://mlml.io/p/curarium
 layout: project
 type: project
 year: 2016

@@ -1,5 +1,6 @@
 ---
 name: "MozFest"
+redirect: https://mlml.io/e/moz-fest
 layout: project
 type: event
 year: 2018

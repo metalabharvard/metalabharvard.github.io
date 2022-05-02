@@ -1,5 +1,6 @@
 ---
 name: Sherlock
+redirect: https://mlml.io/e/sherlock
 layout: project
 type: event
 year: 2017

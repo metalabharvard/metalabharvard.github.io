@@ -1,5 +1,6 @@
 ---
 name: Dialogues with Data [at] Infovis
+redirect: https://mlml.io/e/dialogues-with-data-at-infovis
 layout: project
 type: event
 year: 2017

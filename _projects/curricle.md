@@ -1,5 +1,6 @@
 ---
 name: Curricle
+redirect: https://mlml.io/p/curricle
 layout: project
 type: project
 year: 2019

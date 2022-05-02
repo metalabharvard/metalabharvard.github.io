@@ -1,5 +1,6 @@
 ---
 name: "FUTUREFOOD II: KNOTWEED"
+redirect: https://mlml.io/e/futurefood-ii/
 layout: project
 type: event
 year: 2019

@@ -1,5 +1,6 @@
 ---
 name: Teaching with Things
+redirect: https://mlml.io/p/teaching-with-things
 layout: project
 type: project
 year: 2012

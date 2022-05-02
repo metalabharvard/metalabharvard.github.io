@@ -1,5 +1,6 @@
 ---
 name: Blueprint for Counter Education&#58; Expanded Reprint
+redirect: https://mlml.io/p/blueprint-for-counter-education
 layout: project
 type: publication
 year: 2016

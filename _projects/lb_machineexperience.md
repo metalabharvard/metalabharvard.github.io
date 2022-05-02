@@ -1,5 +1,6 @@
 ---
 name: MACHINE EXPERIENCE
+redirect: https://mlml.io/e/machine-experience
 layout: project
 type: event
 year: 2017

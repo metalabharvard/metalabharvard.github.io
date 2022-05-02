@@ -1,5 +1,6 @@
 ---
 name: "The Cyberlaw Guide to Protest Art"
+redirect: https://mlml.io/p/the-cyberlaw-guide-to-protest-art
 layout: project
 type: project
 year: 2018

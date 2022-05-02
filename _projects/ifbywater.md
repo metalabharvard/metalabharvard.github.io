@@ -1,5 +1,6 @@
 ---
 name: If By Water [at] re:publica 17
+redirect: https://mlml.io/e/if-by-water-at-re-publica-17
 layout: project
 type: event
 year: 2017

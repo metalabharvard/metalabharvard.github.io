@@ -1,5 +1,6 @@
 ---
 name: "Second Look: Gender and Sentiment on Show"
+redirect: https://mlml.io/p/second-look/
 layout: project
 type: project 
 year: 2021

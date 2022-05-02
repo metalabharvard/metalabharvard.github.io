@@ -1,5 +1,6 @@
 ---
 name: Blueprint for Counter Education website
+redirect: https://mlml.io/p/blueprint-for-counter-education-website
 layout: project
 type: project
 year: 2016

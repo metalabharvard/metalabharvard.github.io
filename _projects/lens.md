@@ -1,5 +1,6 @@
 ---
 name: Curricle Lens
+redirect: https://mlml.io/p/curricle-lens
 layout: project
 type: publication
 year: 2020

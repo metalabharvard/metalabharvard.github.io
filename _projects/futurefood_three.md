@@ -1,5 +1,6 @@
 ---
 name: "FUTUREFOOD III: HONEY"
+redirect: https://mlml.io/e/futurefood-iii/
 layout: project
 type: event
 year: 2019

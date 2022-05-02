@@ -1,5 +1,6 @@
 ---
 name: "Is A.I Laughing at us?"
+redirect: https://mlml.io/e/is-a-i-laughing-at-us
 layout: project
 type: event
 year: 2019

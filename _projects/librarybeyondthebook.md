@@ -1,5 +1,6 @@
 ---
 name: The Library Beyond the Book
+redirect: https://mlml.io/p/the-library-beyond-the-book
 layout: project
 type: publication
 year: 2014

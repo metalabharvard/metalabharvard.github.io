@@ -1,5 +1,6 @@
 ---
 name: Light Prop
+redirect: https://mlml.io/p/light-prop
 layout: project
 type: project
 year: 2016

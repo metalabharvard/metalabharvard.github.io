@@ -1,5 +1,6 @@
 ---
-name: "POSTPONED: Site Unscene: Medial Ideology and the Literary Interface" 
+name: "POSTPONED: Site Unscene: Medial Ideology and the Literary Interface"
+redirect: https://mlml.io/e/site-unscene/
 layout: project
 type: event
 year: 2020

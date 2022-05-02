@@ -1,5 +1,6 @@
 ---
 name: Hypercam
+redirect: https://mlml.io/p/hypercam
 layout: project
 type: project
 year: 2020

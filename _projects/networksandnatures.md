@@ -1,5 +1,6 @@
 ---
 name: Networks and Natures
+redirect: https://mlml.io/p/networks-and-natures
 layout: project
 type: project
 year: 2018

@@ -1,5 +1,6 @@
 ---
 name: MACHINE EXPERIENCE II
+redirect: https://mlml.io/e/machine-experience-ii
 layout: project
 type: event
 year: 2018

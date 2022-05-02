@@ -1,5 +1,6 @@
 ---
 name: "MAHINDRA TRANSMEDIA ARTS SEMINAR: Magda Romanska, Transmedia Dramaturgy of Pre- and Post-Pandemic Theatre"
+redirect: https://mlml.io/e/transmedia-arts-seminar
 layout: project
 type: event
 year: 2020

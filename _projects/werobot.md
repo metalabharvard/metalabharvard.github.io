@@ -1,5 +1,6 @@
 ---
 name: "Moral Labyrinth at WeRobot Miami"
+redirect: https://mlml.io/e/moral-labyrinth-at-we-robot-miami
 layout: project
 type: event
 year: 2019

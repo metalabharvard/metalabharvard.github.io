@@ -1,5 +1,6 @@
 ---
 name: The Presence of Secrets [at] re:publica 17
+redirect: https://mlml.io/e/the-presence-of-secrets-at-re-publica-17
 layout: project
 type: event
 year: 2017

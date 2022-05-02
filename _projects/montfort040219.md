@@ -1,5 +1,6 @@
 ---
 name: 'The Truelist, Autopia, and Untitled [You] as Computing and Poetry'
+redirect: https://mlml.io/e/the-truelist-autopia-and-untitled-you-as-computing-and-poetry
 layout: project
 type: event
 year: 2019

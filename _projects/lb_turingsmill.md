@@ -1,5 +1,6 @@
 ---
 name: Turing&#39;s Mill
+redirect: https://mlml.io/p/turing-39-s-mill
 layout: project
 type: project
 year: 2017

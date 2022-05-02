@@ -1,5 +1,6 @@
 ---
 name: "AI, Big Ideas, & Shiny Objects: SXSW"
+redirect: https://mlml.io/e/ai-big-ideas-and-shiny-objects/
 layout: project
 type: event
 year: 2019

@@ -1,5 +1,6 @@
 ---
 name: "Womanhouse (a memory theater)"
+redirect: https://mlml.io/p/womanhouse-a-memory-theater
 layout: project
 type: project
 year: 2019

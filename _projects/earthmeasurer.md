@@ -1,5 +1,6 @@
 ---
 name: Networks &#43; Natures&#58; Earth Measurer
+redirect: https://mlml.io/p/earth-measurer-networks-natures
 layout: project
 type: project
 year: 2018

@@ -1,5 +1,6 @@
 ---
 name: Nobody&#8217;s Listening
+redirect: https://mlml.io/p/nobody-8217-s-listening
 layout: project
 type: project
 year: 2017

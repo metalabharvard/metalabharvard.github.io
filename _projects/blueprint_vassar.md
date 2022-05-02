@@ -1,5 +1,6 @@
 ---
 name: Blueprint for Counter Education at Vassar
+redirect: https://mlml.io/e/blueprint-for-counter-education-at-vassar
 layout: project
 type: event
 year: 2017

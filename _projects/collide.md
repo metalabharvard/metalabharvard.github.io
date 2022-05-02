@@ -1,5 +1,6 @@
 ---
 name: "The Future of Science Museums: Michael John Gorman in conversation with Jeffrey Schnapp"
+redirect: https://mlml.io/e/idea-colliders
 layout: project
 type: event
 year: 2020

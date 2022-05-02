@@ -1,5 +1,6 @@
 ---
 name: Graphesis&#58; Visual Forms of Knowledge Production
+redirect: https://mlml.io/p/graphesis
 layout: project
 type: publication
 year: 2014
@@ -34,7 +35,6 @@ media:
     image: img1.jpg
     id: 01
 
-links:
 links:
   - link1: 
     title: Johanna Drucker

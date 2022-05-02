@@ -1,5 +1,6 @@
 ---
 name: Beautiful Data&#58; Publications
+redirect: https://mlml.io/p/beautiful-data
 layout: project
 type: publication
 year: 2015
@@ -40,7 +41,6 @@ media:
     image: img3.gif
     id: 03
 
-links:
 links:
   - link1: 
     title: Beautiful Data I

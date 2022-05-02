@@ -1,5 +1,6 @@
 ---
 name: Their Names
+redirect: https://mlml.io/p/their-names
 layout: project
 type: project 
 year: 2020

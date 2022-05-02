@@ -1,5 +1,6 @@
 ---
 name: The Military&#45;Entertainment Complex
+redirect: https://mlml.io/p/the-military-45-entertainment-complex
 layout: project
 type: publication
 year: 2018

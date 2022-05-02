@@ -1,5 +1,6 @@
 ---
 name: "Ars Electronica: Error – The Art of Imperfection"
+redirect: https://mlml.io/e/ars-electronica/
 layout: project
 type: event
 year: 2018

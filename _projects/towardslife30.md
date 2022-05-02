@@ -1,5 +1,6 @@
 ---
 name: "Navigating the Moral Labyrinth: Intersections of Philosophy, AI, and Art"
+redirect: https://mlml.io/e/moral-labyrinth
 layout: project
 type: event
 year: 2019

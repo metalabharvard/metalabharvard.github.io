@@ -1,5 +1,6 @@
 ---
 name: AI Art &#38; Design Workshop
+redirect: https://mlml.io/e/ai-art-38-design-workshop
 layout: project
 type: event
 year: 2017

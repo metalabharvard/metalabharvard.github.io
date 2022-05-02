@@ -1,5 +1,6 @@
 ---
 name: "futureStage"
+redirect: https://mlml.io/p/futurestage
 layout: project
 type: project
 year: 2021

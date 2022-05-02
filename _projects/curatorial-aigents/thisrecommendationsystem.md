@@ -1,5 +1,6 @@
 ---
 name: This Recommendation System is Broken
+redirect: https://mlml.io/p/this-recommendation-system-is-broken
 layout: project
 type: project 
 year: 2021

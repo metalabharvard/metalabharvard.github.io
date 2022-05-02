@@ -1,5 +1,6 @@
 ---
 name: Book a Nook
+redirect: https://mlml.io/p/book-a-nook
 layout: project
 type: project
 year: 2016

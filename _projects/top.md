@@ -1,5 +1,6 @@
 ---
 name: "The Opportunity Project (at) Harvard"
+redirect: https://mlml.io/p/top-at-harvard
 layout: project
 type: project
 year: 2021

@@ -1,5 +1,6 @@
 ---
 name: "AI + Art at metaLAB"
+redirect: https://mlml.io/p/ai-art-at-meta-lab
 layout: project
 type: project
 year: 2019

@@ -1,5 +1,6 @@
 ---
 name: Moral Labyrinth
+redirect: https://mlml.io/p/moral-labyrinth
 layout: project
 type: project
 year: 2019

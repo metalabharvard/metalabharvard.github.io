@@ -1,5 +1,6 @@
 ---
 name: Nobody&#8217;s Listening [at] Fear and Loathing of the Online Self
+redirect: https://mlml.io/e/nobody-8217-s-listening-at-fear-and-loathing-of-the-online-self
 layout: project
 type: event
 year: 2017

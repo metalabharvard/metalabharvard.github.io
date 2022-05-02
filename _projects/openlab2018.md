@@ -1,5 +1,6 @@
 ---
 name: "metaLAB + friends openLAB"
+redirect: https://mlml.io/e/meta-lab-friends-open-lab
 layout: project
 type: event
 year: 2018

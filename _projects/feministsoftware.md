@@ -1,5 +1,6 @@
 ---
 name: Feminist in a Software Lab&#58; Difference &#43; Design
+redirect: https://mlml.io/p/feminist-in-a-software-lab
 layout: project
 type: publication
 year: 2018

@@ -1,5 +1,6 @@
 ---
 name: "Digital Cultures – Hybrid Matter"
+redirect: https://mlml.io/e/digital-cultures-hybrid-matter
 layout: project
 type: event
 year: 2018

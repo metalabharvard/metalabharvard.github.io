@@ -1,5 +1,6 @@
 ---
 name: Light Box
+redirect: https://mlml.io/p/light-box
 layout: project
 type: project
 year: 2016

@@ -1,5 +1,6 @@
 ---
 name: Robots In and Out of Buildings
+redirect: https://mlml.io/e/robots-in-and-out-of-buildings/
 layout: project
 type: teaching
 year: 2017

@@ -1,5 +1,6 @@
 ---
 name: Book Biography Machine
+redirect: https://mlml.io/p/book-biography-machine
 layout: project
 type: project
 year: 2015

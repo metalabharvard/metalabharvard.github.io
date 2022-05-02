@@ -1,5 +1,6 @@
 ---
 name: "CURATORIAL A(I)GENTS at ARS ELECTRONICA 2020"
+redirect: https://mlml.io/e/curatorial-a-i-gents-at-ars-electronica-2020
 layout: project
 type: event
 year: 2020

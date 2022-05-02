@@ -1,5 +1,6 @@
 ---
 name: Watching Machines Loving Grace
+redirect: https://mlml.io/p/watching-machines-loving-grace/
 layout: project
 type: project 
 year: 2021

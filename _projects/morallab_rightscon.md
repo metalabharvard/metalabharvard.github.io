@@ -1,5 +1,6 @@
 ---
 name: "Where will your values take AI? Co-designing a Moral Labyrinth"
+redirect: https://mlml.io/e/moral-labyrinth
 layout: project
 type: event
 year: 2019

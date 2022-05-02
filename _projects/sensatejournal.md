@@ -1,5 +1,6 @@
 ---
 name: Sensate Journal
+redirect: https://mlml.io/p/sensate-journal
 layout: project
 type: project
 year: 2012

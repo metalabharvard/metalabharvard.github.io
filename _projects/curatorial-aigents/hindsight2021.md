@@ -1,5 +1,6 @@
 ---
-name: "Hindsight 20/21"
+name: "Hindsight 20/21"+
+redirect: https://mlml.io/p/hindsight-20-21/
 layout: project
 type: project 
 year: 2021

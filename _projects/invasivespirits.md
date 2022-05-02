@@ -1,5 +1,6 @@
 ---
 name: Networks &#43; Natures&#58; Invasive Spirits
+redirect: https://mlml.io/p/invasive-spirits
 layout: project
 type: project
 year: 2018

@@ -1,5 +1,6 @@
 ---
 name: "Open Session: Artifacts in Space"
+redirect: https://mlml.io/e/open-session-artifacts-in-space
 layout: project
 type: event
 year: 2019

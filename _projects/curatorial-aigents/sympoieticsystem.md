@@ -1,5 +1,6 @@
 ---
 name: Sympoietic System
+redirect: https://mlml.io/p/sympoietic-system/
 layout: project
 type: project 
 year: 2021

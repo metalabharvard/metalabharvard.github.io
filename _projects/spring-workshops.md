@@ -1,5 +1,6 @@
 ---
 name: "2021 Virtual Creative Spring Workshops"
+redirect: https://mlml.io/e/2021-virtual-creative-spring-workshops
 layout: project
 type: event
 year: 2021

@@ -1,5 +1,6 @@
 ---
 name: "Earth Measurer: Regenerating Algorithms"
+redirect: https://mlml.io/e/earth-measurer/
 layout: project
 type: event
 year: 2019

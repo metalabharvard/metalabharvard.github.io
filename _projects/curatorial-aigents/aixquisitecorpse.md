@@ -1,5 +1,6 @@
 ---
 name: "AIxquisite Corpse"
+redirect: https://mlml.io/p/a-ixquisite-corpse/
 layout: project
 type: project 
 year: 2021

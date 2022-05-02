@@ -1,5 +1,6 @@
 ---
 name: "Where Art Might Happen: The Early Years of CalArts"
+redirect: https://mlml.io/p/womanhouse-kunsthaus-graz/
 layout: project
 type: project
 year: 2020

@@ -1,5 +1,6 @@
 ---
 name: "Mahindra Seminar: The Future of Transmedia Performance"
+redirect: https://mlml.io/e/panel-the-future-of-transmedia-performance/
 layout: project
 type: event
 year: 2020

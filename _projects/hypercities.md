@@ -1,5 +1,6 @@
 ---
 name: HyperCities&#58; Thick Mapping in the Digital Humanities
+redirect: https://mlml.io/p/hyper-cities
 layout: project
 type: publication
 year: 2014

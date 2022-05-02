@@ -1,5 +1,6 @@
 ---
 name: "The Laughing Room"
+redirect: https://mlml.io/e/the-laughing-room
 layout: project
 type: event
 year: 2018

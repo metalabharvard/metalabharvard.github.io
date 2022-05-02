@@ -1,5 +1,6 @@
 ---
 name: "Distinction Machine"
+redirect: https://mlml.io/p/distinction-machine
 layout: project
 type: project
 year: 2019

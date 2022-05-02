@@ -1,5 +1,6 @@
 ---
 name: "Ocean Amplification"
+redirect: https://mlml.io/p/ocean-amplification/
 layout: project
 type: project 
 year: 2021

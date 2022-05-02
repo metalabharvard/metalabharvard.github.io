@@ -1,5 +1,6 @@
 ---
 name: "Tacit Knowledge: Post Studio/Feminism – CalArts 1970-1977"
+redirect: https://mlml.io/p/tacit-knowledge
 layout: project
 type: publication
 year: 2019

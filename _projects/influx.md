@@ -1,5 +1,6 @@
 ---
 name: In Flux  Browsing the Collections
+redirect: https://mlml.io/e/in-flux-browsing-the-collections
 layout: project
 type: event
 year: 2017

@@ -1,5 +1,6 @@
 ---
 name: "2018 LITA Library Technology Forum"
+redirect: https://mlml.io/e/2018-lita-library-technology-forum
 layout: project
 type: event
 year: 2018

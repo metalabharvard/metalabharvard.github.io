@@ -1,5 +1,6 @@
 ---
 name: "Passports: Knowledge Design Workshop"
+redirect: https://mlml.io/e/passports
 layout: project
 type: event
 year: 2018

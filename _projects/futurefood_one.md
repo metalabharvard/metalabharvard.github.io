@@ -1,5 +1,6 @@
 ---
 name: "FUTUREFOOD I: KVASS"
+redirect: https://mlml.io/e/futurefood-i/
 layout: project
 type: event
 year: 2019

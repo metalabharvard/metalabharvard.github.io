@@ -1,5 +1,6 @@
 ---
 name: "From Sea to Seen: a metaLAB conversation with A. Kendra Greene"
+redirect: https://mlml.io/e/from-sea-to-seen/
 layout: project
 type: event
 year: 2020

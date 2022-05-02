@@ -1,5 +1,6 @@
 ---
 name: "EVERY BODY: a conversation with SARA HENDREN & ELIZABETH GUFFEY"
+redirect: https://mlml.io/e/every-body
 layout: project
 type: event
 year: 2020

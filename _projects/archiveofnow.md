@@ -1,5 +1,6 @@
 ---
 name: "The Archive of Now"
+redirect: https://mlml.io/p/the-archive-of-now
 layout: project
 type: project
 year: 2019

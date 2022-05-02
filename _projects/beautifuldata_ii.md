@@ -1,5 +1,6 @@
 ---
 name: Beautiful Data II
+redirect: https://mlml.io/p/beautiful-data
 layout: project
 type: teaching
 year: 2015

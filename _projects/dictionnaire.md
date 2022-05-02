@@ -1,5 +1,6 @@
 ---
 name: Dictionnaire Apollinaire
+redirect: https://mlml.io/p/dictionnaire-apollinaire
 layout: project
 type: project
 year: 2016

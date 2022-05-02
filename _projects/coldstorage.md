@@ -1,5 +1,6 @@
 ---
 name: Cold Storage
+redirect: https://mlml.io/p/cold-storage
 layout: project
 type: project
 year: 2015

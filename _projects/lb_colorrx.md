@@ -1,5 +1,6 @@
 ---
 name: Color Rx
+redirect: https://mlml.io/e/color-rx
 layout: project
 type: event
 year: 2017

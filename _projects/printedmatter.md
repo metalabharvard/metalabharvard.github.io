@@ -1,5 +1,6 @@
 ---
 name: "Printed Matter: exploring metaLAB publications"
+redirect: https://mlml.io/e/printed-matter/
 layout: project
 type: event
 year: 2021

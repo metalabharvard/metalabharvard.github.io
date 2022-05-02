@@ -1,5 +1,6 @@
 ---
 name: Zeega
+redirect: https://mlml.io/p/zeega
 layout: project
 type: project
 year: 2014

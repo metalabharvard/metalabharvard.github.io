@@ -1,5 +1,6 @@
 ---
 name: "Alterspace at Cambridge Public Library"
+redirect: https://mlml.io/e/alterspace-at-cambridge-public-library
 layout: project
 type: event
 year: 2019

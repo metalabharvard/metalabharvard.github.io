@@ -1,5 +1,6 @@
 ---
 name: Deep Learning in the Museum
+redirect: https://mlml.io/p/deep-learning-in-the-museum
 layout: project
 type: project
 year: 2019

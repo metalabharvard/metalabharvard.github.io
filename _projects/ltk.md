@@ -1,5 +1,6 @@
 ---
 name: Library Test Kitchen
+redirect: https://mlml.io/p/library-test-kitchen-cookbook
 layout: project
 type: teaching
 year: 2016

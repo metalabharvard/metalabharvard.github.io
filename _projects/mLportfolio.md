@@ -1,5 +1,6 @@
 ---
 name: "metaLAB Portfolio: Projects and Provocations, 2011–2019"
+redirect: https://mlml.io/p/meta-lab-portfolio
 layout: project
 type: publication
 year: 2019

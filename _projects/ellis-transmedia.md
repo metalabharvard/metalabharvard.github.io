@@ -1,5 +1,6 @@
 ---
 name: "MAHINDRA TRANSMEDIA ARTS SEMINAR: Sarah Ellis: Transmedia, Technology, and the Future of Theatre"
+redirect: https://mlml.io/e/transmedia-arts-seminar
 layout: project
 type: event
 year: 2021

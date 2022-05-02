@@ -1,5 +1,6 @@
 ---
 name: "Dear Loneliness"
+redirect: https://mlml.io/p/dear-loneliness
 layout: project
 type: project
 year: 2020

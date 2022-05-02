@@ -1,5 +1,6 @@
 ---
 name: Curatorial A(i)gents
+redirect: https://mlml.io/p/curatorial-aigents
 layout: project
 type: project 
 year: 2021

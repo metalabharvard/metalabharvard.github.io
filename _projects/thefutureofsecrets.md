@@ -1,5 +1,6 @@
 ---
 name: The Future of Secrets
+redirect: https://mlml.io/p/the-future-of-secrets
 layout: project
 type: project
 year: 2018

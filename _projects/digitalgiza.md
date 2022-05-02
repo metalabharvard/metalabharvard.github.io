@@ -1,5 +1,6 @@
 ---
 name: Digital Giza&#58; Visualizing the Pyramids
+redirect: https://mlml.io/p/digital-giza
 layout: project
 type: publication
 year: 2016

@@ -1,5 +1,6 @@
 ---
 name: "Lexical Cartography of DH2020"
+redirect: https://mlml.io/p/lexical-cartography-of-dh-2020
 layout: project
 type: project
 year: 2020

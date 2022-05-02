@@ -1,5 +1,6 @@
 ---
 name: Artificial Senses
+redirect: https://mlml.io/p/artificial-senses
 layout: project
 type: project
 year: 2017

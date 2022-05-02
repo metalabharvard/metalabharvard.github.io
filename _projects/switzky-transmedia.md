@@ -1,5 +1,6 @@
 ---
 name: "MAHINDRA TRANSMEDIA ARTS SEMINAR: 'Playable Theatre': on Gaming and Aesthetic Control"
+redirect: https://mlml.io/e/playable-theatre-on-gaming-and-aesthetic-control/
 layout: project
 type: event
 year: 2021

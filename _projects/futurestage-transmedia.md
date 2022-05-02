@@ -1,5 +1,6 @@
 ---
 name: "MAHINDRA TRANSMEDIA ARTS SEMINAR: futureStage Manifesto: New Scenarios for the Performing Arts"
+redirect: https://mlml.io/e/transmedia-arts-seminar
 layout: project
 type: event
 year: 2021

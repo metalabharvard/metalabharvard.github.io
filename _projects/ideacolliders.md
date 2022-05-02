@@ -1,5 +1,6 @@
 ---
 name: "Idea Colliders: The Future of Science Museums, by Michael John Gorman"
+redirect: https://mlml.io/p/idea-colliders
 layout: project
 type: publication
 year: 2020

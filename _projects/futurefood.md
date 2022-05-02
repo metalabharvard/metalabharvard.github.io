@@ -1,5 +1,6 @@
 ---
 name: "FUTUREFOOD"
+redirect: https://mlml.io/p/futurefood
 layout: project
 type: project
 year: 2019

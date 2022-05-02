@@ -1,5 +1,6 @@
 ---
 name: Life and Death of Data
+redirect: https://mlml.io/p/life-and-death-of-data
 layout: project
 type: publication
 year: 2013

@@ -1,5 +1,6 @@
 ---
 name: "The Future of Secrets @ Northeastern School of Law"
+redirect: https://mlml.io/e/the-future-of-secrets-northeastern-school-of-law
 layout: project
 type: event
 year: 2019

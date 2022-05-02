@@ -1,5 +1,6 @@
 ---
 name: Library Test Kitchen Cookbook
+redirect: https://mlml.io/p/library-test-kitchen-cookbook
 layout: project
 type: project
 year: 2018

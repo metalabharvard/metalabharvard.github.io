@@ -1,5 +1,6 @@
 ---
 name: "MAHINDRA TRANSMEDIA ARTS SEMINAR: Jenn Parker-Starbuck, Animals in the Machine: Robotic Animal Agents"
+redirect: https://mlml.io/e/transmedia-arts-seminar
 layout: project
 type: event
 year: 2021

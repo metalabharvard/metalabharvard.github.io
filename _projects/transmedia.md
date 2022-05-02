@@ -1,5 +1,6 @@
 ---
 name: "MAHINDRA HUMANITIES CENTER: TRANSMEDIA ARTS SEMINAR"
+redirect: https://mlml.io/p/transmedia-arts-seminar
 layout: project
 type: project 
 year: 2021

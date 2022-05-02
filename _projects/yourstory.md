@@ -1,5 +1,6 @@
 ---
 name: Your Story Has Touched My Heart
+redirect: https://mlml.io/p/your-story-has-touched-my-heart
 layout: project
 type: project 
 year: 2016

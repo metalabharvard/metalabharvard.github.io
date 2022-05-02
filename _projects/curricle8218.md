@@ -1,5 +1,6 @@
 ---
 name: "Curricle Preview"
+redirect: https://mlml.io/e/curricle-preview
 layout: project
 type: event
 year: 2018

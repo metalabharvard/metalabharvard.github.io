@@ -1,5 +1,6 @@
 ---
 name: A Flitting Atlas of the Human Gaze
+redirect: https://mlml.io/p/a-flitting-atlas-of-the-human-gaze/
 layout: project
 type: project 
 year: 2021

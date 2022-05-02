@@ -1,5 +1,6 @@
 ---
 name: "Ascoltando la Corte"
+redirect: https://mlml.io/p/ascoltando-la-corte
 layout: project
 type: project
 year: 2019
