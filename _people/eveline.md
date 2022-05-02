@@ -8,7 +8,7 @@ quote:
 twitter: caissarl
 instagram: caisserl
 website: www.oeaw.ac.at/acdh/team/current-team/eveline-wandl-vogt/
-
+redirect: https://mlml.io/m/eveline-wandl-vogt
 ---
 
 Eveline Wandl-Vogt is experimentalist, foundress and senior director of one of the two first Ars Electronica Research Institutes, namely [knowledge for humanity](https://ars.electronica.art/futurelab/initiative/ars-electronica-research-institute-for-knowledge-for-humanity/) (k4h+) at [Ars Electronica](https://ars.electronica.art/news/). The research institute is an antidisciplinary approach to apply human centered design and open innovation methods and practices to contribute to invent the future.

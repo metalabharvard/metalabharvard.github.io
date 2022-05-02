@@ -7,6 +7,7 @@ row: 1
 order: 6
 instagram: linsderry
 twitter: linsderry
+redirect: https://mlml.io/m/lins-derry
 ---
 
 Lins Derry is a designer and artist working at the intersection of embodied interaction, data visualization/physicalization, and choreography. The body is often her site for investigation and intervention in the realms of design and performance. Her current work explores how choreographic interfaces can increase the kinetic and spatial interactivity between humans and technological systems. Her thesis is that by integrating choreography models into interface design, the subsequent user interactions, or body movement, can help to amplify embodied cognition in digital settings. With metaLAB, Lins researches how choreographic interfaces can be developed toward both functional and aesthetic ends, as exemplified in the lab's prototype for [Curatorial A(i)gents](https://metalabharvard.github.io/projects/curatorial-aigents/). 

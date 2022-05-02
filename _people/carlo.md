@@ -8,7 +8,7 @@ website:
 twitter: CarloFerretti19
 instagram: cfready
 email: carloferretti@materahub.com
-
+redirect: https://mlml.io/m/carlo-ferretti
 ---
 
 Graduate in Cultural Economics and Entrepreneurship at the Erasmus University of Rotterdam, Carlo Ferretti is the Research and Innovation Officer of Materahub, a European Hub for the support and development of the Cultural and Creative industries, based in the South of Italy. Here, he investigates the relation among arts, technology, and business, as well as methodologies for the development of the CCIs, as the socio-cultural impact evaluation and the data strategy for culture. In this regard, he is author of several research reports on the topic of the immaterial value of culture and arts, along with the research conducted with Materahub on the impact of Silent City, a co-creative Community Opera produced during the city of Bari's tenure as the European Capital of Culture 2019. 

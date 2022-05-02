@@ -8,7 +8,7 @@ website:  www.paolopetrocelli.com
 twitter: paolopetrocelli
 instagram: paolopetrocelli
 email: paolop@metalab.harvard.edu
-
+redirect: https://mlml.io/m/paolo-petrocelli
 ---
 
 Paolo Petrocelli, PhD-EMBA, is a senior performing arts manager, university professor, journalist, musicologist and violinist driven by the belief that culture, arts and education are a major force for growth, development and change globally.

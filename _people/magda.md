@@ -8,7 +8,7 @@ website: magdaromanska.com
 twitter: MagdaRomanska
 instagram:
 email: magdaromanska@outlook.com
-
+redirect: https://mlml.io/m/magda-romanska
 ---
 
 Magda Romanska is a writer, dramaturg and theatre, performance and media scholar. She researches issues on the intersection of theatre, media, and technology, including multiplatform dramaturgy, human/AI interaction in performance, the ethics and representation of human enhancements, and posthuman theatre and performance. 

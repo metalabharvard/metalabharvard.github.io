@@ -8,7 +8,7 @@ website: heatherkapplow.com
 twitter: hkapplow
 instagram: heather_kapplow
 email: 
-
+redirect: https://mlml.io/m/heather-kapplow
 ---
 
 Heather Kapplow (no gender pronoun preference) is a self-trained conceptual artist based in the United States. Kapplow creates participatory experiences that elicit unexpected intimacies using objects, alternative interpretations of existing environments, installation, performance, writing, audio and video. 

@@ -8,7 +8,7 @@ website: franciscoalarcon.info
 twitter: alarconbits
 instagram: franciscoalarconruiz
 email: falarcon@g.harvard.edu
-
+redirect: https://mlml.io/m/francisco-alarcon
 
 ---
 

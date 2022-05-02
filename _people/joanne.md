@@ -10,6 +10,7 @@ tools-materials:
 email: j@joannekcheung.com
 twitter: joannekcheung
 instagram: joannekcheung
+redirect: https://mlml.io/m/joanne-cheung
 ---
 Joanne K. Cheung is an artist and designer. Her current project focuses on public space and protest. She believes that in order to tackle the challenges humans face as a species, design should be practiced at the scale of individuals, communities, and cultures. To that end, Joanne creates architectural and digital experiences that foster collaboration across scales and across differences. Her work has been published in Wallpaper, New York Times Magazine, Wired, Fast Company, among others. She received her B.A. from Dartmouth College and M.F.A. from Milton Avery Graduate School of Arts at Bard College. 
 

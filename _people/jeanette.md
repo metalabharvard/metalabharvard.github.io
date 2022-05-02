@@ -8,6 +8,7 @@ website: Jeanette-Andrews.com
 twitter:
 instagram: JeanetteAndrewsMagic 
 email: info@jeanetteandrews.com
+redirect: https://mlml.io/m/jeanette-andrews
 ---
 
 Jeanette Andrews is an artist, magician and researcher. Her practice seeks to create, and create access to wondrous things. Andrews’ work focuses on the development of interactive magic and sensory illusions via performance, sculpture, installation and audio.   

@@ -7,7 +7,7 @@ row: 2
 website: dariorodighiero.com
 twitter: dariorodighiero
 email: rodighie@mit.edu
-
+redirect: https://mlml.io/m/dario-rodighiero
 ---
 
 Dario Rodighiero is a postdoctoral associate at MIT Comparative Media Studies and a researcher at Harvard metaLAB. He combines humanities and technology by practicing design at the intersection of architecture, data visualization, social science, graphic and interaction design. The Swiss National Science Foundation is currently financing his position.

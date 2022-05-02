@@ -7,6 +7,7 @@ email: giulia_taurino@brown.edu
 website: linkedin.com/in/giulia-taurino-12811b33/en
 twitter: giulia_taurino
 row: 2
+redirect: https://mlml.io/m/giulia-taurino
 ---
 Giulia Taurino, Ph.D. is a Postdoctoral Research Fellow at The Institute for Experiential AI (Northeastern University, Khoury College of Computer Science) where she works on AI toolkits for Media Research. Her research focuses on forms of content organization on online platforms and digital archives, cultural implications of algorithmic technologies, and applications of artificial intelligence in the arts, heritage and museums sectors. 
 

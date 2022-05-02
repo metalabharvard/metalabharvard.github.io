@@ -6,6 +6,7 @@ title: Research Affiliate
 email: claire.reymond@fhnw.ch
 order: 14
 row: 1
+redirect: https://mlml.io/m/claire-reymond
 ---
 Claire is a research affiliate at metaLAB doing research on image perception in the field of art, design and psychology. Her current focus consists of analyzing interaction processes between images. She works and teaches as a senior researcher at the Academy of Art and Design FHNW in Basel, Switzerland.
 

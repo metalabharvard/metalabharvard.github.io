@@ -10,6 +10,7 @@ tools-materials:
 email: pschmitt@newschool.edu
 twitter: philippschmitt
 instagram: phlpschmt
+redirect: https://mlml.io/m/philipp-schmitt
 ---
 Philipp Schmitt (b. 1993, Germany) is an artist, designer, and researcher based in Brooklyn, NY, USA.
 

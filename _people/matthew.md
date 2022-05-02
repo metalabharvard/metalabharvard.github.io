@@ -15,6 +15,7 @@ twitter: matthewbattles
 instagram: mbattles
 order: 2
 row: 1
+redirect: https://mlml.io/m/matthew-battles
 ---
 Matthew Battles is a maker and thinker whose work merges literary, scholarly, and artistic forms of inquiry. His writing appears in such venues as *The American Scholar*, *The Atlantic*, *Harper’s Magazine*, and *The New York Times*. His most recent book, *TREE*, was published by Bloomsbury in 2017.
   
